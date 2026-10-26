@@ -1,0 +1,2002 @@
+[
+  {
+    "nr": 0,
+    "tolge": "Olgu $A = (0, 0),$ $B = (1, 2),$ $C=(3, 3)$ ja $D = (4, 0).$ Nelinurk $ABCD$ lõigatakse kaheks võrdse pindalaga osaks sirgega, mis läbib punkti $A.$ Millised on selle punkti koordinaadid, kus see sirge lõikab lõiku $\\overline{CD}$?"
+  },
+  {
+    "nr": 1,
+    "tolge": "Teades, et $x$ on selline täisarv, et $x\\sqrt{x}-5x-9\\sqrt{x}=35$, leia $x$."
+  },
+  {
+    "nr": 2,
+    "tolge": "Leia $1001$ ja $2431.$ suurim ühistegur."
+  },
+  {
+    "nr": 3,
+    "tolge": "Kui $7 - 4x = 15$, siis mis on $8x + 2$ väärtus?"
+  },
+  {
+    "nr": 4,
+    "tolge": "Leia funktsiooni\n\\[f(x) = \\sqrt{5x^2 + 2x \\sqrt{5} + 1} + x \\sqrt{5},\\]\nvähim väärtus kõigi $x$ korral, mille puhul $f(x)$ on määratud."
+  },
+  {
+    "nr": 5,
+    "tolge": "Mis on $x$ väärtus võrrandis $3x + 2 + 3(1+x) = 23$?"
+  },
+  {
+    "nr": 6,
+    "tolge": "Määra arvu $17^{13} - 17$ üheliste digit."
+  },
+  {
+    "nr": 7,
+    "tolge": "See ringjoon läbib punkte $(-1, 2)$, $(3,0)$ ja $(9,0)$. Ringjoone keskpunkt on punktis $(h,k)$. Mis on $h+k$ väärtus?"
+  },
+  {
+    "nr": 8,
+    "tolge": "Raymond sööb tavaliselt vahepalaks kümme 12-kalorist kreekerit. Mitu 20-kalorist küpsist peaks ta sööma, et tarbida sama palju kaloreid?"
+  },
+  {
+    "nr": 9,
+    "tolge": "Olgu $\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 3 \\\\ 0 \\end{pmatrix},$ $\\mathbf{b} = \\begin{pmatrix} -11 \\\\ 5 \\\\ 2 \\end{pmatrix}$ ja $\\mathbf{c} = \\begin{pmatrix} 1 + \\sqrt{5} \\\\ 4 \\\\ -5 \\end{pmatrix}.$ Leia $k$, kui vektorid $\\mathbf{a} + \\mathbf{b} + \\mathbf{c}$ ja\n\\[3 (\\mathbf{b} \\times \\mathbf{c}) - 8 (\\mathbf{c} \\times \\mathbf{a}) + k (\\mathbf{a} \\times \\mathbf{b})\\]on ortogonaalsed."
+  },
+  {
+    "nr": 10,
+    "tolge": "Kompleksarvule $4 - \\sqrt{3} + (-1 - 4 \\sqrt{3})i.$ rakendatakse $120^\\circ$ pööret päripäeva ümber koordinaatide alguspunkti. Mis on tulemuseks saadav kompleksarv?"
+  },
+  {
+    "nr": 11,
+    "tolge": "Juhuslikult valitakse positiivne arvu 45 kordne, mis on väiksem kui 1000. Kui suur on tõenäosus, et see on kahekohaline täisarv? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 12,
+    "tolge": "Avaldis $$1 + 2 + 3 - 4 + 5 + 6$$ võrdub 13-ga. Kui lisame erinevatesse kohtadesse sulud, saame seda väärtust muuta. Näiteks $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Kui me lisame ainult sulge (ega muuda liikmete järjekorda), siis milline on selle avaldise vähim võimalik väärtus? (Selle ülesande tähenduses ei saa liitmist ega lahutamist muuta korrutamiseks. Näiteks $ (1+2+3)(-4)+5+6 $ ei ole lubatud sulgude paigutus.)\n\nSisestage oma vastus ühe väärtusena."
+  },
+  {
+    "nr": 13,
+    "tolge": "Lahenda $x$ suhtes: $$\\log_2 \\frac{2x+8}{x+2} +\\log_2\\frac{x+2}{x-5}=3$$"
+  },
+  {
+    "nr": 14,
+    "tolge": "Kumpki sümbolitest $\\star$ ja $*$ tähistab tehet hulgast $\\{+,-,\\times,\\div\\}$ ning $\\frac{12\\star 2}{9*3}=4$. Mis on avaldise $\\frac{10\\star 7}{24*9}$ väärtus? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 15,
+    "tolge": "Mis on kõigi täisarvude $x$ summa, mille korral $-30 \\leq x \\leq 26$?"
+  },
+  {
+    "nr": 16,
+    "tolge": "Mis on punkti $(2,-3)$ läbiva ja tõusuga $\\frac12$ sirge $y$-telje lõikepunkti $y$-koordinaat?"
+  },
+  {
+    "nr": 17,
+    "tolge": "Kui palju on $56.78-43.6?$"
+  },
+  {
+    "nr": 18,
+    "tolge": "On olemas arvud $A$ ja $B$, mille korral  \\[\\frac A{x-1}+\\frac B{x+1}=\\frac{x+2}{x^2-1}\\]iga arvu $x\\neq\\pm1$ korral.  Leia $A-B$."
+  },
+  {
+    "nr": 19,
+    "tolge": "Arvuta summa ja sisesta oma vastus hariliku murruna:\n$$\n\\begin{array}{r r@{}c@{}l}\n& 1 &.& 11111111\\ldots \\\\\n& 0 &.& 11111111\\ldots \\\\\n& 0 &.& 01111111\\ldots \\\\\n& 0 &.& 00111111\\ldots \\\\\n& 0 &.& 00011111\\ldots \\\\\n& 0 &.& 00001111\\ldots \\\\\n& 0 &.& 00000111\\ldots \\\\\n+ &&\\vdots \\\\\n\\hline\n&&& ~~~?\n\\end{array}\n$$"
+  },
+  {
+    "nr": 20,
+    "tolge": "Leia võrrandi $|2-x|= 3$ kõigi lahendite summa."
+  },
+  {
+    "nr": 21,
+    "tolge": "Olgu $a$ ja $b$ sellised nullist erinevad reaalarvulised konstandid, et $|a| \\neq |b|.$ Leidke $x$ erinevate väärtuste arv, mis rahuldavad võrrandit\n\\[\\frac{x - a}{b} + \\frac{x - b}{a} = \\frac{b}{x - a} + \\frac{a}{x - b}.\\]"
+  },
+  {
+    "nr": 22,
+    "tolge": "Kui $A$ kahekordistada, on uus väärtus 10 võrra suurem kui $A$. Mis on $A$ väärtus?"
+  },
+  {
+    "nr": 23,
+    "tolge": "Joonisel on $AD=BD=CD$ ja $\\angle BCA = 40^\\circ.$ Kui suur on nurk $\\angle BAC?$\n\n[asy]\ndraw((0,0)--(10,0)--(8.2635,9.8481)--cycle,black+linewidth(1));\ndraw((10,0)--(20,0)--(8.2635,9.8481),black+linewidth(1));\ndraw((5,-0.5)--(5,0.5),black+linewidth(1));\ndraw((15,-0.5)--(15,0.5),black+linewidth(1));\ndraw((8.6318,4.8359)--(9.6317,5.0122),black+linewidth(1));\nlabel(\"$A$\",(8.2635,9.8481),N);\nlabel(\"$B$\",(0,0),SW);\nlabel(\"$C$\",(20,0),SE);\nlabel(\"$D$\",(10,0),S);\n[/asy]"
+  },
+  {
+    "nr": 24,
+    "tolge": "Olgu $P(x)$ kolmanda astme polünoom, mille korral\n\\begin{align*}\nP(1) &= \\log 1, \\\\\nP(2) &= \\log 2, \\\\\nP(3) &= \\log 3, \\\\\nP(4) &= \\log 4.\n\\end{align*}Siis saab väärtuse $P(5)$ esitada kujul $A \\log \\frac{B}{C},$ kus $A,$ $B$ ja $C$ on positiivsed täisarvud ning $C$ on algarv. Leia $A + B + C.$"
+  },
+  {
+    "nr": 25,
+    "tolge": "Stacyl on $d$ dollarit. Ta siseneb kaubanduskeskusesse, kus on $10$ kauplust ja loteriiputka. Kõigepealt läheb ta loteriiputkasse ja tema raha kahekordistub, seejärel läheb ta esimesse poodi ja kulutab $1024$ dollarit. Pärast seda mängib ta vaheldumisi loteriid, kus tema raha kahekordistub (Stacy võidab alati), ning läheb uude poodi ja kulutab $\\$1024$. Viimasest poest väljudes ei ole tal enam raha alles. Mis on $d$ vähim võimalik väärtus?"
+  },
+  {
+    "nr": 26,
+    "tolge": "Leia selline täisarv $n$, et $0\\leq n<398$ ja $n$ on arvu 7 multiplikatiivne pöördarv mooduli 398 järgi."
+  },
+  {
+    "nr": 27,
+    "tolge": "Alice, Bailey, Cindy ja Daniel käisid oma naabruskonnas pastapliiatseid müümas. Alice teenis $\\$25.67$, Bailey teenis $\\$17.21$, Cindy teenis $\\$39.17$ ja Daniel teenis $\\$26.32$. Pärast müüki panid nad oma raha kokku ja läksid panka, et vahetada mündid dollariteks. Mitu senti peenraha jäi neil üle pärast seda, kui nad olid vahetanud nii palju münte kupüürideks kui võimalik?"
+  },
+  {
+    "nr": 28,
+    "tolge": "Arvuta $\\begin{pmatrix} 1 & 2 \\\\ 4 & 8 \\\\ \\end{pmatrix} \\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}.$"
+  },
+  {
+    "nr": 29,
+    "tolge": "Konstantsel temperatuuril on gaasikoguse rõhk pöördvõrdeline selle ruumalaga. Mul on 3,67-liitrises anumas vesinik, mille rõhk on 4 kPa. Kui viin selle kogu samal temperatuuril 1,835-liitrisse anumasse, siis milline on uus rõhk kPa-des?"
+  },
+  {
+    "nr": 30,
+    "tolge": "Olgu $f(x)$ polünoom, mille aste on suurem kui $2$. Kui $f(1) = 2$ ja $f(2) = 3$, leia jääk $f(x)$ jagamisel $(x-1)(x-2)$-ga."
+  },
+  {
+    "nr": 31,
+    "tolge": "Rombi ümbermõõt on $68$ ühikut ja selle üks diagonaal on $30$ ühikut. Kui suur on selle pindala ruutühikutes?"
+  },
+  {
+    "nr": 32,
+    "tolge": "Mängija valib ühe arvu 1-st 4-ni. Pärast valiku tegemist veeretatakse kahte korrapärast neljatahulist (tetraeedrilist) täringut, mille tahud on nummerdatud 1-st 4-ni. Kui valitud arv on pärast veeretamist täpselt ühe täringu alumisel küljel, võidab mängija $\\$1.$ Kui valitud arv on mõlema täringu alumisel küljel, võidab mängija $\\$2.$ Kui valitud arvu ei ole kummagi täringu alumisel küljel, kaotab mängija $\\$1.$ Milline on mängija oodatav tulu dollarites ühe veeretuse kohta? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 33,
+    "tolge": "$ABCD$ on korrapärane tetraeeder (püstine kolmnurkne püramiid). Kui $M$ on lõigu $\\overline{CD}$ keskpunkt, siis millega võrdub $\\tan\\angle AMB$?"
+  },
+  {
+    "nr": 34,
+    "tolge": "Määra 54 (mod 6) jääk."
+  },
+  {
+    "nr": 35,
+    "tolge": "Krõbedate riisimaiustuste retsepti tulemusel valmib segu, mis täidab 9 × 13 tolli suuruse vormi ühe tolli sügavuselt. Kui originaalretseptist 1,5 korda suurem krõbedate riisimaiustuste segu valatakse 10 × 15 tolli suurusesse vormi, siis mitme tolli sügavuselt vorm täitub? Esita oma vastus kümnendmurruna sajandike täpsusega."
+  },
+  {
+    "nr": 36,
+    "tolge": "Alloleval joonisel on sirged $k$ ja $\\ell$ paralleelsed. Leia nurga $x$ suurus kraadides. [asy]\nsize(200);\npair A = dir(-22)*(0,0);\npair B = dir(-22)*(4,0);\npair C = dir(-22)*(4,2);\npair D = dir(-22)*(0,2);\npair F = dir(-22)*(0,1.3);\npair G = dir(-22)*(4,1.3);\n\npair X,Y;\n\nX=A;\nY=B;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=A;\nY=C;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=C;\nY=B;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=B;\nY=D;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=G;\nY=F;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nlabel(\"$\\ell$\",1.4*A-.4*B);\nlabel(\"$k$\",1.4*F-.4*G);\n\nlabel(\"$30^\\circ$\",A+(.8,-.1));\nlabel(\"$90^\\circ$\",B+(.4,.1));\nlabel(\"$x$\",C+(.32,.2));\n[/asy]"
+  },
+  {
+    "nr": 37,
+    "tolge": "Abby, Bart, Cindy ja Damon kaaluvad end paarikaupa. Abby ja Bart kaaluvad kokku 160 naela, Bart ja Cindy kaaluvad 180 naela ning Cindy ja Damon kaaluvad 200 naela. Mitu naela kaaluvad Abby ja Damon kokku?"
+  },
+  {
+    "nr": 38,
+    "tolge": "Kui hulgast $\\{1, 2, 3, 4, 5\\}$ valitakse juhuslikult ilma tagasipanekuta kaks arvu, milline on tõenäosus, et nende summa on suurem kui nende korrutis? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 39,
+    "tolge": "Kui suur on rombi ümbermõõt, mille diagonaalide pikkused on 12 ja 16 ühikut?"
+  },
+  {
+    "nr": 40,
+    "tolge": "Leia $\\left\\lceil \\sqrt[3]{-25}\\right\\rceil$."
+  },
+  {
+    "nr": 41,
+    "tolge": "Arvuta arvu $5+\\sqrt{3}$ ja selle kaaskatendi korrutis."
+  },
+  {
+    "nr": 42,
+    "tolge": "Kui on antud, et $2x - 3y = 8$ ja $4x + 3y = -2$, siis millega võrdub $x$ ja $y$ korrutis?"
+  },
+  {
+    "nr": 43,
+    "tolge": "Senati komisjonis on 5 demokraati ja 5 vabariiklast. Mitmel eristataval viisil saavad nad istuda ümber ümmarguse laua, kui mõlema erakonna kõik liikmed istuvad kõrvuti? (Kui lauda pööratakse, loetakse seda samaks istejärjestuseks.)"
+  },
+  {
+    "nr": 44,
+    "tolge": "Sul on 5 särki, 6 paari pükse ja 8 mütsi. Mitu riietekomplekti saad moodustada, mis koosnevad ühest särgist, ühest paarist pükstest ja ühest mütsist?"
+  },
+  {
+    "nr": 45,
+    "tolge": "Ruutavaldise $3x^2-24x+72$ saab esitada kujul $a(x+b)^2+c$, kus $a$, $b$ ja $c$ on konstandid. Millega võrdub $a+b+c$?"
+  },
+  {
+    "nr": 46,
+    "tolge": "Mis on joonisel $x$ väärtus? [asy]\ndraw((-4,1)--(0,0)--(4,1),linewidth(1));\ndraw((-1,-4)--(0,0)--(1,-4),linewidth(1));\ndraw((1/3,.25/3)--(1.25/3,-.75/3)--(.25/3,-1/3),linewidth(1));\ndraw((-1/3,.25/3)--(-1.25/3,-.75/3)--(-.25/3,-1/3),linewidth(1));\nlabel(\"$150^\\circ$\",(0,0),N);\nlabel(\"$x^\\circ$\",(0,-2),S);\n[/asy]"
+  },
+  {
+    "nr": 47,
+    "tolge": "Teatud ringjoonel vastab kesknurgale $75^{\\circ}$ kaar pikkusega $10\\pi$ jalga. Kui suur on selle ringjoone raadius?"
+  },
+  {
+    "nr": 48,
+    "tolge": "Olgu $z$ kompleksarv, mille korral $|z|=2$. Olgu $P$ komplekstasandi hulknurk, mille tippudeks on $z$ ja iga selline $w$, et\n\\[\\frac{1}{z+w}=\\frac{1}{z}+\\frac{1}{w}.\\]Leia hulknurga $P$ poolt piiratud ala pindala."
+  },
+  {
+    "nr": 49,
+    "tolge": "Täisnurkses kolmnurgas $ABC$ on $\\angle BAC = 90^\\circ$ ja $D$ on lõigu $\\overline{AC}$ keskpunkt. Kui $AB = 7$ ja $BC = 25$, siis millega võrdub $\\tan \\angle BDC$?"
+  },
+  {
+    "nr": 50,
+    "tolge": "Kui toidupoes on 15 erinevat sorti puuvilju ja 10 erinevat sorti supikonserve, siis mitmel viisil saab Michael valida ostmiseks 2 erinevat sorti puuvilju ja 3 erinevat sorti suppi?"
+  },
+  {
+    "nr": 51,
+    "tolge": "Rationaliseeri murru $\\displaystyle\\frac{33}{\\sqrt{33}}$ nimetaja."
+  },
+  {
+    "nr": 52,
+    "tolge": "Bakterite populatsioon kahekordistub iga nelja tunni järel. Keskpäeval on $600$ bakterit. Kui selline tempo jätkub, siis mitu bakterit on südaööl, kaksteist tundi hiljem?"
+  },
+  {
+    "nr": 53,
+    "tolge": "Olgu \\[f(x) = \\frac{1}{x + \\frac{1}{x}}\\] ja \\[g(x) = \\frac{1}{x - \\frac{1}{x}}.\\] Leia võrrandi \\[ (g(x))^2 - (f(x))^2 = \\tfrac54.\\] suurima reaalarvulise lahendi ruut."
+  },
+  {
+    "nr": 54,
+    "tolge": "Kahel koonusel on sama ruumala. Kui ühe koonuse põhja raadius on 3 korda suurem kui teisel ja selle kõrgus on 24 tolli, siis mitu tolli kõrge on teine koonus?\n\nMärkus: koonuse ruumala on $\\frac{1}{3} \\pi r^2 h,$ kus $r$ on raadius ja $h$ on kõrgus."
+  },
+  {
+    "nr": 55,
+    "tolge": "Kui $x^2 + \\frac{1}{x^2} = 7$, siis milline on $x^4 + \\frac{1}{x^4}$ väärtus?"
+  },
+  {
+    "nr": 56,
+    "tolge": "Lahenda\n\\[\\frac{(x + 7)(x - 2)}{x - 1} < 0.\\]Esita oma vastus vahemike tähistuses."
+  },
+  {
+    "nr": 57,
+    "tolge": "Olgu $f(x) = 2^x.$ Leia $\\sqrt{f(f(f(f(1))))}.$"
+  },
+  {
+    "nr": 58,
+    "tolge": "Gerry läheb igal õhtul magama kell 11 õhtul. Kuid ta ei maga väga hästi, mistõttu ta ärkab juhuslikul ajal vahemikus 1:00 kuni 3:59, kusjuures iga minut on võrdselt tõenäoline (kaasa arvatud 1:00 ja 3:59). Seejärel loeb ta oma kellal näidatud tundi ja minutit kolmekohalise arvuna, seega 2:56 oleks 256. Kui suur on tõenäosus, et see arv jaguneb 7-ga?"
+  },
+  {
+    "nr": 59,
+    "tolge": "Olgu $ABCD$ kumer nelinurk ning olgu $M$ ja $N$ vastavalt lõikude $\\overline{AC}$ ja $\\overline{BD}$ keskpunktid. Siis leidub selline konstant $k$, et\n\\[AB^2 + BC^2 + CD^2 + DA^2 = AC^2 + BD^2 + k \\cdot MN^2.\\]Leia $k.$\n\n[asy]\nunitsize(0.8 cm);\n\npair A, B, C, D, M, N;\n\nA = (0,0);\nB = (4,0.5);\nC = (5,-3);\nD = (-2,-2.5);\nM = (A + C)/2;\nN = (B + D)/2;\n\ndraw(A--B--C--D--cycle);\ndraw(A--C);\ndraw(B--D);\ndraw(M--N);\n\nlabel(\"$A$\", A, NW);\nlabel(\"$B$\", B, NE);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, SW);\ndot(\"$M$\", M, NE);\ndot(\"$N$\", N, NW);\n[/asy]"
+  },
+  {
+    "nr": 60,
+    "tolge": "Olgu $f(x) = 2x+1$ ja $g(x) = f(2x) - 3$. Kui palju on $g(g(2))$?"
+  },
+  {
+    "nr": 61,
+    "tolge": "Mis on 12-tollise ümbermõõduga ristküliku pindala maksimaalne ruuttollide arv?"
+  },
+  {
+    "nr": 62,
+    "tolge": "Olgu funktsioon $g(x)=3x+2$. Kui $g(x)=2f^{-1}(x)$ ja $f^{-1}(x)$ on funktsiooni $f(x)=ax+b$ pöördfunktsioon, leia $\\dfrac{a+b}{2}$."
+  },
+  {
+    "nr": 63,
+    "tolge": "Minu lauatennisevõistkonnas on neli korda rohkem paremakäelisi poisse kui vasakukäelisi poisse. Võistkonna vasakukäeliste õpilaste hulgas on tüdrukuid kaks korda rohkem kui poisse. Pool võistkonnas olevatest tüdrukutest on vasakukäelised. Kui võistkonnas on kokku 36 inimest, siis mitu neist on paremakäelised poisid? (Eeldame, et ükski mängija ei mängi lauatennist mõlema käega võrdselt hästi.)"
+  },
+  {
+    "nr": 64,
+    "tolge": "Leia parabooli $y = \\frac{5x^2 - 4x + 2}{4}.$ fookus."
+  },
+  {
+    "nr": 65,
+    "tolge": "Olgu $P$ kumer hulknurk komplekstasandil, mille tippudeks on võrrandi\n\\[z^7 + z^6 + z^5 + z^4 + z^3 + z^2 + z + 1 = 0.\\]\nlahendid. Hulknurga $P$ pindala saab esitada kujul $\\frac{a + b \\sqrt{c}}{d},$ kus $a,$ $b,$ $c,$ $d$ on positiivsed täisarvud, taandatud kujul.  Leia $a + b + c + d.$"
+  },
+  {
+    "nr": 66,
+    "tolge": "Korrapärane tetraeeder on nelja tahuga püramiid, millest igaüks on võrdkülgne kolmnurk.\n\nOlgu $V$ sellise korrapärase tetraeedri ruumala, mille iga serva pikkus on $1$. Mis on $V^2$ täpne väärtus?"
+  },
+  {
+    "nr": 67,
+    "tolge": "Kolm üksteist puutuvat kera raadiusega 1 toetuvad horisontaalsele tasandile. Nendele toetub kera raadiusega 2. Kui suur on kaugus tasandist suurema kera tipuni?"
+  },
+  {
+    "nr": 68,
+    "tolge": "Alloleva tabeli andmed näitavad bussiga sõitjate protsenti Central H.S. õpilaste seas läbi viidud küsitluses; igas klassis küsitleti 300 poissi ja 300 tüdrukut. Millises klassis on bussiga sõitvate poiste arv kõige lähemal $135\\%$-le bussiga sõitvate tüdrukute arvust? \\begin{tabular}{|l|c|c|}\\hline\nKlass & Poisid & Tüdrukud \\\\ \\hline\n$9^{\\mathrm{th}}$ grade & $41.1\\%$ & $39.4\\%$ \\\\ \\hline\n$10^{\\mathrm{th}}$ grade & $34.4\\%$ & $33.1\\%$ \\\\ \\hline\n$11^{\\mathrm{th}}$ grade & $20.6\\%$ & $13.8\\%$ \\\\ \\hline\n$12^{\\mathrm{th}}$ grade & $11.6\\%$ & $8.6\\%$ \\\\ \\hline\n\\end{tabular}"
+  },
+  {
+    "nr": 69,
+    "tolge": "Ringjoones, mille keskpunkt on $O$ ja diameetrid on $AC$ ning $BD$, on nurga $AOD$ suurus $54$ kraadi. Kui suur on nurk $AOB$ kraadides? [asy]\ndraw(circle((0,0),1));\nlabel(\"O\",(0,0),SE);\ndraw((-1,0)--(1,0));\ndraw((0.5877852522924731291,0.80901699437)--(-0.5877852522924731291,-0.80901699437));\nlabel(\"B\",(-1,0),W);\nlabel(\"D\",(1,0),E);\nlabel(\"A\",(0.5877852522924731291,0.80901699437),NE);\nlabel(\"C\",(-0.5877852522924731291,-0.80901699437),SW);\ndot((0,0));\ndot((-0.5877852522924731291,-0.80901699437));\ndot((0.5877852522924731291,0.80901699437));\ndot((-1,0));\ndot((1,0));\n[/asy]"
+  },
+  {
+    "nr": 70,
+    "tolge": "Teisenda punkt $( 1, -1, -6 )$ ristkoordinaatides silinderkoordinaatidesse. Esita oma vastus kujul $(r,\\theta,z),$ kus $r > 0$ ja $0 \\le \\theta < 2 \\pi.$"
+  },
+  {
+    "nr": 71,
+    "tolge": "Olgu $m$ ja $n$ sellised positiivsed täisarvud, et $m\\equiv 6\\pmod 9$ ja $n\\equiv 0\\pmod 9$. Mis on suurim täisarv, millega $mn$ kindlasti jagub?"
+  },
+  {
+    "nr": 72,
+    "tolge": "Arvuta $\\sin^{-1} (\\sin 3) + \\sin^{-1} (\\sin 4) + \\sin^{-1} (\\sin 5).$ Kõik funktsioonid on radiaanides."
+  },
+  {
+    "nr": 73,
+    "tolge": "Kui $f(x)=x^3+3x^2+3x+1$, leia $f(f^{-1}(2010))$."
+  },
+  {
+    "nr": 74,
+    "tolge": "Mis on suurim täisnurksete sisenurkade arv, mis kumeras kaheksanurgas olla võib?"
+  },
+  {
+    "nr": 75,
+    "tolge": "Punktid $A(2,5), B(6,5), C(5,2)$ ja $D(1,2)$ on rööpküliku tipud. Kui rööpkülikut nihutada 2 ühikut alla ja kolm ühikut paremale, siis millised on punkti $B$ lõpliku kujutise koordinaadid?"
+  },
+  {
+    "nr": 76,
+    "tolge": "Mitu ühikut pikk on lõik, mille otspunktid on $(1,2)$ ja $(-4,-10)$?"
+  },
+  {
+    "nr": 77,
+    "tolge": "Millise täisarvu $x$ korral kehtib $\\frac 35 < \\frac x7 < \\frac 79$?"
+  },
+  {
+    "nr": 78,
+    "tolge": "Lõigu $s_1$ otspunktid on $(3+\\sqrt{2},5)$ ja $(4,7)$. Lõigu $s_2$ otspunktid on $(6-\\sqrt{2},3)$ ja $(3,5)$. Leia selle lõigu keskpunkt, mille otspunktideks on lõikude $s_1$ ja $s_2$ keskpunktid. Esita oma vastus kujul $(a,b)$."
+  },
+  {
+    "nr": 79,
+    "tolge": "Esitatud tüvi-leht diagrammi andmeteks on kaugushüppetulemused sentimeetrites, mille Pseudo keskkooli tütarlaste võistkond saavutas tänasel treeningul. $(51|1$ tähistab $511$ sentimeetrit$.)$ Mis on nende andmete mediaani ja moodi summa?\n\n\\begin{tabular}{l|lllll}\n51& 1\\\\\n52&\\\\\n53& 2& 5\\\\\n54& 0& 2& 2& 5\\\\\n55& 0& 1& 3& 4& 7\\\\\n56& 0& 2& 5\\\\\n57& 0& 1\\\\\n\\end{tabular}"
+  },
+  {
+    "nr": 80,
+    "tolge": "Ringi raadius on 2 tolli. Kui raadiust kahekordistada, siis mitme ruuttolli võrra pindala suureneb? Avalda vastus $\\pi$ kaudu."
+  },
+  {
+    "nr": 81,
+    "tolge": "Juhuslikult valitakse arv vahemikus 1 kuni 100 (kaasa arvatud). Kui suur on tõenäosus, et see arv on täisruut?"
+  },
+  {
+    "nr": 82,
+    "tolge": "Vaatleme ristkülikut tippudega $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Mitu täisarvuliste koordinaatidega punkti asub rangelt selle ristkülikukujulise piirkonna sees?"
+  },
+  {
+    "nr": 83,
+    "tolge": "Mitu täisarvulist jagajat on arvul $7$?"
+  },
+  {
+    "nr": 84,
+    "tolge": "Mis on lühim kaugus punktist $(6, 0)$ sirgeni $y = 2x-2$? Esita vastus lihtsaimal juurkujul."
+  },
+  {
+    "nr": 85,
+    "tolge": "Olgu $a,$ $b,$ $c,$ $p,$ $q,$ ja $r$ sellised reaalarvud, et\n\\[\\begin{vmatrix} p & b & c \\\\ a & q & c \\\\ a & b & r \\end{vmatrix} = 0.\\]Eeldusel, et $a \\neq p,$ $b \\neq q,$ ja $c \\neq r,$ leidke avaldise $\\frac{p}{p - a} + \\frac{q}{q - b} + \\frac{r}{r - c}$ väärtus."
+  },
+  {
+    "nr": 86,
+    "tolge": "Krishanu ja Shaunak valivad kumbki juhuslikult ühe täisarvu vahemikus 1 kuni 10 (kaasa arvatud). Kui suur on tõenäosus, et nende arvude korrutis on suurem kui 10? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 87,
+    "tolge": "Teisipäeval ütles mustkunstnik: „Ma panin oma naise 31 päeva tagasi kaduma.“ Mis nädalapäeval pani ta oma naise kaduma?"
+  },
+  {
+    "nr": 88,
+    "tolge": "Leia avaldise\n\\[\\frac{(a^2 + b^2)^2}{a^3 b}\\]\nvähim väärtus positiivsete reaalarvude $a$ ja $b$ korral. Sisesta vastus lihtsustatud kujul $\\frac{m \\sqrt{n}}{p},$ kus $m,$ $n,$ ja $p$ on positiivsed täisarvud."
+  },
+  {
+    "nr": 89,
+    "tolge": "Mike tõmbab tavalisest 52-kaardilisest kaardipakist viis kaarti. Kui suur on tõenäosus, et ta tõmbab kaardi vähemalt kolmest mastist neljast? Esita oma vastus taandatud murruna."
+  },
+  {
+    "nr": 90,
+    "tolge": "Sirge läbib punkti $(4,365)$ ja sirge $y$-telglõige on vahemikus $1$ kuni $9$ (kaasa arvatud). Milline on selle sirge vähim võimalik tõus?"
+  },
+  {
+    "nr": 91,
+    "tolge": "Mitu võimalust on 8 inimesel ümara laua taga istuda, kui keegi Alice'ist, Bobist ja Eve'ist (kolm nendest 8 inimesest) ei soovi istuda teineteise kõrval? Kahte paigutust peetakse samaks, kui üks on teise pööre."
+  },
+  {
+    "nr": 92,
+    "tolge": "Olgu $f$ defineeritud järgmiselt:  \\[f(x) = \\left\\{\n\\begin{array}{cl}\n3-x & \\text{ if } x \\leq 3, \\\\\n-x^3+2x^2+3x & \\text{ if } x>3.\n\\end{array}\n\\right.\\]Arvuta $f^{-1}(0)+f^{-1}(6)$."
+  },
+  {
+    "nr": 93,
+    "tolge": "Kui suur on võrdhaarse täisnurkse kolmnurga pindala ruutühikutes, mille hüpotenuus on 20 ühikut?"
+  },
+  {
+    "nr": 94,
+    "tolge": "Leia $14.6+2.15$."
+  },
+  {
+    "nr": 95,
+    "tolge": "Olgu\n\\[f(x) = \\frac{-px - 3}{-qx + 3},\\]ja olgu $g(x)$ funktsiooni $f(x)$ pöördfunktsioon. Kui $(7,-22)$ asub mõlemal graafikul $y = f(x)$ ja $y = g(x),$ siis leia $p + q.$"
+  },
+  {
+    "nr": 96,
+    "tolge": "Aritmeetilise jada esimene liige on $2$. Kolmanda ja kuuenda liikme summa on $25$. Mis on neljas liige?"
+  },
+  {
+    "nr": 97,
+    "tolge": "Oletame, et $c$ ja $d$ on pöördvõrdelised. Kui $c=9$ korral $d=8$, leia $d$ väärtus, kui $c=6$."
+  },
+  {
+    "nr": 98,
+    "tolge": "Kui palju on $(1 + 2 \\cdot 3 \\cdot 4 \\cdot 5) \\div 11$?"
+  },
+  {
+    "nr": 99,
+    "tolge": "Mitu arvust $18,\\!632$ väiksemat mittenegatiivset täisarvu on kongruentsed $ 23 \\pmod {37} $?"
+  },
+  {
+    "nr": 100,
+    "tolge": "Leia $p+q$, kui on teada, et $(q+4)(p+3)-(q+2)(p+1)=44$."
+  },
+  {
+    "nr": 101,
+    "tolge": "Iga täisarv $1,$ $2,$ $3,$ $\\dots,$ $16$ on kirjutatud eraldi paberilipikule ja need lipikud on asetatud kuhja. Jillian tõmbab kuhjast juhuslikult lipikuid ilma tagasipanekuta ning jätkab tõmbamist seni, kuni kahe tema tõmmatud arvu korrutis on täisruut. Mis on maksimaalne lipikute arv, mida Jillian saab tõmmata ilma, et kahe tõmmatud arvu korrutis oleks täisruut?"
+  },
+  {
+    "nr": 102,
+    "tolge": "Kaks erinevat positiivset arvu $a$ ja $b$ erinevad kumbki oma pöördarvust $1$ võrra. Millega võrdub $a+b$?"
+  },
+  {
+    "nr": 103,
+    "tolge": "Akvaariumi ristkülikukujulise põhja mõõtmed on 100 cm korda 40 cm ja selle kõrgus on 50 cm. Akvaarium on täidetud veega 37 cm sügavuseni. Seejärel asetatakse akvaariumi kivi, mille ruumala on $1000 \\text{cm}^3$, ning see jääb täielikult vee alla. Mitu sentimeetrit tõuseb veetase? Esita oma vastus kümnendmurruna sajandike täpsusega."
+  },
+  {
+    "nr": 104,
+    "tolge": "Määra sõna CIRCLE tähtede reastamise võimaluste arv."
+  },
+  {
+    "nr": 105,
+    "tolge": "Kahe ausa, standardse kuuetahulise täringu veeretamisel, kui suur on tõenäosus saada mõlemal täringul sama number? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 106,
+    "tolge": "Ruudukujuline paberitükk murtakse üks kord kokku nii, et üks paar vastasnurki kattub. Kui paber lahti voltida, on tekkinud kaks kongruentset kolmnurka. Arvestades, et algse ruudu pindala on $49$ ruuttolli, mitu tolli on ühe sellise kolmnurga ümbermõõt? Esita oma vastus lihtsaimal juurkujul."
+  },
+  {
+    "nr": 107,
+    "tolge": "Leia võrrandi\n\\[\\frac{6 - x}{x^2 - 4} = 2 + \\frac{x}{x + 2}.\\]\nreaaljuured. Sisesta juured, eraldatuna komadega."
+  },
+  {
+    "nr": 108,
+    "tolge": "Kolmnurga kaks külge on kumbki $8$ ühiku pikkused. Kui kolmanda külje pikkus on täisarv, siis milline on selle kolmnurga suurim võimalik ümbermõõt ühikutes?"
+  },
+  {
+    "nr": 109,
+    "tolge": "Mitu ühikut on kaugus koordinaatsüsteemi alguspunktist punktini $(-8,6)$?"
+  },
+  {
+    "nr": 110,
+    "tolge": "Annville'i põhikoolis kuulub $30\\%$ matemaatikaklubi õpilastest teadusklubisse ja $80\\%$ teadusklubi õpilastest matemaatikaklubisse. Teadusklubis on 15 õpilast. Mitu õpilast on matemaatikaklubis?"
+  },
+  {
+    "nr": 111,
+    "tolge": "Mitu positiivset täisarvu $p$ on selliseid, mille korral leidub kolmnurk küljepikkustega $3p-1,$ $3p,$ ja $p^2 + 1?$"
+  },
+  {
+    "nr": 112,
+    "tolge": "Kui Wonder Woman suudab tunnis tabada 6 kurjategijat, mitu suudab ta tabada $4\\frac{1}{2}$ tunniga?"
+  },
+  {
+    "nr": 113,
+    "tolge": "Mis on arvu 100 positiivsete täisarvuliste jagajate korrutis?"
+  },
+  {
+    "nr": 114,
+    "tolge": "Krista pani pühapäeva hommikul oma uude panka 1 sendi. Esmaspäeval pani ta panka 2 senti. Teisipäeval pani ta panka 4 senti ning jätkas panka pandava rahasumma kahekordistamist iga päev kahe nädala jooksul. Mis nädalapäeval ületas rahasumma tema pangas esimest korda $\\$5$?"
+  },
+  {
+    "nr": 115,
+    "tolge": "Mitu naturaalarvu vahemikus $1$ kuni $800,$ kaasa arvatud, sisaldab numbrit $6$ vähemalt kaks korda? (Arvud $266$ ja $663$ on kaks naturaalarvu, mis sisaldavad numbrit $6$ vähemalt kaks korda, kuid $430$ või $16$ mitte.)"
+  },
+  {
+    "nr": 116,
+    "tolge": "Kolmemõõtmelises $x$-, $y$- ja $z$-telgedega koordinaatsüsteemis on $P$ punkt $xy$-tasandil asuval sirgel $y = -x + 1$ ning $Q$ on punkt $xz$-tasandil asuval sirgel $z = -2x + 1$. Arvuta $PQ$ vähim võimalik väärtus."
+  },
+  {
+    "nr": 117,
+    "tolge": "Korrapärase viisnurga $FGHIJ$ külgede pikendamisel, nagu joonisel näidatud, moodustub täht. Kui suur on nurk $A$ joonisel?\n\n[asy]\ndraw((-42.4,30.8)--(-10,30.8)--(0,63.2)--(10,30.8)--(42.4,30.8)--(16.2,11.8)--(24.9,-18.1)--(0,0)--(-24.9,-18.1)--(-16.2,11.8)--cycle,linewidth(1));\ndraw((-10,30.8)--(10,30.8)--(16.2,11.8)--(0,0)--(-16.2,11.8)--cycle,linewidth(1));\nlabel(\"$A$\",(-42.4,30.8),W);\nlabel(\"$F$\",(-10,30.8),NW);\ndot((-10,30.8));\nlabel(\"$G$\",(10,30.8),NE);\ndot((10,30.8));\nlabel(\"$H$\",(16.2,11.8),E);\ndot((16.2,11.8));\nlabel(\"$I$\",(0,0),S);\ndot((0,0));\nlabel(\"$J$\",(-16.2,11.8),WSW);\ndot((-16.2,11.8));\n[/asy]"
+  },
+  {
+    "nr": 118,
+    "tolge": "Kui $\\bold{v} = \\begin{pmatrix} 0 \\\\ -4 \\\\ 1 \\end{pmatrix}$ ja $\\bold{w} = \\begin{pmatrix} 2 \\\\ 2 \\\\ -1 \\end{pmatrix},$ arvuta $\\text{proj}_{\\bold{w}} \\bold{v}$."
+  },
+  {
+    "nr": 119,
+    "tolge": "Kui palju on $\\frac{0.\\overline{3}}{0.8\\overline{3}}$? Esita oma vastus taandatud hariliku murruna."
+  },
+  {
+    "nr": 120,
+    "tolge": "Ruutavaldise $4x^2+2x-1$ saab kirjutada kujul $a(x+b)^2+c$, kus $a$, $b$ ja $c$ on konstandid. Millega võrdub $a+b+c$?"
+  },
+  {
+    "nr": 121,
+    "tolge": "2010. aasta FIFA maailmameistrivõistluste esimene voor koosnes mitmest nelja võistkonnaga alagrupist. Igas alagrupis mängis iga võistkond kõigi teistega ühe korra. Mitu mängu igas alagrupis peeti?"
+  },
+  {
+    "nr": 122,
+    "tolge": "Patty tellis pitsa kojutoomisega. Arve oli $\\$$12.00. Patty maksab $\\$$15 ja ütleb kullerile, et ta jätaks vahetusraha jootrahaks. Mitu protsenti jootraha ta andis?"
+  },
+  {
+    "nr": 123,
+    "tolge": "Leia $(\\log_2 x)^2$, kui $\\log_2 (\\log_8 x) = \\log_8 (\\log_2 x).$"
+  },
+  {
+    "nr": 124,
+    "tolge": "Leia $x(x + 1)(x + 2)(x + 3),$ vähim väärtus kõigi reaalarvude $x.$ korral."
+  },
+  {
+    "nr": 125,
+    "tolge": "Arvuta $\\tan \\left( \\arccos \\frac{1}{3} \\right).$"
+  },
+  {
+    "nr": 126,
+    "tolge": "Osake liigub piki sirget $y = \\frac{3}{2} x - 2.$ Ajahetkel $t = 0,$ alustab see punktist $(-2,-5).$ Seejärel liigub osake nii, et selle $x$-koordinaat muutub kiirusega 4 ühikut ajaühikus. Leia osakese $y$-koordinaat funktsioonina $t.$"
+  },
+  {
+    "nr": 127,
+    "tolge": "Mitu tolli on sellise kera suurringjoone ümbermõõt, mille pindala on $196\\pi$ ruuttolli? Esita oma vastus $\\pi$ kaudu.\n\nMärkus: Ümbermõõdu mõõtmiseks võta kera pinna suurim ringjoon."
+  },
+  {
+    "nr": 128,
+    "tolge": "Arvuta $\\cos 120^\\circ$."
+  },
+  {
+    "nr": 129,
+    "tolge": "Alusel $10$ lõpeb arv $2013$ numbriga $3$. Alusel $9$ kirjutatakse see sama arv aga kujul $(2676)_{9}$ ning see lõpeb numbriga $6$. Mitme $b$ väärtuse korral lõpeb arvu $2013$ esitus alusel $b$ numbriga $3$?"
+  },
+  {
+    "nr": 130,
+    "tolge": "Kui $x$ kahekordistada ja seejärel suurendada $7$ võrra, on tulemuseks $81$. Mis on $x$ väärtus?"
+  },
+  {
+    "nr": 131,
+    "tolge": "Kolm ühikringjoont on joonestatud nii, et need puutuvad teineteist väljastpoolt, nagu on näidatud allpool. Joonestatakse sinine ringjoon, mis puutub väljastpoolt kõiki kolme ühikringjoont. Lõpuks joonestatakse kolm punast ringjoont nii, et iga punane ringjoon puutub väljastpoolt kahte ühikringjoont ja väljastpoolt sinist ringjoont. Siis saab iga punase ringjoone raadiuse lihtsustatult esitada kujul\n\\[\\frac{a - b \\sqrt{c}}{d},\\]kus $a,$ $b,$ $c$ ja $d$ on positiivsed täisarvud. Leia $a + b + c + d$.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, C, D, E, F, O;\nreal s = 2/sqrt(3) - 1, r = (9 - 4*sqrt(3))/33;\n\nA = 2/sqrt(3)*dir(150);\nB = 2/sqrt(3)*dir(30);\nC = 2/sqrt(3)*dir(270);\nO = (0,0);\nD = (r + s)*dir(330);\nE = (r + s)*dir(210);\nF = (r + s)*dir(90);\n\nfilldraw(Circle(O,s),blue);\nfilldraw(Circle(D,r),red);\nfilldraw(Circle(E,r),red);\nfilldraw(Circle(F,r),red);\ndraw(Circle(A,1));\ndraw(Circle(B,1));\ndraw(Circle(C,1));\n[/asy]"
+  },
+  {
+    "nr": 132,
+    "tolge": "Leia võrrandi $x^4 - 80x - 36 = 0.$ reaaljuurte summa."
+  },
+  {
+    "nr": 133,
+    "tolge": "Mis on vähim positiivne täisarv, mille teguriteks on 16, 15 ja 12?"
+  },
+  {
+    "nr": 134,
+    "tolge": "Kui $a$ ja $b$ on sellised positiivsed täisarvud, et $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$ ja $a<b$, siis mitu võimalikku väärtust on arvul $a$?"
+  },
+  {
+    "nr": 135,
+    "tolge": "Funktsioon on defineeritud kui $f(x) = x^2 - 3x + 4$. Millist avaldist saab kasutada $f(2x)$ kirjeldamiseks? Esita oma vastus lihtsustatud kujul $x$ kaudu."
+  },
+  {
+    "nr": 136,
+    "tolge": "Leia avaldise \\[(\\cos12^\\circ+i\\sin12^\\circ+\\cos48^\\circ+i\\sin48^\\circ)^6.\\] imaginaarosa."
+  },
+  {
+    "nr": 137,
+    "tolge": "Kui $a = 8$, siis mis on avaldise $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$ väärtus?"
+  },
+  {
+    "nr": 138,
+    "tolge": "Juustukuubik\n\\[C = \\{(x,y,z) : 0 \\le x, y, z \\le 1\\}\\]lõigatakse piki tasandeid $x = y,$ $y = z,$ ja $z = x.$ Mitu tükki tekib?"
+  },
+  {
+    "nr": 139,
+    "tolge": "Punkti $(0,0)$ peegeldatakse üle vertikaalsirge $x = 1$. Selle kujutist peegeldatakse seejärel üle sirge $y=2$. Millised on saadud punkti koordinaadid?"
+  },
+  {
+    "nr": 140,
+    "tolge": "Milline järgmistest punktidest on koordinaatide alguspunktist kõige kaugemal: $(1,4)$, $(3,5)$, $(-6,0)$, $(-4,-2)?$"
+  },
+  {
+    "nr": 141,
+    "tolge": "Sirge $\\ell$ läbib punkte $B(7,-1)$ ja $C(-1,7)$. Selle sirge võrrandi saab kirjutada kujul $y=mx+b$; arvuta $m+b$."
+  },
+  {
+    "nr": 142,
+    "tolge": "Mis on võrrandi $2x^2 + 13x + 6 = 0$ lahendite ruutude korrutis?"
+  },
+  {
+    "nr": 143,
+    "tolge": "Olgu $x$ ja $y$ sellised reaalarvud, et $x^4y^5+y^4x^5=810$ ja $x^3y^6+y^3x^6=945$. Arvuta avaldise $2x^3+(xy)^3+2y^3$ väärtus."
+  },
+  {
+    "nr": 144,
+    "tolge": "Sirge $a$ on paralleelne sirgega $b$ ja läbib punkti $(1,2)$. Sirge $b$ läbib punkti $(3,1)$ ja on risti sirgega $c$, mille võrrand on $y=-2x+3$. Leia sirge $a$ y-teljelõik."
+  },
+  {
+    "nr": 145,
+    "tolge": "Kooliaasta jooksul mängivad maleklubi 10 liiget oma harjutusmängudes kokku 900 malepartiid. Iga liige mängib iga teise liikme vastu $N$ korda. Mis on $N$ väärtus?"
+  },
+  {
+    "nr": 146,
+    "tolge": "Lahenda  \\[\\frac{3x+2}{x-1}=4\\] $x$ suhtes."
+  },
+  {
+    "nr": 147,
+    "tolge": "Positiivsete täisarvude hulgast, mis on väiksemad kui $10^8$, valitakse ühtlaselt juhuslikult üks arv. Kui on teada, et selle arvu numbrite summa on 9, siis milline on tõenäosus, et see arv on algarv?"
+  },
+  {
+    "nr": 148,
+    "tolge": "Lõigu kaks otsapunkti asuvad punktides $(1,4)$ ja $(1,10)$. Mis on selle lõigu keskpunkti koordinaatide summa?"
+  },
+  {
+    "nr": 149,
+    "tolge": "Kui suur on kolmnurka $ABC$ sisejoonestatud ringjoone raadius, kui $AB = 12, AC=14, BC=16$? Esita oma vastus lihtsaimal juurkujul."
+  },
+  {
+    "nr": 150,
+    "tolge": "Valitakse täisarv $x$, kus $10 \\leq x \\leq 99$. Kui kõik valikud on võrdtõenäolised, kui suur on tõenäosus, et vähemalt üks arvu $x$ numbritest on 7?"
+  },
+  {
+    "nr": 151,
+    "tolge": "Leia selline $2 \\times 2$ maatriks $\\mathbf{M}$, et\n\\[\\mathbf{M} \\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}\\]ja\n\\[\\mathbf{M} \\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ -7 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 152,
+    "tolge": "Kui $\\log_6 (x-y) + \\log_6 (x+y) = 2$ ja $\\log_y 5x = 2$, siis leia $x$."
+  },
+  {
+    "nr": 153,
+    "tolge": "Milline on võrdkülgse kolmnurga ühe sisenurga ja ruudu ühe sisenurga suhe? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 154,
+    "tolge": "Olgu $m$ konstant, mis ei võrdu arvudega $0$ ega $1.$ Siis on võrrandi \\[x^2 + my^2 = 4\\] graafik kahe fookusega koonuselõige. Leidke kõik $m$ väärtused, mille korral mõlemad fookused asuvad ringjoonel $x^2+y^2=16.$\n\nSisestage kõik võimalikud $m$ väärtused, eraldatuna komadega."
+  },
+  {
+    "nr": 155,
+    "tolge": "Kahe arvu summa on 25 ja nende vahe on 9. Mis on nende korrutis?"
+  },
+  {
+    "nr": 156,
+    "tolge": "Sirge $y = \\frac{-12x + 74}{5}$ on parameetritud kujul\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\mathbf{v} + t \\mathbf{d},\\]\nnii et kui $x \\le 7,$ on punkti $\\begin{pmatrix} x \\\\ y \\end{pmatrix}$ ja punkti $\\begin{pmatrix} 7 \\\\ -2 \\end{pmatrix}$ vaheline kaugus $t.$ Leia $\\mathbf{d}.$"
+  },
+  {
+    "nr": 157,
+    "tolge": "Arvuta $\\dbinom{22}{19}$."
+  },
+  {
+    "nr": 158,
+    "tolge": "Leia funktsiooni $f(x)=\\sqrt{\\sqrt{x^2-16}-3}$ määramispiirkond."
+  },
+  {
+    "nr": 159,
+    "tolge": "Kaks ringi, mille keskpunktides on osutid, on jagatud kolmeks võrdseks sektoriks, nagu joonisel näidatud. Kui mõlemat osutit keerutatakse, kui suur on tõenäosus, et kahe saadud väärtuse korrutis on negatiivne? Esita vastus hariliku murruna. [asy]\nsize(140);\nvoid spinner(picture pic=currentpicture, real rotate, int a, int b, int c)\n{\ndot(pic,(0,0),linewidth(4));\ndraw(pic, unitcircle ^^ (0,0)--dir(90+rotate) ^^ (0,0)--dir(210+rotate) ^^ (0,0)--dir(-30+rotate));\nlabel(pic, \"$\"+string(a)+\"$\",dir(30+rotate)/2,fontsize(10pt));\nlabel(pic, \"$\"+string(b)+\"$\",dir(150+rotate)/2,fontsize(10pt));\nlabel(pic, \"$\"+string(c)+\"$\",dir(-90+rotate)/2,fontsize(10pt));\n}\npicture p;\nspinner(0,-1,-3,5); spinner(p,180,2,4,-6);\ndraw((0,0)--dir(-10)/2,EndArrow(4)); draw(p,(0,0)--dir(-75)/2,EndArrow(4)); add(shift(2.5*right)*p);[/asy]"
+  },
+  {
+    "nr": 160,
+    "tolge": "Olgu $ABCD$ ühikruut. Hüperbooli fookused asuvad lõikude $\\overline{AB}$ ja $\\overline{CD}$ keskpunktides ning see läbib ruudu kõiki tippusid. Arvuta hüperbooli kahe tipu vaheline kaugus."
+  },
+  {
+    "nr": 161,
+    "tolge": "Paula investeerib 5-aastase perioodi alguses $\\$10,\\!000$ intressimääraga $10\\%$. Kui palju on tema investeering nende 5 aasta lõpus väärt, kui intressi liidetakse kvartaalselt? Esita oma vastus ümardatuna lähima sendini."
+  },
+  {
+    "nr": 162,
+    "tolge": "Punktide $(x,y)$ ja $(2,4)$ vahelise lõigu keskpunkt on $(-7,0)$. Leia $(x,y)$."
+  },
+  {
+    "nr": 163,
+    "tolge": "Neli masinakirjutajat suudavad kolme päevaga trükkida kokku 600 memot. Selle tempoga, mitu memot suudavad kolm masinakirjutajat trükkida ühe päevaga?"
+  },
+  {
+    "nr": 164,
+    "tolge": "Kui $10^{51} - 9$ kirjutatakse täisarvuna standardkujul, siis mis on selle täisarvu numbrite summa?"
+  },
+  {
+    "nr": 165,
+    "tolge": "Kui $A$ on arvu $500$ positiivsete jagajate summa, siis mis on arvu $A$ erinevate algjagajate summa?"
+  },
+  {
+    "nr": 166,
+    "tolge": "Kolm erineva nimega õpilast rivistuvad üksteise järel ritta. Kui suur on tõenäosus, et nad on eest taha tähestikulises järjekorras? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 167,
+    "tolge": "Kolmnurgas $ABC$ on $AB=\\sqrt{30}$, $AC=\\sqrt{6}$ ja $BC=\\sqrt{15}$. Leidub punkt $D$, mille korral $\\overline{AD}$ poolitab lõigu $\\overline{BC}$ ja $\\angle ADB$ on täisnurk. Leia suhte\n\\[\\dfrac{[ADB]}{[ABC]}.\\]\nväärtus. Teisisõnu arvuta kolmnurga $ADB$ pindala ja kolmnurga $ABC$ pindala suhe."
+  },
+  {
+    "nr": 168,
+    "tolge": "Koordinaattasandil olgu $F = (4,0).$ Olgu $P$ punkt ja $Q$ punkti $P$ projektsioon sirgele $x = \\frac{25}{4}.$ Punkt $P$ kirjeldab tasandil kõverat selliselt, et\n\\[\\frac{PF}{PQ} = \\frac{4}{5}\\]\nkõikide kõveral asuvate punktide $P$ korral. Leidke selle kõveraga piiratud kujundi pindala.\n\n[asy]\nunitsize(1 cm);\n\npair P, F, Q;\n\nF = (4,0);\nP = (5*Cos(60),3*Sin(60));\nQ = (25/4,3*Sin(60));\n\ndraw(F--P--Q);\ndraw((25/4,-1)--(25/4,3),dashed);\n\ndot(\"$F$\", F, S);\ndot(\"$P$\", P, W);\ndot(\"$Q$\", Q, E);\n\nlabel(\"$x = \\frac{25}{4}$\", (25/4,-1), S);\n[/asy]"
+  },
+  {
+    "nr": 169,
+    "tolge": "Nelikümmend kaheksa kongruentset rööpkülikut küljepikkustega 62 jalga ja 20 jalga on paigutatud siksakilisse mustrisse, moodustades kuusnurga $ABCDEF$, nagu joonisel näidatud. Kui suur on kuusnurga $\\allowbreak ABCDEF$ ümbermõõt?\n\n[asy]\nunitsize (0.1 cm);\n\ndraw((16,-20)--(-3,-20)--(0,0)--(-3,20)--(16,20));\ndraw((0,0)--(16,0));\ndraw((5,20)--(8,0)--(5,-20));\ndraw((13,20)--(16,0)--(13,-20));\ndot((18,0));\ndot((20,0));\ndot((22,0));\ndraw((24,0)--(50,0));\ndraw((23,20)--(47,20)--(50,0)--(47,-20)--(21,-20));\ndraw((23,20)--(26,0)--(23,-20));\ndraw((31,20)--(34,0)--(31,-20));\ndraw((39,20)--(42,0)--(39,-20));\ndraw((39,21)--(39,25));\ndraw((47,21)--(47,25));\ndraw((39,23)--(47,23));\nlabel(\"$A$\",(-3,20),NW);\nlabel(\"$B$\",(47,20),NE);\nlabel(\"$C$\",(50,0),E);\nlabel(\"$D$\",(47,-20),SE);\nlabel(\"$E$\",(-3,-20),SW);\nlabel(\"$F$\",(0,0),W);\nlabel(\"20'\",(43,23),N);\nlabel(\"62'\",(49,10),E);\n[/asy]"
+  },
+  {
+    "nr": 170,
+    "tolge": "Veeretame õiglast 6-tahulist täringut 5 korda. Kui suur on tõenäosus, et saame numbri 6 kõige rohkem kahel veeretamisel?"
+  },
+  {
+    "nr": 171,
+    "tolge": "Leia suurim viiekohaline palindroom, mis jaguneb 6-ga. (Palindroom on arv, mis on nii eestpoolt taha kui ka tagantpoolt ette lugedes ühesugune, nagu 514415 või 131.)"
+  },
+  {
+    "nr": 172,
+    "tolge": "Mis on $x$ väärtus joonisel?\n\n[asy]\n\nimport olympiad;\n\ndraw((0,0)--(sqrt(3),0)--(0,sqrt(3))--cycle);\n\ndraw((0,0)--(-3,0)--(0,sqrt(3))--cycle);\n\nlabel(\"$2\\sqrt{3}$\",(-3/2,sqrt(3)/2),NW);\n\nlabel(\"$x$\",(sqrt(3)/2,sqrt(3)/2),NE);\n\ndraw(\"$45^{\\circ}$\",(1.5,0),NW);\n\ndraw(\"$30^{\\circ}$\",(-2.45,0),NE);\n\ndraw(rightanglemark((0,sqrt(3)),(0,0),(sqrt(3),0),5));\n\n[/asy]"
+  },
+  {
+    "nr": 173,
+    "tolge": "Mitme $x$ väärtuse korral ei ole avaldis $\\frac{x-5}{x^2-9}$ määratud?"
+  },
+  {
+    "nr": 174,
+    "tolge": "Lana defineerib funktsiooni $f(x)$, mis on antud valemiga $$f(x) = x^2,$$ kuid ainult tema määratud määramispiirkonnas, mis koosneb lõplikust arvust $x$ väärtustest; kõigi muude $x$ väärtuste puhul jätab ta funktsiooni defineerimata.\n\nArvestades, et $f(x)$ muutumispiirkond on $\\{0,1,2,3,4,5,6,7,8,9\\}$, milline on maksimaalne punktide arv, mis saaks olla selle määramispiirkonnas?"
+  },
+  {
+    "nr": 175,
+    "tolge": "1992. aastal sai Itaalias osta kulbitäie gelatot 1200 liiri eest. Sama gelato oleks USA-s maksnud $\\$1.50$. Selle liiri ja dollari vahelise samaväärse vahetuskursi alusel, mitu dollarit võrduks 1,000,000 liiriga?"
+  },
+  {
+    "nr": 176,
+    "tolge": "Leia\n\\[\\sum_{n = 1}^{99} \\frac{2}{\\sqrt{n} + \\sqrt{n + 2}}\\]lihtsaimal kujul."
+  },
+  {
+    "nr": 177,
+    "tolge": "Arvuta 9997 ruut ilma kalkulaatorita."
+  },
+  {
+    "nr": 178,
+    "tolge": "Liida 313.9 arvule 12.6. Esita tulemus kümnendarvuna."
+  },
+  {
+    "nr": 179,
+    "tolge": "Kui võrrandi $x^2 + bx + b + 3 = 0$ juured on kujul $\\frac{-b \\pm \\sqrt{5}}{2}$, kus $b > 0 $, siis $b = m+\\sqrt{n}$, kus $m,n$ on positiivsed täisarvud. Leia $m + n$."
+  },
+  {
+    "nr": 180,
+    "tolge": "Ümarda $\\frac{4}{7}$ lähima kümnendikuni."
+  },
+  {
+    "nr": 181,
+    "tolge": "Arvuta $\\dbinom{12}{9}$."
+  },
+  {
+    "nr": 182,
+    "tolge": "Positiivsete täisarvude hulgast, mis on väiksemad kui või võrdsed 5-ga, valitakse teineteisest sõltumatult kaks arvu. Kui suur on tõenäosus, et nende kahe arvu summa on suurem kui nende korrutis? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 183,
+    "tolge": "Kui kaheksast veeranddollarilisest mündist koosnev virn on täpselt pool tolli kõrge, siis mitu münti on vaja ühe jala kõrguse virna saamiseks?"
+  },
+  {
+    "nr": 184,
+    "tolge": "Mis on kõigi nende positiivsete kahekohaliste täisarvude summa, mille üks number on teisest neli korda suurem?"
+  },
+  {
+    "nr": 185,
+    "tolge": "Mitu unikaalset diagonaali saab tõmmata kumeras viisnurgas?"
+  },
+  {
+    "nr": 186,
+    "tolge": "Leia kõik $x$ reaalväärtused, mille korral $$\\frac{2x^2-3x}{x^2-x} + 5x -11 = \\frac{3x^2+5x+2}{x^2-1}.$$Sisesta kõik lahendid, eraldatuna komadega."
+  },
+  {
+    "nr": 187,
+    "tolge": "Leia korrutis $6_8 \\cdot 7_8.$ Esita oma vastus alusel $8.$"
+  },
+  {
+    "nr": 188,
+    "tolge": "Šokolaadipoes maksab klassikaline šokolaadifadž 10 dollarit nael. Anna ostab $\\frac{7}{9}$ naela seda fadži. Kassa ümardab summa lähima sendini ehk sajandiku dollarini. Mitu dollarit maksab Anna oma fadži eest?"
+  },
+  {
+    "nr": 189,
+    "tolge": "Leia võrrandi $2x^2+4x-1=0$ lahendite ruutude summa."
+  },
+  {
+    "nr": 190,
+    "tolge": "Jada $\\{a_n\\}$ on defineeritud järgmiselt: $$\na_0 = 1,a_1 = 1, \\text{ and } a_n = a_{n - 1} + \\frac {a_{n - 1}^2}{a_{n - 2}}\\text{ for }n\\ge2.\n$$Jada $\\{b_n\\}$ on defineeritud järgmiselt: $$\nb_0 = 1,b_1 = 3, \\text{ and } b_n = b_{n - 1} + \\frac {b_{n - 1}^2}{b_{n - 2}}\\text{ for }n\\ge2.$$Leia $\\frac {b_{32}}{a_{32}}$."
+  },
+  {
+    "nr": 191,
+    "tolge": "Arvuta $\\log_{\\sqrt8}(64\\sqrt{8})$."
+  },
+  {
+    "nr": 192,
+    "tolge": "Kui $\\omega^{1997} = 1$ ja $\\omega \\neq 1,$ siis arvuta\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}.\\]"
+  },
+  {
+    "nr": 193,
+    "tolge": "Ruut küljepikkusega 12 ühikut on sisse kirjutatud ringjoonesse. Mis on $K$ väärtus, kui ringi pindala on $K\\pi$ ruutühikut?"
+  },
+  {
+    "nr": 194,
+    "tolge": "Itaalias on viis turismikohta, mida Mary sooviks külastada, kuid tal on aega vaid kolme jaoks. Mitmel viisil saab ta valida külastamiseks kolm kohta (külastamise järjekord ei ole oluline)?"
+  },
+  {
+    "nr": 195,
+    "tolge": "Leia võrrandi $6t^2 + 30 = 41t$ lahendite positiivne vahe."
+  },
+  {
+    "nr": 196,
+    "tolge": "Kui 1. märts on esmaspäev, mis nädalapäev on 270 päeva hiljem?"
+  },
+  {
+    "nr": 197,
+    "tolge": "Täna on isa viis korda vanem kui tema poeg. Täpselt kolm aastat tagasi oli nende vanuste summa 30. Kui vana on poeg täna?"
+  },
+  {
+    "nr": 198,
+    "tolge": "Antud on korrapärane viisnurk $ABCDE.$ On võimalik joonestada ringjoon, mis puutub lõiku $\\overline{DC}$ punktis $D$ ja lõiku $\\overline{AB}$ punktis $A.$ Kui suur on kraadides lühema kaare $AD$ mõõt? [asy]import olympiad; import geometry; size(100); defaultpen(linewidth(0.8));\npair[] pentagon = new pair[5];\npentagon[0] = dir(36);\npentagon.cyclic=true;\nfor(int i = 1; i < 6; ++i){\n \npentagon[i] = dir(72*i + 36);\n\ndraw(pentagon[i - 1]--pentagon[i]);\n}\ndot(\"$C$\",pentagon[0],NE);\ndot(\"$D$\",pentagon[1],N);\ndot(\"$E$\",pentagon[2],W);\ndot(\"$A$\",pentagon[3],S);\ndot(\"$B$\",pentagon[4],SE);\nline x = line(pentagon[1],pentagon[1] + dir(-108));\nline x2 = line(origin,pentagon[2]);\npair ccenter = coordinates(intersectionpoint(x,x2));\ndraw(Circle(ccenter,arclength(ccenter--pentagon[1])));\n[/asy]"
+  },
+  {
+    "nr": 199,
+    "tolge": "Kui $(ax+b)(2x+3)=20x^2+44x+21$, kus $a$ ja $b$ on kaks erinevat täisarvu, mis on summa $a+b$ väärtus?"
+  },
+  {
+    "nr": 200,
+    "tolge": "Kolme puidutüki pikkused jalgades on 48, 72 ja 40. Saeveski operaator peab lõikama puidu võrdse pikkusega palkideks ilma jääkideta. Mitu jalga pikk on suurim võimalik pikkus, mida ta saab lõigata?"
+  },
+  {
+    "nr": 201,
+    "tolge": "Milline täisarv $n$ rahuldab tingimusi $0\\le n<18$ ja $$n\\equiv 142857\\pmod{18}~?$$"
+  },
+  {
+    "nr": 202,
+    "tolge": "Tehe @ on defineeritud kui $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ taandatud murduse $\\frac{p}{q}$ korral. Mis on avaldise $\\frac{7}{30}@\\frac{10}{21}$ taandatud väärtus?"
+  },
+  {
+    "nr": 203,
+    "tolge": "Mitu neljakohalist täisarvu on väiksemad kui 8000 ja suuremad kui 2000?"
+  },
+  {
+    "nr": 204,
+    "tolge": "Kui on teada, et punkt $(8,8)$ asub funktsiooni $y=\\frac 14f\\left(\\frac 12x\\right)$ graafikul, siis on olemas üks punkt, mis peab kindlasti asuma funktsiooni $y=f(x)$ graafikul. Mis on selle punkti koordinaatide summa?"
+  },
+  {
+    "nr": 205,
+    "tolge": "Mitu naturaalarvu, mis on väiksemad kui 1000, omavad täpselt kolme erinevat positiivset täisarvulist jagajat?"
+  },
+  {
+    "nr": 206,
+    "tolge": "Alpool kujutatud hüperbooli võrrandi saab kirjutada kujul\n\\[\\frac{(y - k)^2}{a^2} - \\frac{(x - h)^2}{b^2} = 1.\\]Leia $h + k + a + b.$\n\n[asy]\nunitsize(0.3 cm);\n\nreal upperhyper (real x) {\n  return (2*sqrt((x - 6)^2/16 + 1) - 5);\n}\n\nreal lowerhyper (real x) {\n  return (-2*sqrt((x - 6)^2/16 + 1) - 5);\n}\n\nint i, n = 10;\n\nfor (i = -n; i <= n; ++i) {\n  draw((i,-n)--(i,n),gray(0.7));\n  draw((-n,i)--(n,i),gray(0.7));\n}\n\ndraw((0,-n)--(0,n));\ndraw((-n,0)--(n,0));\n\ndraw(graph(upperhyper,-10,10),red);\ndraw(graph(lowerhyper,-3,10),red);\ndraw(extension((-10,-10),(10,-10),(6,-5),(6,-5) + (4,2))--extension((10,10),(10,-10),(6,-5),(6,-5) + (4,2)),dashed);\ndraw(extension((-10,-10),(-10,10),(6,-5),(6,-5) + (4,-2))--extension((10,10),(10,-10),(6,-5),(6,-5) + (4,-2)),dashed);\n\ndot((6,-5));\n[/asy]"
+  },
+  {
+    "nr": 207,
+    "tolge": "Lugupeetud komitee liikmed valisid presidenti ja iga liige andis ühe hääle ühele 27 kandidaadist. Iga kandidaadi puhul oli kandidaadi saadud häälte täpne protsent vähemalt 1 võrra väiksem kui selle kandidaadi häälte arv. Mis on komitee liikmete vähim võimalik arv?"
+  },
+  {
+    "nr": 208,
+    "tolge": "Leia avaldise $\\frac{y}{x}$ suurim väärtus reaalarvupaaride $(x,y)$ korral, mis rahuldavad võrrandit\n\\[(x - 3)^2 + (y - 3)^2 = 6.\\]"
+  },
+  {
+    "nr": 209,
+    "tolge": "Leia $A$ ja $B$ nii, et\n\\[\\frac{4x}{x^2-8x+15} = \\frac{A}{x-3} + \\frac{B}{x-5}\\]kõigi $x$ väärtuste korral, välja arvatud 3 ja 5. Esita oma vastus järjestatud paarina kujul $(A, B).$"
+  },
+  {
+    "nr": 210,
+    "tolge": "Arvuta: $32^2 - 18^2$."
+  },
+  {
+    "nr": 211,
+    "tolge": "Palindroom on arv, mis on sama nii edaspidi kui ka tagaspidi lugedes, näiteks $43234$. Mis on väikseim viiekohaline palindroom, mis jagub $11$-ga?"
+  },
+  {
+    "nr": 212,
+    "tolge": "Olgu kolmnurgas $ABC$ punktid $D,$ $E,$ $F$ vastavalt lõikude $\\overline{BC},$ $\\overline{AC},$ $\\overline{AB}$ keskpunktid. Olgu $P,$ $Q,$ $R$ vastavalt lõikude $\\overline{AD},$ $\\overline{BE},$ $\\overline{CF}$ keskpunktid. Arvuta\n\\[\\frac{AQ^2 + AR^ 2+ BP^2 + BR^2 + CP^2 + CQ^2}{AB^2 + AC^2 + BC^2}.\\]"
+  },
+  {
+    "nr": 213,
+    "tolge": "Olgu $\\mathbf{w} = \\begin{pmatrix} 1 \\\\ 0 \\\\ -3 \\end{pmatrix}.$  Vektorite $\\mathbf{v}$ hulk, mille korral\n\\[\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} = \\mathbf{0}\\]\nasub tasandil. Sisesta selle tasandi võrrand kujul\n\\[Ax + By + Cz + D = 0,\\]\nkus $A,$ $B,$ $C,$ $D$ on täisarvud selliselt, et $A > 0$ ja $\\gcd(|A|,|B|,|C|,|D|) = 1.$"
+  },
+  {
+    "nr": 214,
+    "tolge": "Allpool kujutatud ellips on määratud võrrandiga\n\\[PF_1 + PF_2 = d.\\]Leia $d.$\n\n[asy]\nunitsize(0.3 cm);\n\nint i, n = 10;\n\nfor (i = -n; i <= n; ++i) {\n  draw((i,-n)--(i,n),gray(0.7));\n  draw((-n,i)--(n,i),gray(0.7));\n}\n\ndraw((0,-n)--(0,n));\ndraw((-n,0)--(n,0));\n\ndraw(shift((-1,0))*xscale(7)*yscale(5)*Circle((0,0),1),red);\n\ndot((-1,0));\n[/asy]"
+  },
+  {
+    "nr": 215,
+    "tolge": "Mitu vertikaalasümptooti on funktsiooni $y = \\frac{1}{x^3-3x^2+3x-1}$ graafikul?"
+  },
+  {
+    "nr": 216,
+    "tolge": "Arvuta $115^2$ peast."
+  },
+  {
+    "nr": 217,
+    "tolge": "Mis on vähim positiivne arvu 30 kordne, mida saab kirjutada ainult numbrite 0 ja 2 abil?"
+  },
+  {
+    "nr": 218,
+    "tolge": "Olgu $a,$ $b,$ $c$ võrrandi $x^3 - 7x + 2 = 0$ juured. Leia\n\\[abc + ab + ac + bc + a + b + c + 1.\\]"
+  },
+  {
+    "nr": 219,
+    "tolge": "Avaldist $2z^2+13z+21$ saab esitada kujul $(z + a)(2z + b),$ kus $a$ ja $b$ on täisarvud. Millega võrdub $2a + b$?"
+  },
+  {
+    "nr": 220,
+    "tolge": "Allpool on esitatud funktsiooni $y = \\frac{p(x)}{q(x)}$ graafik, kus $p(x)$ ja $q(x)$ on ruutpolünoomid. (Eeldage, et ruudustiku jooned on täisarvudel.)\n\n[asy]\nunitsize(0.6 cm);\n\nreal func (real x) {\n  return (-(x + 5)*(x - 4)/(x - 2)^2);\n}\n\nint i;\n\nfor (i = -8; i <= 8; ++i) {\n  draw((i,-8)--(i,8),gray(0.7));\n  draw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0));\ndraw((0,-8)--(0,8));\ndraw((2,-8)--(2,8),dashed);\ndraw((-8,-1)--(8,-1),dashed);\ndraw(graph(func,-8,1.9),red);\ndraw(graph(func,2.1,8),red);\n\nlimits((-8,-8),(8,8),Crop);\n[/asy]\n\nRõhtasümptoot on $y = -1,$ ja ainus püstasümptoot on $x = 2.$ Leidke $\\frac{p(-1)}{q(-1)}.$"
+  },
+  {
+    "nr": 221,
+    "tolge": "Maatriksi $\\mathbf{M}$ jälg on defineeritud kui selle diagonaalielementide summa. Näiteks\n\\[\\operatorname{Tr} \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = a + d.\\]\nKui $\\operatorname{Tr} (\\mathbf{A}) = 2$ ja $\\operatorname{Tr} (\\mathbf{A}^2) = 30,$ leia $\\det \\mathbf{A}.$"
+  },
+  {
+    "nr": 222,
+    "tolge": "Lihtsusta\n\\[4 \\sin x \\sin (60^\\circ - x) \\sin (60^\\circ + x).\\]\nVastuseks on trigonomeetriline funktsioon muutuja $x,$ mõnest lihtsast funktsioonist, nagu \"$\\cos (2x)$\" või \"$\\sin (x^3)$\"."
+  },
+  {
+    "nr": 223,
+    "tolge": "Olgu $a, b$ ja $c$ sellised reaalarvud, et $a-7b+8c = 4$ ja $8a+4b-c = 7$. Leia $a^2 - b^2 + c^2.$"
+  },
+  {
+    "nr": 224,
+    "tolge": "Olgu  \\[f(x) =\n\\begin{cases}\nk(x) &\\text{if }x>0, \\\\\n-\\frac1{2x}&\\text{if }x< 0\\\\\n0&\\text{if }x=0.\n\\end{cases}\n\\]Leia funktsioon $k(x)$ nii, et $f(x)$ oleks iseenda pöördfunktsioon."
+  },
+  {
+    "nr": 225,
+    "tolge": "Billy laseb noole 10 jala kõrguselt maapinnast. Selle noole kõrgust saab väljendada võrrandiga $h=10-23t-10t^2$, kus $t$ on aeg sekundites alates noole laskmisest. Kui märklaua kese asub 5 jala kõrgusel maapinnast, siis mitme sekundi pärast peab nool märklauani jõudma, et Billy tabaks härjasilma?"
+  },
+  {
+    "nr": 226,
+    "tolge": "Mis on $1313$ ja $1001$ suurim ühistegur?"
+  },
+  {
+    "nr": 227,
+    "tolge": "Kui $m$ on reaalarv ja avaldisel $2x^2+mx+8$ on kaks erinevat reaalarvulist juurt, siis millised on $m$ võimalikud väärtused? Esita oma vastus intervalltähistuses."
+  },
+  {
+    "nr": 228,
+    "tolge": "Mitu erinevat kolmesammulist teed on mööda kuubi servi tipust $A$ tippu $B$? (Samm on liikumine ühest tipust sellega ühist serva jagavasse naabertippu.)\n\n[asy]\nsize(101);\nimport three;\ncurrentprojection=orthographic(1/2,-1,1/4);\ndraw((0,0,0)--(1,0,0)--(1,0,1)--(0,0,1)--(0,0,0));\ndraw((1,0,0)--(1,1,0)--(1,1,1)--(1,0,1));\ndraw((1,1,1)--(0,1,1)--(0,0,1));\nlabel(\"A\",(0,0,1),(-1,0,0)); label(\"B\",(1,1,0),(1,0,0));\n\n[/asy]"
+  },
+  {
+    "nr": 229,
+    "tolge": "Leia kõik võrrandi \\[\\frac{x^2-3}{x+2} = \\frac{2x}{x^2-4}\\] reaallahendid. Sisesta kõik lahendid, eraldatuna komadega."
+  },
+  {
+    "nr": 230,
+    "tolge": "On olemas viie positiivse täisarvu hulk, mille keskmine (aritmeetiline keskmine) on 5, mediaan on 5 ja ainus mood on 8. Mis on selle hulga suurima ja väikseima täisarvu vahe?"
+  },
+  {
+    "nr": 231,
+    "tolge": "Leia maatriks $\\mathbf{M}$, mis vahetab maatriksi read. Teisisõnu,\n\\[\\mathbf{M} \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = \\begin{pmatrix} c & d \\\\ a & b \\end{pmatrix}.\\]Kui sellist maatriksit $\\mathbf{M}$ ei eksisteeri, siis sisesta nullmaatriks."
+  },
+  {
+    "nr": 232,
+    "tolge": "Mis arv on $5\\%$ $10\\%$-st arvust 1200?"
+  },
+  {
+    "nr": 233,
+    "tolge": "Jadas $$32, 8, \\underline{\\phantom{XX}}, \\underline{\\phantom{XX}}, x,$$ on iga liige pärast teist sellele vahetult eelneva kahe liikme keskmine. Mis on $x$ väärtus?"
+  },
+  {
+    "nr": 234,
+    "tolge": "Mitu mittekongruentset täisnurkset kolmnurka on olemas, mille kõigi külgede pikkused on positiivsed täisarvud ja mille ühe kaateti (st mitte hüpotenuusi) pikkus on $162$?"
+  },
+  {
+    "nr": 235,
+    "tolge": "Teismeline on 13-, 14-, 15-, 16-, 17-, 18- või 19-aastane inimene. Teatud teismeliste rühma vanuste korrutis on 705 600. Mis on nende vanuste keskmine aastates? Esita oma vastus kümnendmurruna kümnendike täpsusega."
+  },
+  {
+    "nr": 236,
+    "tolge": "Parbool võrrandiga $y=x^2+bx+c$ läbib punkte $(2,3)$ ja $(4,3)$. Millega võrdub $c$?"
+  },
+  {
+    "nr": 237,
+    "tolge": "Igaüks Skateer Ülikooli hokimeeskonna kuuest liikmest surub kätt Iceburg Techi meeskonna kõigi kuue liikmega. Mitu käepigistust toimub?"
+  },
+  {
+    "nr": 238,
+    "tolge": "Bobil ja Alicel on kummalgi kott, milles on üks pall igast järgmisest värvist: sinine, roheline, oranž, punane ja lilla. Alice valib oma kotist juhuslikult ühe palli ja paneb selle Bobi kotti. Seejärel valib Bob oma kotist juhuslikult ühe palli ja paneb selle Alice'i kotti. Kui suur on tõenäosus, et pärast seda protsessi on kahe koti sisu sama?"
+  },
+  {
+    "nr": 239,
+    "tolge": "Mitu ühikut pikk on lõik, mille otsapunktide koordinaadid on $(-3,7)$ ja $(2,-5)$?"
+  },
+  {
+    "nr": 240,
+    "tolge": "Kava alguses seisavad marsiorkestri 105 liiget ristkülikukujulises rivistuses nimega formatsioon $A$. Seejärel liiguvad kõik orkestri liikmed formatsiooni $B$, mis on teistsugune ristkülikukujuline rivistus, milles on kuus rida rohkem, kuid igas reas kaks liiget vähem. Mitu rida on formatsioonis $A$?"
+  },
+  {
+    "nr": 241,
+    "tolge": "Olgu $ x$ selline reaalarv, et viis arvu $ \\cos(2 \\pi x)$, $ \\cos(4 \\pi x)$, $ \\cos(8 \\pi x)$, $ \\cos(16 \\pi x)$ ja $ \\cos(32 \\pi x)$ on kõik mittepositiivsed. Mis on $ x$ vähim võimalik positiivne väärtus?"
+  },
+  {
+    "nr": 242,
+    "tolge": "Püst-ringtsilindri kujulise veepaagi põhja raadius on $30$ meetrit ja ruumala $2700\\pi$ kuupmeetrit. Mitu meetrit on paagi kõrgus?"
+  },
+  {
+    "nr": 243,
+    "tolge": "Sirge $l$ on funktsiooni $y = ax + b$ graafik. Sirge $l_1$ on sirge $l$, mida on nihutatud 3 ühikut vasakule ja kaks ühikut allapoole, ning see läbib punkte $(5,8)$ ja $(7,14)$. Millega võrdub $a - b$?"
+  },
+  {
+    "nr": 244,
+    "tolge": "Rööpküliku $ABCD$ ümbermõõt on 40 ja selle kõrgused on 4 ja 7. Arvuta $\\sin A.$"
+  },
+  {
+    "nr": 245,
+    "tolge": "Olgu $\\mathbf{a} = \\begin{pmatrix} 2 \\\\ 0 \\\\ 1 \\end{pmatrix},$ $\\mathbf{b} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix}$ ja $\\mathbf{c} = \\begin{pmatrix} 4 \\\\ - 3 \\\\ 7 \\end{pmatrix}.$ Leia selline vektor $\\mathbf{v}$, et $\\mathbf{v} \\times \\mathbf{b} = \\mathbf{c} \\times \\mathbf{b}$ ja $\\mathbf{v} \\cdot \\mathbf{a} = 0.$"
+  },
+  {
+    "nr": 246,
+    "tolge": "Positiivse täisarvu $n$ korral on $n^{th}$ kolmnurkarv $T(n)=\\dfrac{n(n+1)}{2}.$\n\nNäiteks $T(3) = \\frac{3(3+1)}{2}= \\frac{3(4)}{2}=6$, seega kolmas kolmnurkarv on 6.\n\nLeia vähim täisarv $b>2011$, mille korral $T(b+1)-T(b)=T(x)$ mingi positiivse täisarvu $x$ korral."
+  },
+  {
+    "nr": 247,
+    "tolge": "Leia selliste positiivsete reaalarvude järjestatud kolmikute $(x,y,z)$ arv, mille korral\n\\[\\left( x + \\frac{1}{y} \\right) \\left( y + \\frac{1}{z} \\right) \\left( z + \\frac{1}{x} \\right) = 8.\\]"
+  },
+  {
+    "nr": 248,
+    "tolge": "Millist kujul $\\frac{A}{x + 3}$ murdu saab liita murrule $\\frac{6x}{x^2 + 2x - 3}$, nii et tulemus taanduks murruks kujul $\\frac{B}{x - 1}$? Siin on $A$ ja $B$ reaalarvud. Anna vastuseks $A$ väärtus."
+  },
+  {
+    "nr": 249,
+    "tolge": "Olgu $\\mathbf{a}$ ja $\\mathbf{b}$ kaks mittenullvektorit selliselt, et $\\mathbf{a} + \\mathbf{b}$ ja $\\mathbf{b}$ on ortogonaalsed ning $\\mathbf{a} + 2 \\mathbf{b}$ ja $\\mathbf{a}$ on ortogonaalsed. Leia $\\frac{\\|\\mathbf{a}\\|}{\\|\\mathbf{b}\\|}.$"
+  },
+  {
+    "nr": 250,
+    "tolge": "Olgu $x$ selline väärtus, et $9x^2 - 18x - 16 = 0$ ja $15x^2 + 28x + 12 = 0.$ Mis on $x$ väärtus? Esita vastus taandatud hariliku murruna."
+  },
+  {
+    "nr": 251,
+    "tolge": "Leia avaldise väärtus. $$\\frac{7+8+9}{2+3+4}\\cdot\\frac{6+9+12}{9+8+7}$$"
+  },
+  {
+    "nr": 252,
+    "tolge": "Leia täisarv $n,$ $0 \\le n \\le 180,$ mille korral $\\cos n^\\circ = \\cos 568^\\circ.$"
+  },
+  {
+    "nr": 253,
+    "tolge": "Kell $2\\!:\\!48$, mis on $12$-tunnise kella tunni- ja minutiosuti moodustatud väiksema nurga kraadimõõt?"
+  },
+  {
+    "nr": 254,
+    "tolge": "Mis on aritmeetilise jada $1 + 2 + 3 + \\cdots + 80$ summa suurim algtegur?"
+  },
+  {
+    "nr": 255,
+    "tolge": "John tahtis jagada arvu $2$-ga, kuid ta oli hooletu ja lahutas sellest hoopis $2$. Ta sai vastuseks $22$. Millise vastuse oleks ta saanud, kui ta oleks $2$ lahutamise asemel tegelikult $2$-ga jaganud?"
+  },
+  {
+    "nr": 256,
+    "tolge": "Olgu $A$ ja $B$ ühikkuubiku kaks vastastikust tippu ning olgu $C$ kuubiku mõni teine tipp peale $A$ ja $B.$ Leia kaugus punktist $C$ sirgeni $AB.$"
+  },
+  {
+    "nr": 257,
+    "tolge": "Mis on kolmnurga kolme välisnurga suuruste keskmine, kui selle kahe sisenurga suurused on 63 ja 78 kraadi?"
+  },
+  {
+    "nr": 258,
+    "tolge": "10 Caltechi tudengist koosnev grupp läheb Lake Streetile lõunat sööma. Iga tudeng sööb kas Chipotle'is või Panda Expressis. Mitmel erineval moel saavad tudengid kollektiivselt lõunale minna?"
+  },
+  {
+    "nr": 259,
+    "tolge": "Iga positiivse täisarvu $n$ korral olgu $\\text{mod}_5 (n)$ jääk, mis saadakse $n$ jagamisel 5-ga. Defineerime funktsiooni $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ rekursiivselt järgmiselt:\n\n\\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & \\text{ if } i = 0 \\text{ and } 0 \\le j \\le 4 \\text{,}\\\\ f(i-1,1) & \\text{ if } i \\ge 1 \\text{ and } j = 0 \\text{, and} \\\\ f(i-1, f(i,j-1)) & \\text{ if } i \\ge 1 \\text{ and } 1 \\le j \\le 4. \\end{cases}\\]\n\nMillega võrdub $f(2015,2)$?"
+  },
+  {
+    "nr": 260,
+    "tolge": "Allolev kujund koosneb neljast poolringist ja suurima poolringi 16 cm pikkusest diameetrist. Kui suur on kahe varjutatud piirkonna kogupindala ruutsentimeetrites? Kasuta arvu $\\pi$ ligikaudse väärtusena 3.14 ning esita vastus kümnendmurruna ümardatuna kümnendikeni.\n\n[asy]import graph;\nsize(200);\npicture p;\nreal h = .25,w = 1,textsize = 10pt,width = 1;\nfilldraw(Arc((8,0),8,0,180)--cycle,gray(.6),black+linewidth(width));\nfilldraw(Arc((6,0),6,0,180)--cycle,white,black+linewidth(width));\nfilldraw(Arc((4,0),4,0,180)--cycle,gray(.6),black+linewidth(width));\nfilldraw(Arc((2,0),2,0,180)--cycle,white,black+linewidth(width));\ndraw(p,(0,h)--(0,-h)^^(0,0)--(4,0)^^(4,h)--(4,-h),linewidth(width));\nfill(p,(w,h)--(4-w,h)--(4-w,-h)--(w,-h)--cycle,white);\nlabel(p,\"4 cm\",(2,0),fontsize(textsize));\nadd(shift(.5*down)*p);\nadd(shift(4*right)*shift(.5*down)*p);\nadd(shift(8*right)*shift(.5*down)*p);\nadd(shift(12*right)*shift(.5*down)*p);[/asy]"
+  },
+  {
+    "nr": 261,
+    "tolge": "Kui $n$ annab 7-ga jagamisel jäägiks 3, siis millise jäägi annab $2n+1$ 7-ga jagamisel?"
+  },
+  {
+    "nr": 262,
+    "tolge": "Tüdrukute kergejõustikuvõistkond peab esimesel treeningupäeval jooksma 3 miili ja igal järgneval päeval 6 miili. Poiste võistkond peab igal treeningupäeval jooksma 5 miili. Treener tellib uued odad selle päeva lõpus, kui iga tüdruku jooksu kogudistants ületab iga poisi oma. Mitu miili kokku on iga tüdruk jooksnud selleks ajaks, kui treener uue varustuse tellib?"
+  },
+  {
+    "nr": 263,
+    "tolge": "Olgu $x$, $y$ ja $z$ sellised reaalarvud, et\n\\[\\cos x + \\cos y + \\cos z = \\sin x + \\sin y + \\sin z = 0.\\]\nLeia $\\cos (2x - y - z)$ kõigi võimalike väärtuste summa."
+  },
+  {
+    "nr": 264,
+    "tolge": "Oletame, et $a$ ja $b$ on positiivsed reaalarvud, ning olgu \\[f(x) =\n\\begin{cases}\n\\frac{a}{b}x & \\text{ if }x\\le-4, \\\\\nabx^2 & \\text{ if }x>-4.\n\\end{cases}\n\\]Kui $f(-4)=-\\frac{60}{13}$ ja $f(4)=3120$, siis kui palju on $a+b$?"
+  },
+  {
+    "nr": 265,
+    "tolge": "Võrrandi $z^4+4z^3i-6z^2-4zi-i=0$ lahendid on kumerhulknurga tipud komplekstasandil. Selle hulknurga pindala saab esitada kujul $p^{a/b},$ kus $a,$ $b,$ $p$ on positiivsed täisarvud, $p$ on algarv ning $a$ ja $b$ on ühistegurita. Leia $a + b + p.$"
+  },
+  {
+    "nr": 266,
+    "tolge": "Olgu $$x={4\\over{(\\sqrt5+1)(\\root 4\\of5+1)(\\root 8\\of5+1)(\\root\n{16}\\of5+1)}}.$$Leia $(x+1)^{48}$."
+  },
+  {
+    "nr": 267,
+    "tolge": "Olgu  \\[f(x) =\n\\begin{cases}\nk(x) &\\text{if }x>2, \\\\\n2+(x-2)^2&\\text{if }x\\leq2.\n\\end{cases}\n\\]Leia selline funktsioon $k(x)$, et $f$ oleks iseenda pöördfunktsioon."
+  },
+  {
+    "nr": 268,
+    "tolge": "Kujutatud piirkonda piiravad kolm ringjoone kaart, mille raadius on 5 ühikut. Kaared $AB$ ja $AD$ on veerandringjooned ning kaar $BCD$ on poolringjoon. Kui suur on selle piirkonna pindala ruutühikutes? [asy]\n/* AMC8 2000 #19 Problem */\ndraw((0,0)..(1,1)..(2,0));\ndraw((0,0)..(.7,-.3)..(1,-1));\ndraw((1,-1)..(1.3, -0.3)..(2,0));\nlabel(\"$A$\", (1,-1), SW);\nlabel(\"$B$\", (0,0), W);\nlabel(\"$C$\", (1,1),N);\nlabel(\"$D$\", (2,0),E);\n[/asy]"
+  },
+  {
+    "nr": 269,
+    "tolge": "Benjamin üritab koodlukku muukida. Seda tüüpi lukul on 5 numbrit vahemikus 0 kuni 9 ning Benjamin juhtumisi teab, et selle lukutüübi koodis ei tohi numbrid korduda. Mitu kehtivat koodi on olemas?"
+  },
+  {
+    "nr": 270,
+    "tolge": "Olgu\n\\[\\sum_{n = 0}^{123456789} \\frac{3n^2 + 9n + 7}{(n^2 + 3n + 2)^3} = \\frac{a}{b},\\]kus $a$ ja $b$ on ühisteguriteta positiivsed täisarvud.  Leia $b - a.$"
+  },
+  {
+    "nr": 271,
+    "tolge": "Leia avaldise väärtus:\n\\[8\\cos^210^\\circ - \\dfrac{1}{\\sin 10^\\circ}.\\]"
+  },
+  {
+    "nr": 272,
+    "tolge": "Kui $\\frac{a}{b}$ on tõenäosus, et juhuslikult valitud arvust 2010 väiksema positiivse paaritu täisarvu pöördarv on lõplik kümnendmurd, kus $a$ ja $b$ on ühisteguriteta positiivsed täisarvud, siis millega võrdub $a+b$?"
+  },
+  {
+    "nr": 273,
+    "tolge": "Nagu joonisel näidatud, on kolme ringi ümber, mille igaühe raadius on $10$ cm, tõmmatud tihedalt rihm. Rihma pikkuse sentimeetrites saab kirjutada kujul $a + b\\pi$, kus $a$ ja $b$ on ratsionaalarvud. Mis on $a + b$ väärtus? [asy]\n\nsize(120); defaultpen(linewidth(0.8));\npicture p; real r = 3^.5/2;\npair A = expi(-pi/6); draw(p, circle(A, r)); draw(p, (A.x,A.y - r) -- (-A.x,A.y - r));\nadd(p); add(rotate(120)*p); add(rotate(240)*p);\n[/asy]"
+  },
+  {
+    "nr": 274,
+    "tolge": "Võrrand $y = \\frac{x + A}{Bx + C}$, kus $A,B,$ ja $C$ on täisarvud, on esitatud allpool. Mis on $A + B + C$?\n\n[asy]\nimport graph; size(8.14cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-2.52,xmax=5.62,ymin=-4.28,ymax=3.32;\n\npen cqcqcq=rgb(0.75,0.75,0.75);\n\n/*grid*/ pen gs=linewidth(0.7)+cqcqcq+linetype(\"2 2\"); real gx=1,gy=1;\nfor(real i=ceil(xmin/gx)*gx;i<=floor(xmax/gx)*gx;i+=gx) draw((i,ymin)--(i,ymax),gs); for(real i=ceil(ymin/gy)*gy;i<=floor(ymax/gy)*gy;i+=gy) draw((xmin,i)--(xmax,i),gs);\n\nLabel laxis; laxis.p=fontsize(10);\n\nxaxis(\"$x$\",xmin,xmax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis(\"$y$\",ymin,ymax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); real f1(real x){return (-x+4)/(x-2);} draw(graph(f1,-2.51,1.99),linewidth(1.2),Arrows(4)); draw(graph(f1,2.01,5.61),linewidth(1.2),Arrows(4));\n\nclip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);\n\n[/asy]"
+  },
+  {
+    "nr": 275,
+    "tolge": "Kui $\\det \\mathbf{A} = -1,$ siis leia $\\det (\\mathbf{7A}).$"
+  },
+  {
+    "nr": 276,
+    "tolge": "Leia $a$ nullist erinev väärtus, mille korral võrrandil $ax^2+8x+4=0$ on ainult üks lahend."
+  },
+  {
+    "nr": 277,
+    "tolge": "Mike maksis kolm aastat tagasi margi eest $\\$1.25$. Talle pakuti just selle eest kahekordset summat. Eeldades, et margi pakkumishind kahekordistub iga kolme aasta tagant, mitu dollarit talle veel 12 aasta pärast pakutakse?"
+  },
+  {
+    "nr": 278,
+    "tolge": "Korrapärast viisnurka pööratakse selle keskpunkti ümber vastupäeva. Mitu kraadi tuleb seda minimaalselt pöörata, kuni see ühtib oma algse asendiga?"
+  },
+  {
+    "nr": 279,
+    "tolge": "Mitu erinevat ratsionaalarvude nelikut $(a,b,c,d)$ leidub, mille korral \\[a\\log_{10} 2+b\\log_{10} 3+c\\log_{10} 5+d\\log_{10} 7=2005?\\]"
+  },
+  {
+    "nr": 280,
+    "tolge": "Leia järgmisest võrrandist $z$: $2-3iz = 3 + 2iz$."
+  },
+  {
+    "nr": 281,
+    "tolge": "Kui $y=\\frac{27x^2+9x+3}{27x^3+9x^2+3x+1}$, siis millise $y$ väärtuse juures on horisontaalne asümptoot?"
+  },
+  {
+    "nr": 282,
+    "tolge": "Purgis on neli punast ja kaks valget palli. Üks pall võetakse juhuslikult välja ning asendatakse vastandvärvi palliga. Seejärel raputatakse purki ja valitakse juhuslikult üks pall. Kui suur on tõenäosus, et see pall on punane? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 283,
+    "tolge": "Eric ja Charles mõtlevad kumbki ühele ruutpolünoomile. Nende üllatuseks algavad mõlemad ruutpolünoomid kujul $x^2+4x+\\cdots$. Ericu polünoomi diskriminandi, $b^2-4ac$, suhe Charlesi polünoomi diskriminanti on võrdne Charlesi vabaliikme suhtega Ericu vabaliikmesse. Kui nende vabaliikmed ei ole võrdsed, leia vabaliikmete summa."
+  },
+  {
+    "nr": 284,
+    "tolge": "Kolmnurga $ABC$ pindala on võrdne $a^2 - (b - c)^2,$ kus $a,$ $b,$ ja $c$ on nagu tavaliselt kolmnurga $ABC,$ küljed. Arvuta $\\tan A.$"
+  },
+  {
+    "nr": 285,
+    "tolge": "Leia selline vektor $\\mathbf{v}$, et\n\\[\\begin{pmatrix} 2 & 3 & -1 \\\\ 0 & 4 & 5 \\\\ 4 & 0 & -2 \\end{pmatrix} \\mathbf{v} = \\begin{pmatrix} 2 \\\\ 27 \\\\ -14 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 286,
+    "tolge": "Järgmine sirge on parameetritud nii, et selle sihivektor on kujul $\\begin{pmatrix} -7 \\\\ b \\end{pmatrix}.$ Leia $b.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, L, R;\nint i, n;\n\nfor (i = -8; i <= 8; ++i) {\n  draw((i,-8)--(i,8),gray(0.7));\n  draw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0),Arrows(6));\ndraw((0,-8)--(0,8),Arrows(6));\n\nA = (-5,4);\nB = (-1,3);\nL = extension(A, B, (-8,0), (-8,1));\nR = extension(A, B, (8,0), (8,1));\n\ndraw(L--R, red);\n\nlabel(\"$x$\", (8,0), E);\nlabel(\"$y$\", (0,8), N);\n[/asy]"
+  },
+  {
+    "nr": 287,
+    "tolge": "Tara veeretab korra kolme tavalist täringut. Kui suur on tõenäosus, et veeretatud arvude summa on kolm või rohkem? Esita vastus protsendina."
+  },
+  {
+    "nr": 288,
+    "tolge": "Täisnurkses kolmnurgas $ABC$ on $AB = 10$, $BC = 24$ ja $\\angle ABC = 90^\\circ$. Kui punkt $M$ asub lõigul $\\overline{AC}$ nii, et $\\overline{BM}$ on kolmnurga $\\triangle ABC$ kõrgus, siis millega võrdub $\\cos \\angle ABM$?"
+  },
+  {
+    "nr": 289,
+    "tolge": "Mis on positiivne vahe $2^5$ ja $5^2$ vahel?"
+  },
+  {
+    "nr": 290,
+    "tolge": "Kui valitakse juhuslikult kaks järjestikust täisarvu, siis milline on tõenäosus, et üks neist jagub 4-ga? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 291,
+    "tolge": "Mitu tolli on $2 \\frac{1}{6}$ jardis?"
+  },
+  {
+    "nr": 292,
+    "tolge": "Milline on tõenäosus, et õiglase 6-tahulise täringu veeretamisel jääb pealmiseks küljeks algarv?"
+  },
+  {
+    "nr": 293,
+    "tolge": "Ruut on jagatud joonisel näidatud viisil. Mis murdosa ruudu pindalast on viirutatud? Esita oma vastus murruna. [asy]\nsize(100);\nfill((3,1)--(4,2)--(4,4)--(2,2)--cycle,gray);\ndraw((0,0)--(4,0)--(4,4)--(0,4)--cycle,linewidth(1));\ndraw((0,0)--(4,4),linewidth(1));\ndraw((4,0)--(0,4),linewidth(1));\ndraw((2,0)--(4,2),linewidth(1));\ndraw((3.9,3.1)--(4.1,3.1),linewidth(1));\ndraw((4.1,2.9)--(3.9,2.9),linewidth(1));\ndraw((3.9,1.1)--(4.1,1.1),linewidth(1));\ndraw((4.1,.9)--(3.9,.9),linewidth(1));\ndraw((.9,-.1)--(.9,.1),linewidth(1));\ndraw((2.9,-.1)--(2.9,.1),linewidth(1));\ndraw((1.1,-.1)--(1.1,.1),linewidth(1));\ndraw((3.1,-.1)--(3.1,.1),linewidth(1));\n\n[/asy]"
+  },
+  {
+    "nr": 294,
+    "tolge": "Olgu $\\mathbf{u}$ ja $\\mathbf{v}$ sellised vektorid, et $\\|\\mathbf{u}\\| = \\|\\mathbf{v}\\| = 2$ ja $\\mathbf{u} \\cdot \\mathbf{v} = -1.$ Kui $\\theta$ on vektorite $\\mathbf{u} + \\mathbf{v}$ ja $2 \\mathbf{u} - \\mathbf{v}$ vaheline nurk, siis leia $\\cos \\theta.$"
+  },
+  {
+    "nr": 295,
+    "tolge": "Lõigu $s_1$ otspunktid on $(1,2)$ ja $(7,10)$. Lõik $s_2$ saadakse, nihutades lõiku $s_1$ $3$ ühiku võrra paremale ja $2$ ühiku võrra alla. Leia lõigu $s_2$ keskpunkt. Esita oma vastus kujul $(a,b)$, kus $a$ ja $b$ on täisarvud."
+  },
+  {
+    "nr": 296,
+    "tolge": "Nelinurk $ABCD$ on rööpkülik. Kui nurga $A$ suurus on 62 kraadi ja nurga $ADB$ suurus on 75 kraadi, siis mis on nurga $ADC$ suurus kraadides?"
+  },
+  {
+    "nr": 297,
+    "tolge": "Oletame, et $ABC_4+200_{10}=ABC_9$, kus $A$, $B$ ja $C$ on sobivad numbrid alustel 4 ja 9. Millega võrdub summa, kui liita kokku kõik võimalikud $A$ väärtused, kõik võimalikud $B$ väärtused ja kõik võimalikud $C$ väärtused?"
+  },
+  {
+    "nr": 298,
+    "tolge": "Minu klassiruumis on 11 rida toole, igas reas 11 tooli. Toolid igas reas on nummerdatud 1-st 11-ni. Mitmel toolil on paaritu number?"
+  },
+  {
+    "nr": 299,
+    "tolge": "Kolmnurgas $\\triangle ABC,$ on $AB = AC = 14$ ja $BC = 26.$ Kui pikk on kolmnurga $ABC$ lühim nurgapoolitaja? Esita oma vastus lihtsaimal juurkujul."
+  },
+  {
+    "nr": 300,
+    "tolge": "Kui $x=735$ ja $ax$ on täisruut, kus $a$ on positiivne täisarv, siis mis on avaldise $\\sqrt{ax}$ väikseim võimalik väärtus?"
+  },
+  {
+    "nr": 301,
+    "tolge": "Tavalisest 52-kaardilisest pakist valitakse juhuslikult 3 kaarti. Milline on tõenäosus, et neid saab järjestada kolmest sama masti järjestikusest kaardist koosnevaks rühmaks? Selles ülesandes võib äss olla kas enne 2 või pärast kuningat, kuid mitte mõlemat korraga (seega lähevad A23 ja QKA mõlemad arvesse, aga KA2 mitte)."
+  },
+  {
+    "nr": 302,
+    "tolge": "Richard ehitab 200 jala pikkusest piirdeaiast ristkülikukujulist mänguväljakut. Piiraed peab mänguväljaku täielikult ümbritsema. Mis on selle mänguväljaku maksimaalne pindala?"
+  },
+  {
+    "nr": 303,
+    "tolge": "Tegurda $x^3 - 9x^2 + 27x - 35$."
+  },
+  {
+    "nr": 304,
+    "tolge": "Mis on võrrandi $\n\\frac{2003}{2004}x + 1 + \\frac{1}{x} = 0?\n$ juurte pöördarvude summa?"
+  },
+  {
+    "nr": 305,
+    "tolge": "Olgu $r, s,$ ja $t$ võrrandi $2x^3 - 3x^2 + 4x - 1 = 0$ lahendid. Leia $r^2+s^2+t^2$."
+  },
+  {
+    "nr": 306,
+    "tolge": "Millist tüüpi koonuselõiget kirjeldab võrrand \\[x^2 = 2x + 2y - 3?\\]Sisesta \"C\" ringjoone, \"P\" parabooli, \"E\" ellipsi, \"H\" hüperbooli korral ja \"N\", kui tegemist pole ühegi eelnevaga."
+  },
+  {
+    "nr": 307,
+    "tolge": "Kui $\\left(\\sqrt[4]{11}\\right)^{3x-3}=\\frac{1}{5}$, siis mis on $\\left(\\sqrt[4]{11}\\right)^{6x+2}$ väärtus? Esita oma vastus murruna."
+  },
+  {
+    "nr": 308,
+    "tolge": "Olgu $P(x) = 4x^3 - 2x^2 + 7x - 1$ ja olgu $Q(x) = P(x)^2$. Mis on $Q(x)$ y-telje lõikepunkt?"
+  },
+  {
+    "nr": 309,
+    "tolge": "Millega võrdub võrrandi $z^{12}=64$ positiivse reaalosaga juurte summa?"
+  },
+  {
+    "nr": 310,
+    "tolge": "Olgu\n\\[\\mathbf{a} = \\begin{pmatrix} 5 \\\\ -3 \\\\ -4 \\end{pmatrix} \\quad \\text{and} \\quad \\mathbf{b} = \\begin{pmatrix} -11 \\\\ 1 \\\\ 28 \\end{pmatrix}.\\]Leiduvad vektorid $\\mathbf{p}$ ja $\\mathbf{d}$ nii, et punkte $\\mathbf{a}$ ja $\\mathbf{b}$ läbivat sirget saab esitada kujul\n\\[\\mathbf{v} = \\mathbf{p} + \\mathbf{d} t.\\]Lisaks kehtib vektori $\\mathbf{d}$ teatud valiku korral, et kõigi punktide $\\mathbf{v}$ puhul, mis asuvad punktist $\\mathbf{a}$ samal pool kui punkt $\\mathbf{b}$, on punkti $\\mathbf{v}$ ja punkti $\\mathbf{a}$ vaheline kaugus $t$. Leia $\\mathbf{d}$."
+  },
+  {
+    "nr": 311,
+    "tolge": "Kui $500 - 90 + 7 = 400 - 60 + 5 + N$, siis mis on $N$ väärtus?"
+  },
+  {
+    "nr": 312,
+    "tolge": "Veeretatakse kahte ausat 6-tahulist täringut. Kui suur on tõenäosus, et silmade summa on 9?"
+  },
+  {
+    "nr": 313,
+    "tolge": "Aritmeetilise jada kolme järjestikuse liikme suurim ja väikseim liige erinevad 14 võrra. Igale liikmele liidetakse pool väikseimast liikmest ning saadud kolme arvu summa on 120. Kui suur on algne väikseim liige?"
+  },
+  {
+    "nr": 314,
+    "tolge": "Mitu täisarvu $n$ rahuldab tingimusi $0<n<60$ ja $4n\\equiv 2\\pmod 6?$"
+  },
+  {
+    "nr": 315,
+    "tolge": "Mitu arvu on loendis $$ 6,7,10,11,14,15,\\ldots,94,95,98? $$"
+  },
+  {
+    "nr": 316,
+    "tolge": "Mis on suurim täisarv, mis peab olema mis tahes kuue järjestikuse positiivse paaritu arvu summa tegur?"
+  },
+  {
+    "nr": 317,
+    "tolge": "Leia $\\frac{1}{-6} \\cdot 6 \\cdot 7 + 8 \\cdot 2 \\div 8 \\cdot (7-1)$."
+  },
+  {
+    "nr": 318,
+    "tolge": "Leia $\\left \\lceil \\frac{\\left \\lfloor 52/3 \\right. \\rfloor}{5/23} \\right \\rceil$."
+  },
+  {
+    "nr": 319,
+    "tolge": "Millega võrdub arv $$\\frac{\\sqrt{25-16}}{\\sqrt{25}-\\sqrt{16}}$$?"
+  },
+  {
+    "nr": 320,
+    "tolge": "Leia vabaliige avaldise $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$ arenduses."
+  },
+  {
+    "nr": 321,
+    "tolge": "Kolmnurga, mille tipud on $\\overrightarrow{A},$ $\\overrightarrow{B},$ ja $\\overrightarrow{C},$ pindala on 12. Leia selle kolmnurga pindala, mille tipud on $-\\overrightarrow{A} + \\overrightarrow{B} + \\overrightarrow{C},$ $\\overrightarrow{A} - \\overrightarrow{B} + \\overrightarrow{C},$ ja $\\overrightarrow{A} + \\overrightarrow{B} - \\overrightarrow{C}.$"
+  },
+  {
+    "nr": 322,
+    "tolge": "Kui palju on $(-1)^{1001}$?"
+  },
+  {
+    "nr": 323,
+    "tolge": "Kolmnurgas $ABC,$ asuvad punktid $D$ ja $E$ küljel $\\overline{BC}$ nii, et $BD = DE = EC.$ Kui $x = \\angle BAD,$ $y = \\angle DAE,$ ja $z = \\angle EAC,$ siis leia\n\\[\\frac{\\sin (x + y) \\sin (y + z)}{\\sin x \\sin z}.\\]"
+  },
+  {
+    "nr": 324,
+    "tolge": "Joonisel kujutatud punane parabool on võrrandi $x = ay^2 + by + c$ graafik. Leia $a+b+c$.\n\n[asy]\nsize(150);\nreal ticklen=3;\nreal tickspace=2;\n\nreal ticklength=0.1cm;\nreal axisarrowsize=0.14cm;\npen axispen=black+1.3bp;\nreal vectorarrowsize=0.2cm;\nreal tickdown=-0.5;\nreal tickdownlength=-0.15inch;\nreal tickdownbase=0.3;\nreal wholetickdown=tickdown;\nvoid rr_cartesian_axes(real xleft, real xright, real ybottom, real ytop, real xstep=1, real ystep=1, bool\n\nuseticks=false, bool complexplane=false, bool usegrid=true) {\n\nimport graph;\n\nreal i;\n\nif(complexplane) {\n\nlabel(\"$\\textnormal{Re}$\",(xright,0),SE);\n\nlabel(\"$\\textnormal{Im}$\",(0,ytop),NW);\n\n} else {\n\nlabel(\"$x$\",(xright+0.4,-0.5));\n\nlabel(\"$y$\",(-0.5,ytop+0.2));\n\n}\n\nylimits(ybottom,ytop);\n\nxlimits( xleft, xright);\n\nreal[] TicksArrx,TicksArry;\n\nfor(i=xleft+xstep; i<xright; i+=xstep) {\n\nif(abs(i) >0.1) {\n\nTicksArrx.push(i);\n\n}\n\n}\n\nfor(i=ybottom+ystep; i<ytop; i+=ystep) {\n\nif(abs(i) >0.1) {\n\nTicksArry.push(i);\n\n}\n\n}\n\nif(usegrid) {\n\nxaxis(BottomTop(extend=false), Ticks(\"%\", TicksArrx ,pTick=gray\n\n(0.22),extend=true),p=invisible);//,above=true);\n\nyaxis(LeftRight(extend=false),Ticks(\"%\", TicksArry ,pTick=gray(0.22),extend=true),\n\np=invisible);//,Arrows);\n\n}\n\nif(useticks) {\n\nxequals(0, ymin=ybottom, ymax=ytop, p=axispen, Ticks(\"%\",TicksArry ,\n\npTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));\n\nyequals(0, xmin=xleft, xmax=xright, p=axispen, Ticks(\"%\",TicksArrx ,\n\npTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));\n\n} else {\n\nxequals(0, ymin=ybottom, ymax=ytop, p=axispen, above=true, Arrows(size=axisarrowsize));\n\nyequals(0, xmin=xleft, xmax=xright, p=axispen, above=true, Arrows(size=axisarrowsize));\n\n}\n};\nreal lowerx, upperx, lowery, uppery;\nreal f(real x) {return (x-1)*(x-1)-3;}\nlowery = -2;\nuppery = 4;\nrr_cartesian_axes(-5,f(lowery),lowery,uppery);\ndraw(reflect((0,0),(1,1))*(graph(f,lowery,uppery,operator ..)), red);\n[/asy]"
+  },
+  {
+    "nr": 325,
+    "tolge": "Kui kujutatud kolmnurga pindala on 40, siis millega võrdub $r$? [asy]\nimport graph; size(200); defaultpen(linewidth(0.8));\n\nreal xmin=0;\nreal xmax=12;\nreal ymin=0;\nreal ymax=10;\n\nxlimits(xmin, xmax);\n\nylimits(ymin, ymax);\n\nxaxis(\"$x$\",0,12,EndArrow);\nyaxis(\"$y$\",0,10,EndArrow);\ndot(Label(\"$O$\",align=SW),(0,0));\ndraw((0,8)--(10,0));\ndot(Label(\"$(0,8)$\",align=E),(0,8));\ndot(Label(\"$(r,0)$\",align=S),(10,0));\n[/asy]"
+  },
+  {
+    "nr": 326,
+    "tolge": "Vaatleme funktsiooni $z(x,y)$, mis kirjeldab paraboloidi\n\\[z = (2x - y)^2 - 2y^2 - 3y.\\]Archimedes ja Brahmagupta mängivad mängu. Archimedes valib kõigepealt $x.$ Seejärel valib Brahmagupta $y.$ Archimedes soovib minimeerida $z$ väärtust, samal ajal kui Brahmagupta soovib maksimiseerida $z$ väärtust. Eeldades, et Brahmagupta mängib optimaalselt, millise $x$ väärtuse peaks Archimedes valima?"
+  },
+  {
+    "nr": 327,
+    "tolge": "Steve ütleb Jonile: \"Ma mõtlen polünoomile, mille kõik juured on positiivsed täisarvud. Polünoom on kujul $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ mingite positiivsete täisarvude $a$ ja $c$ korral. Kas sa saad mulle öelda $a$ ja $c$ väärtused?\"\n\nPärast mõningaid arvutusi ütleb Jon: \"Selliseid polünoome on rohkem kui üks.\"\n\nSteve ütleb: \"Sul on õigus. Siin on $a$ väärtus.\" Ta kirjutab üles ühe positiivse täisarvu ja küsib: \"Kas sa saad mulle öelda $c$ väärtuse?\"\n\nJon ütleb: \"Võimalikke $c$ väärtusi on ikka veel kaks.\"\n\nLeia kahe võimaliku $c$ väärtuse summa."
+  },
+  {
+    "nr": 328,
+    "tolge": "Kui $725x + 727y = 1500$ ja $729x+ 731y = 1508$, siis mis on $x - y$ väärtus?"
+  },
+  {
+    "nr": 329,
+    "tolge": "Arvuta $24-(2x-y)$, kui $x=4$ ja $y=3$."
+  },
+  {
+    "nr": 330,
+    "tolge": "Marsha liidab kokku kõik esimesed kümme positiivset täisarvu peale ühe. Tema saadud summa on ruutarv. Millist esimesest kümnest positiivsest täisarvust Marsha ei lisanud?"
+  },
+  {
+    "nr": 331,
+    "tolge": "Kui suur on positiivne vahe $120\\%$ arvust 30 ja $130\\%$ arvust 20 vahel?"
+  },
+  {
+    "nr": 332,
+    "tolge": "Arvu $(\\sqrt{2}+\\sqrt{3})^3$ saab esitada kujul $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, kus $a$, $b$ ja $c$ on täisarvud. Millega võrdub $a+b+c$?"
+  },
+  {
+    "nr": 333,
+    "tolge": "Kui valida on 5 värvi vahel, mitmel viisil saab värvida $2\\times 2$ laua neli ühikruutu, kui kahte värvingut peetakse samaks juhul, kui üks on teise pööre? (Märkus: sama värvi võib kasutada rohkem kui ühe ruudu jaoks.)\n[asy]\ndraw(unitsquare);\ndraw((.5,0)--(.5,1));\ndraw((0,.5)--(1,.5));\n[/asy]"
+  },
+  {
+    "nr": 334,
+    "tolge": "Ristkülikukujulisel aial on maja ühe küljega ühine külg. Aia sellega külgnev külg on kaheksa jalga pikk. Kui aia pindala on 184 ruutjalga, siis kui pikk on ühine külg jalgades?"
+  },
+  {
+    "nr": 335,
+    "tolge": "Arvuta $\\log_{5^2}5^4$."
+  },
+  {
+    "nr": 336,
+    "tolge": "Positiivsed viiekohalised täisarvud, mis kasutavad iga numbrit 1, 2, 3, 4 ja 5 täpselt ühe korra, järjestatakse väikseimast suurimani. Mis on selles loendis $50^{\\text{th}}$ täisarv?"
+  },
+  {
+    "nr": 337,
+    "tolge": "Ühe sirge parameetriline esitus on\n\\[\\begin{pmatrix} 2 - 3t \\\\ -5 - 2t \\\\ 1 - 6t \\end{pmatrix}.\\]Teise sirge parameetriline esitus on\n\\[\\begin{pmatrix} -\\frac{3}{2} + s \\\\ 2s \\\\ -6 + 2s \\end{pmatrix}.\\]Need kaks sirget lõikuvad punktis $P.$ Kui $\\theta$ on nende kahe sirge vaheline teravnurk punktis $P,$ siis leia $\\cos \\theta.$"
+  },
+  {
+    "nr": 338,
+    "tolge": "Suurema ringi keskpunkt on $O$ ja see läbib punkti $D$. Väiksema ringi diameeter on $OD$. Mitu protsenti suurema ringi pindalast on hall?\n\n[asy]import graph;\ndraw(Circle((0,0),30),black);\nfill(Circle((0,-15),15),gray(.6));\ndraw(Circle((0,-15),15),black);\ndraw((0,0)--(0,-30),black);\nlabel(\"O\",(0,0),N);\nlabel(\"D\",(0,-30),S);\n[/asy]"
+  },
+  {
+    "nr": 339,
+    "tolge": "Kui \\[\\frac{x}{y} = \\frac{4}{5}, \\; \\frac{y}{z} = \\frac{3}{10}, \\;\\text{and} \\; \\frac{z}{w} = \\frac{6}{7},\\] mis on $\\dfrac{x + y + w}{z}$ väärtus? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 340,
+    "tolge": "Milline on arvu $999_{10}$ vaste kuuepõhises arvusüsteemis?"
+  },
+  {
+    "nr": 341,
+    "tolge": "Sirged $l$ ja $m$ on paralleelsed ning punktid $A$, $B$ ja $D$ asuvad ühel sirgel. Mis on $x$ väärtus?\n\n[asy]\n\nunitsize(1.1 inch);\n\ndraw((0,0)--(4,0),Arrows);\n\ndraw((0,1)--(4,1),Arrows);\n\ndraw((3,2)--(1,-1),Arrows);\n\ndot((0.3,0));\nlabel(\"$m$\",(0.3,0),N);\n\ndot((0.3,1));\nlabel(\"$l$\",(0.3,1),N);\n\ndot((3.7,0));\n\ndot((3.7,1));\nlabel(\"$C$\",(3.7,1),N);\n\ndot((1.2,-0.7));\n\ndot((2.8,1.7));\nlabel(\"$A$\",(2.8,1.7),NW);\n\ndot((2.34,1));\nlabel(\"$B$\",(2.34,1),NW);\nlabel(\"$5x-8^\\circ$\",(2.34,1),SW);\n\ndot((1.66,0));\nlabel(\"$D$\",(1.66,0),NW);\nlabel(\"$143^\\circ$\",(1.66,0),SE);\n\n[/asy]"
+  },
+  {
+    "nr": 342,
+    "tolge": "Arnold peab oma kaktuseid kastma iga 9 päeva tagant ja neid väetama iga 60 päeva tagant. Ta kastis ja väetas neid eelmisel teisipäeval. Mis nädalapäev on järgmisel korral, kui ta neid samal päeval kastab ja väetab?"
+  },
+  {
+    "nr": 343,
+    "tolge": "Funktsioon $f : \\mathbb{R} \\to \\mathbb{R}$ rahuldab võrdust\n\\[x^2 f(x) + f(1 - x) = -x^4 + 2x\\]\nkõigi reaalarvude $x$ korral. Siis on $f(x)$ üheselt määratav $x$ kõigi väärtuste korral, välja arvatud $f(\\alpha)$ ja $f(\\beta)$ mingite reaalarvude $\\alpha$ ja $\\beta$ korral. Arvuta $\\alpha^2 + \\beta^2.$"
+  },
+  {
+    "nr": 344,
+    "tolge": "Olgu $ABCD$ trapets, milles $\\overline{AD}|| \\overline{BC}$. Kui $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ poolitab nurka $\\angle BAD$ ja $[ABCD]=42$, siis arvuta $[\\triangle ACD]$."
+  },
+  {
+    "nr": 345,
+    "tolge": "Pane tähele, et \\[35\\cdot40=1400.\\] Leia selline täisarv $n$, mille korral $0\\leq n<1399$, et $n$ on arvu 160 multiplikatiivne pöördelement mooduli 1399 järgi."
+  },
+  {
+    "nr": 346,
+    "tolge": "Leia arvu $16^{17} \\times 17^{18} \\times 18^{19}$ üheliste number."
+  },
+  {
+    "nr": 347,
+    "tolge": "Nelja järjestikuse positiivse paarisarvu summa on täisruut. Mis on vähim võimalik summa?"
+  },
+  {
+    "nr": 348,
+    "tolge": "Tasapind $P$ on parametriseeritud võrrandiga\n\\[\\mathbf{v} = \\begin{pmatrix} 1 \\\\ 6 \\\\ 7 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -1 \\\\ -1 \\end{pmatrix} + s \\begin{pmatrix} 2 \\\\ -3 \\\\ -5 \\end{pmatrix},\\]ja sirge $L$ on parametriseeritud võrrandiga\n\\[\\mathbf{w} = \\begin{pmatrix} 7 \\\\ 4 \\\\ 1 \\end{pmatrix} + u \\begin{pmatrix} 3 \\\\ 0 \\\\ -1 \\end{pmatrix}.\\]Leia tasapinna $P$ ja sirge $L$ lõikepunkt."
+  },
+  {
+    "nr": 349,
+    "tolge": "Olgu $a,$ $b,$ $c,$ $d$ positiivsed reaalarvud. Leia avaldise\n\\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]\nvähim väärtus."
+  },
+  {
+    "nr": 350,
+    "tolge": "Mitu positiivset täisarvu, mis on väiksemad või võrdsed kui 100, omavad algtegurit, mis on suurem kui 4?"
+  },
+  {
+    "nr": 351,
+    "tolge": "Milline järgmistest arvudest on kõige väiksem? Sinu vastus on kõige väiksema arvu ees olev täht.\n\n$\\bullet$ A. $14.45001$ ümardatuna kümnendikeni.\n\n$\\bullet$ B. $14.54999$ ümardatuna kümnendikeni.\n\n$\\bullet$ C. $14.44999$ ümardatuna kümnendikeni.\n\n$\\bullet$ D. $14.55001$ ümardatuna kümnendikeni."
+  },
+  {
+    "nr": 352,
+    "tolge": "Kuus punkti asuvad võrdsete vahedega ringjoonel, mille raadius on 1. Kolm neist punktidest on sellise kolmnurga tipud, mis ei ole võrdkülgne ega võrdhaarne. Kui suur on selle kolmnurga pindala?"
+  },
+  {
+    "nr": 353,
+    "tolge": "Mis on vähim positiivne täisarv $n$, mille korral $(12{,}500{,}000)\\cdot n$ annab $999{,}999{,}999$-ga jagamisel jäägi $111$?"
+  },
+  {
+    "nr": 354,
+    "tolge": "Mitu täisarvu $n$ rahuldavad mõlemat ebavõrrandit $4n + 3 < 25$ ja $-7n + 5 < 24$?"
+  },
+  {
+    "nr": 355,
+    "tolge": "Teisenda $\\frac{57}{160}$ lõplikuks kümnendmurruks."
+  },
+  {
+    "nr": 356,
+    "tolge": "Kui suur on tekkinud hulknurga ümbermõõt, kui punktid $A(-6,6), B(9,6)$ ja $C(9,-2)$ kantakse koordinaatpinnale ja ühendatakse sirglõikudega?"
+  },
+  {
+    "nr": 357,
+    "tolge": "Olgu $f(x)=3x^4-7x^3+2x^2-bx+1$. Millise $b$ väärtuse korral on $f(1)=1$?"
+  },
+  {
+    "nr": 358,
+    "tolge": "Mitu sellist järjestatud paari $(A,B)$ leidub, kus $A$ ja $B$ on positiivsed täisarvud ning $AAA_7+BBB_7=666_7?$"
+  },
+  {
+    "nr": 359,
+    "tolge": "Arvuta arvude $9999$ ja $100{,}001$ vähim ühiskordne."
+  },
+  {
+    "nr": 360,
+    "tolge": "Lihtsusta $\\frac{15}{6}.$"
+  },
+  {
+    "nr": 361,
+    "tolge": "Leia funktsiooni pöördfunktsioon\n\\[f(x) = \\frac{2x + 5}{x - 11}.\\]"
+  },
+  {
+    "nr": 362,
+    "tolge": "Varjupaigas on seina ääres 8 aedikut. Varjupaik peab eraldama 4 aedikut koertele, 3 kassidele ja ühe kukkedele. Mitmel viisil saab varjupaik selle jaotuse teha?"
+  },
+  {
+    "nr": 363,
+    "tolge": "Ristkoordinaattasandil asuvat punkti $(a, b)$ peegeldatakse $y$-telje suhtes punktiks $(j, k)$. Kui $a + j = 0$ ja $b + k = 0$, siis milline on $b$ väärtus?"
+  },
+  {
+    "nr": 364,
+    "tolge": "Täisnurkses kolmnurgas $ABC$ on külje $BC$ pikkus 2 ühikut, külje $AC$ pikkus 4 ühikut ja nurga $C$ suurus 60 kraadi. Kui pikk on külg $AB$ ühikutes? Esita oma vastus lihtsaimal juurkujul."
+  },
+  {
+    "nr": 365,
+    "tolge": "Mitu positiivsete paaristäisarvude kolmikut $(a,b,c)$ rahuldab võrratust $a^3 + b^2 + c \\leq 50$?"
+  },
+  {
+    "nr": 366,
+    "tolge": "Risttahuka laiust, pikkust ja kõrgust suurendatakse igaühte $10\\%$ võrra. Mitu protsenti suureneb risttahuka ruumala? Esita vastus lähima täisarvuni."
+  },
+  {
+    "nr": 367,
+    "tolge": "Olgu $p$ ja $q$ võrrandi $$x^2 - 2x - 3 = 0.$$ kaks erinevat lahendit. Millega võrdub $(p + 1)(q + 1)$?"
+  },
+  {
+    "nr": 368,
+    "tolge": "Iga hea tööline suudab mu uue maja üksinda värvida 12 tunniga. Iga halb tööline suudab mu maja üksinda värvida 36 tunniga. Mul on vaja, et mu maja saaks värvitud 3 tunniga. Kui ma leian ainult 3 head töölist, siis mitu halba töölist pean ma lisaks leidma, et maja saaks õigel ajal värvitud?"
+  },
+  {
+    "nr": 369,
+    "tolge": "Vali hulgast $\\{1, 3, 6, 7\\}$ kaks või vähem erinevat numbrit ja reasta need arvuks. Mitu algarvu saame sel viisil moodustada?"
+  },
+  {
+    "nr": 370,
+    "tolge": "$y$ väärtus on pöördvõrdeline suurusega $\\sqrt x$ ning kui $x=24$, siis $y=15$. Millega võrdub $x$, kui $y=3$?"
+  },
+  {
+    "nr": 371,
+    "tolge": "Mütsi asetatakse seitse kaarti, millest igaühel on üks järgmistest tähtedest: C, B, T, A, E, M ja H. Igat tähte kasutatakse ainult ühe korra. Stu tõmbab juhuslikult ja ilma tagasipanekuta välja neli kaarti. Kui suur on tõenäosus, et Stu tõmbab välja M, A, T, H selles järjekorras? Esita oma vastus hariliku murruna."
+  },
+  {
+    "nr": 372,
+    "tolge": "Lahenda \\[\\frac{9-4x}{x+6}=7\\] $x$ suhtes."
+  },
+  {
+    "nr": 373,
+    "tolge": "Puu on praegu 12 jalga kõrge ja kasvab 18 tolli aastas. Mitme aasta pärast on puu 36 jalga kõrge?"
+  },
+  {
+    "nr": 374,
+    "tolge": "Leia korrutis $315_6 \\cdot 4_6$. Esita oma vastus 6-alussüsteemis."
+  },
+  {
+    "nr": 375,
+    "tolge": "Olgu $a,$ $b,$ ja $c$ nullist erinevad reaalarvud, mille korral $\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} = 0.$ Arvuta\n\\[\\frac{bc}{a^2} + \\frac{ac}{b^2} + \\frac{ab}{c^2}.\\]"
+  },
+  {
+    "nr": 376,
+    "tolge": "Positiivsete reaalarvude $a,$ $b,$ $c,$ ja $d,$ korral leidke avaldise\n\\[\\left\\lfloor \\frac{b + c + d}{a} \\right\\rfloor + \\left\\lfloor \\frac{a + c + d}{b} \\right\\rfloor + \\left\\lfloor \\frac{a + b + d}{c} \\right\\rfloor + \\left\\lfloor \\frac{a + b + c}{d} \\right\\rfloor.\\]\nvähim väärtus."
+  },
+  {
+    "nr": 377,
+    "tolge": "Funktsiooni $y = f(x)$ graafik läbib punkti $(-4,-7).$ Kui $f(x)$ on paarisfunktsioon, siis millist teist punkti peab graafik läbima? Sisesta oma vastus järjestatud paarina."
+  },
+  {
+    "nr": 378,
+    "tolge": "Mis on vähim positiivne täisarv $n$, mille korral $80325$ jagab $n!$?"
+  },
+  {
+    "nr": 379,
+    "tolge": "Milline on korrapärase kuusnurga pikima diagonaali pikkuse ja selle ümbermõõdu suhe? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 380,
+    "tolge": "Positiivsete reaalarvude $x$ ja $y$ korral taandub võrrand\n\\[\\arctan x + \\arccos \\frac{y}{\\sqrt{1 + y^2}} = \\arcsin \\frac{3}{\\sqrt{10}}\\]kujule\n\\[xy + ax + by + c = 0.\\]Sisesta järjestatud kolmik $(a,b,c).$"
+  },
+  {
+    "nr": 381,
+    "tolge": "Kolmnurga külgede pikkused on 7, 24 ja 25. Kui suur on kolmnurga pindala?"
+  },
+  {
+    "nr": 382,
+    "tolge": "Mitmel viisil saan ma neli erinevat raamatut riiulile paigutada?"
+  },
+  {
+    "nr": 383,
+    "tolge": "Kolmnurgas $ABC,$\n\\[a^4 + b^4 + c^4 = 2c^2 (a^2 + b^2).\\]Sisestage $\\angle C,$ võimalikud väärtused kraadides, eraldatuna komadega."
+  },
+  {
+    "nr": 384,
+    "tolge": "Kasutades tähti $A$ ja $B$, saab moodustada järgmised kahetähelised koodisõnad: $AA$, $AB$, $BB$, $BA$. Kasutades tähti $A$, $B$ ja $C$, mitu erinevat kolmetähelist koodisõna saab moodustada?"
+  },
+  {
+    "nr": 385,
+    "tolge": "Õpetajate ja õpilaste suhe teatud koolis on 1 : 11. Naisõpilaste ja õpilaste koguarvu suhe on 4 : 9. Kui naisõpilasi on 396, siis mitu õpetajat seal on?"
+  },
+  {
+    "nr": 386,
+    "tolge": "Kas\n\\[f(x) = \\frac{x}{x^2 + 1} + 3 \\sqrt[3]{x} - 2x\\]on paarisfunktsioon, paaritu funktsioon või ei kumbki?\n\nSisesta \"odd\", \"even\" või \"neither\"."
+  },
+  {
+    "nr": 387,
+    "tolge": "Oletame, et arvude 1 kuni 9 hulgast (kaasa arvatud) valitakse 2 erinevat täisarvu. Kui suur on tõenäosus, et need mõlemad on paaritud?"
+  },
+  {
+    "nr": 388,
+    "tolge": "Olgu $x$ ja $y$ positiivsed reaalarvud, mille korral $2x + 3y = 5.$ Leia avaldise\n\\[\\frac{3}{x} + \\frac{2}{y}.\\]\nvähim väärtus."
+  },
+  {
+    "nr": 389,
+    "tolge": "Senaadi komisjonis on 8 vabariiklast ja 6 demokraati. Mitmel viisil on võimalik moodustada 5-liikmeline alamkomisjon, kuhu kuulub vähemalt üks liige kummastki erakonnast?"
+  },
+  {
+    "nr": 390,
+    "tolge": "Olgu $\\mathbf{a}$ ja $\\mathbf{b}$ kaks nullist erinevat vektorit, nii et\n\\[\\mathbf{a} \\times (\\mathbf{a} \\times \\mathbf{b}) = -3 \\mathbf{b}.\\]Leia $\\|\\mathbf{a}\\|.$"
+  },
+  {
+    "nr": 391,
+    "tolge": "Polünoomi $p(x)$ kordajad on kõik mittenegatiivsed täisarvud. Kui $p(1) = 4$ ja $p(5) = 136,$ siis leia $p(6).$"
+  },
+  {
+    "nr": 392,
+    "tolge": "Leia konstant $k$ nii, et paraboolide $y = x^2 + k$ ja $x = y^2 + k$ graafikud puutuksid teineteist."
+  },
+  {
+    "nr": 393,
+    "tolge": "Puidust ühikkuubikust lõigatakse ära täistetraeeder tasandiga, mis läbib ühe tahu kahte mittenaabertippu ja vastastahu tippu, mis ei ole naaber kummalegi esimesest kahest tipust. Tetraeeder visatakse ära ning kuubi ülejäänud osa asetatakse lauale lõikepinnaga allapoole. Mis on selle keha kõrgus?"
+  },
+  {
+    "nr": 394,
+    "tolge": "Kaardid on nummerdatud 1 kuni 100. Üks kaart eemaldatakse ja ülejäänud 99 kaardi väärtused liidetakse. Saadud summa on arvu 77 kordne. Mis number oli eemaldatud kaardil?"
+  },
+  {
+    "nr": 395,
+    "tolge": "Püstpöördsilindril, mille raadius on 2 tolli ja kõrgus 1 toll, on sama ruumala kui teisel püstpöördsilindril. Teise silindri raadius on 1 toll. Mitu tolli on teise silindri kõrgus?"
+  },
+  {
+    "nr": 396,
+    "tolge": "Punkti ristkoordinaadid on $(10, -18, 35)$ ja sfäärikoordinaadid on $(\\rho, \\theta, \\phi).$ Leia $\\tan \\theta.$"
+  },
+  {
+    "nr": 397,
+    "tolge": "Leia jagatis, kui $x^6 - 3$ jagatakse avaldisega $x + 1.$"
+  },
+  {
+    "nr": 398,
+    "tolge": "Neljanda astme polünoomvõrrandil $x^4 - 7x^3 + 4x^2 + 7x - 4 = 0$ on neli reaaljuurt, $a$, $b$, $c$ ja $d$. Mis on summa $\\frac{1}{a}+\\frac{1}{b}+\\frac{1}{c}+\\frac{1}{d}$ väärtus? Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 399,
+    "tolge": "Leia kõigi selliste reaalarvude $x$ summa, mille korral $5x^4-10x^3+10x^2-5x-11=0$."
+  },
+  {
+    "nr": 400,
+    "tolge": "Kaksteist sõpra kohtusid õhtusöögiks restoranis Oscar's Overstuffed Oyster House ja igaüks tellis ühe roa. Portsjonid olid nii suured, et toitu jätkus 18 inimesele. Kui nad toitu jagaksid, mitu rooga oleksid nad pidanud tellima, et toitu jätkuks täpselt neile kaheteistkümnele?"
+  },
+  {
+    "nr": 401,
+    "tolge": "Leia väikseim positiivne täisarv $n$, mille korral leidub selline $r \\in (0, \\tfrac{1}{1000})$, et arv $(n+r)^3$ on täisarv."
+  },
+  {
+    "nr": 402,
+    "tolge": "Jo on andnud Aidenile igaks sünnipäevaks vähemalt ühe mänguauto. Autode arv on vastanud Aideni vanusele (üks auto tema esimeseks sünnipäevaks, kaks autot tema teiseks sünnipäevaks ja nii edasi). Mitu mänguautot on Aiden Jo-lt kokku saanud pärast oma 12. sünnipäeva autode kättesaamist?"
+  },
+  {
+    "nr": 403,
+    "tolge": "Mitme algarvu ruut jääb vahemikku 100 kuni 300?"
+  },
+  {
+    "nr": 404,
+    "tolge": "Bob pani kolm korrapärast viisnurka ühte tippu kokku, arvates, et ehk õnnestub tal moodustada tesellatsioon. Kuid nende vahele jäi tühimik. Mitu kraadi on märgitud nurga suurus? [asy]size(100);\npath A = dir(0) -- dir(72) -- dir (144) -- dir(216) -- dir (288) -- cycle;\npath B = reflect ( dir(72), dir(144)) * A;\npath C = reflect( dir(72), dir(0))* A;\ndraw(rotate(18) *A);\ndraw(rotate(18) *B);\ndraw(rotate(18) *C);\nlabel(\"?\", (0,1.5), N);\n[/asy]"
+  },
+  {
+    "nr": 405,
+    "tolge": "Tavalisest 52 kaardiga pakist (13 risti, 13 ruutut, 13 ärtut ja 13 potit) jagatakse juhuslikult kolm kaarti. Kui suur on tõenäosus, et kõik kolm kaarti on $\\heartsuit$id?"
+  },
+  {
+    "nr": 406,
+    "tolge": "Tasandile on joonestatud neli erinevat ringjoont. Mis on suurim võimalik punktide arv, kus vähemalt kaks ringjoont lõikuvad?"
+  },
+  {
+    "nr": 407,
+    "tolge": "Kui\n\\[\\frac{\\sin^2 3A}{\\sin^2 A} - \\frac{\\cos^2 3A}{\\cos^2 A} = 2,\\]siis leia $\\cos 2A.$"
+  },
+  {
+    "nr": 408,
+    "tolge": "Mis on ainus kolmekohaline positiivne täisarv $x$, mis rahuldab tingimust $$100x\\equiv 1\\pmod{997}~?$$"
+  },
+  {
+    "nr": 409,
+    "tolge": "Kas $f(x) = 7x^7 - 4x^4 + 1$ on paarisfunktsioon, paaritu funktsioon või ei kumbki?\n\nSisesta \"odd\", \"even\" või \"neither\"."
+  },
+  {
+    "nr": 410,
+    "tolge": "Mis on joonisel $x$ väärtus? [asy]\nsize(150);\ndraw((0,5)--(0,0)--(5,0));\ndraw((0,0)--(3,5));\ndraw((0,.3)--(.3,.3)--(.3,0));\nlabel(\"$2x^\\circ$\",(.5,2));\nlabel(\"$3x^\\circ$\",(1,.6));\n[/asy]"
+  },
+  {
+    "nr": 411,
+    "tolge": "Mitmel viisil saab paigutada 8 inimest laua ümber, kui Alice ja Bob ei istu kõrvuti? (Kaks paigutust on samad, kui üks on teise pööre.)"
+  },
+  {
+    "nr": 412,
+    "tolge": "Leia $\\sin 20^\\circ \\sin 40^\\circ \\sin 60^\\circ \\sin 80^\\circ \\sin 100^\\circ \\sin 120^\\circ \\sin 140^\\circ \\sin 160^\\circ.$"
+  },
+  {
+    "nr": 413,
+    "tolge": "Olgu $(a_1, a_2, \\dots, a_n)$ positiivsete reaalarvude jada, mille korral\n\\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]\nLeia $n.$ kõigi võimalike väärtuste summa."
+  },
+  {
+    "nr": 414,
+    "tolge": "Reaalarvude $x$ hulk, mille korral\n$$\\dfrac{1}{x-2009}+\\dfrac{1}{x-2010}+\\dfrac{1}{x-2011}\\ge 1$$\non kujul $a<x\\le b$ olevate intervallide ühend. Mis on nende intervallide pikkuste summa?"
+  },
+  {
+    "nr": 415,
+    "tolge": "Mis on kõigi täisarvuliste $x$ väärtuste summa, mille korral $\\frac{67}{2x - 23}$ on täisarv?"
+  },
+  {
+    "nr": 416,
+    "tolge": "Avalda $\\dfrac{6}{\\sqrt{245}+3\\sqrt{125}+4\\sqrt{45}}$ kujul $\\frac{A\\sqrt{B}}{C}$, kus $A$ ja $C$ on ühisteguriteta täisarvud, $C$ on positiivne ning $B$ ei jagu ühegi algarvu ruuduga. Leia $A+B+C$."
+  },
+  {
+    "nr": 417,
+    "tolge": "Leia arvu $9951$ suurim algtegur."
+  },
+  {
+    "nr": 418,
+    "tolge": "Arvuta $\\left(\\sqrt{97969}\\right)^2$."
+  },
+  {
+    "nr": 419,
+    "tolge": "Arvuta\n\\[\\begin{pmatrix} 3 & 1 & 0 \\\\ -7 & 4 & 2 \\\\ 0 & 5 & -1 \\end{pmatrix} \\begin{pmatrix} 4 \\\\ -1 \\\\ -2 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 420,
+    "tolge": "Kui\n\\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]iga $n \\ge 1$ korral ja $f(1) = f(1986),$ arvuta\n\\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]"
+  },
+  {
+    "nr": 421,
+    "tolge": "Joonisel kujutatud viieharulisel tähel on tähed $A$, $B$, $C$, $D$ ja $E$ asendatud arvudega 3, 5, 6, 7 ja 9, kuigi mitte tingimata selles järjekorras. Lõikude $\\overline{AB}$, $\\overline{BC}$, $\\overline{CD}$, $\\overline{DE}$ ja $\\overline{EA}$ otstes olevate arvude summad moodustavad aritmeetilise jada, kuigi mitte tingimata selles järjekorras. Mis on selle aritmeetilise jada keskmine liige?\n\n[asy]\npair A,B,C,D,E;\nA=(0,10);\nB=(5.9,-8.1);\nC=(-9.5,3.1);\nD=(9.5,3.1);\nE=(-5.9,-8.1);\ndraw(A--B--C--D--E--cycle,linewidth(0.7));\nlabel(\"$A$\",A,N);\nlabel(\"$B$\",B,SE);\nlabel(\"$C$\",C,NW);\nlabel(\"$D$\",D,NE);\nlabel(\"$E$\",E,SW);\n[/asy]"
+  },
+  {
+    "nr": 422,
+    "tolge": "Toimub rahvusvaheline kohtumine Inglismaa, Saksamaa ja Prantsusmaa vahel. Inglismaalt osaleb kolm esindajat, Saksamaalt neli ja Prantsusmaalt kaks. Mitmel viisil saavad kõik üheksa esindajat istuda ümber ümmarguse laua, kui sama riigi esindajad istuvad koos? (Kahte viisi peetakse samaks, kui ühte saab teise saamiseks pöörata.)"
+  },
+  {
+    "nr": 423,
+    "tolge": "Kui $j$ on positiivne täisarv ning avaldist $(7j+3)$ korrutatakse 3-ga ja seejärel jagatakse 7-ga, siis mis on jääk?"
+  },
+  {
+    "nr": 424,
+    "tolge": "Olgu $a$ ja $b$ kaks ühiku 12. astme juurt, mis ei pruugi olla erinevad. Leia avaldise $(a + b)^{12}$ erinevate võimalike väärtuste arv."
+  },
+  {
+    "nr": 425,
+    "tolge": "Oletame, et $h(x)=f^{-1}(x)$. Kui $h(2)=10$, $h(10)=1$ ja $h(1)=2$, siis millega võrdub $f(f(10))$?"
+  },
+  {
+    "nr": 426,
+    "tolge": "Mis on suurim täisarv, mis rahuldab võrratust $6 - x > -9$?"
+  },
+  {
+    "nr": 427,
+    "tolge": "Vaatleme polünoome $P(x) = x^6-x^5-x^3-x^2-x$ ja $Q(x)=x^4-x^3-x^2-1$. Kui $z_1, z_2, z_3$ ja $z_4$ on võrrandi $Q(x)=0$ juured, leia $P(z_1)+P(z_2)+P(z_3)+P(z_4).$"
+  },
+  {
+    "nr": 428,
+    "tolge": "Olgu $x=\\frac{7}{8}$ ja $y=-\\frac{2}{9}$. Kui $x\\cdot z = y$, siis millega võrdub $z$?"
+  },
+  {
+    "nr": 429,
+    "tolge": "Olgu $\\sec x+\\tan x=\\frac{22}7.$ Leia $\\csc x+\\cot x.$"
+  },
+  {
+    "nr": 430,
+    "tolge": "Jada algab liikmega 2222. Iga järgnev liige leitakse, liites eelmisele liikmele 1010. Mis on kuuenda ja seitsmenda liikme summa?"
+  },
+  {
+    "nr": 431,
+    "tolge": "Kui $r$, $s$ ja $t$ on sellised konstandid, et $\\frac{x^{r-2}\\cdot y^{2s}\\cdot z^{3t+1}}{x^{2r}\\cdot y^{s-4}\\cdot z^{2t-3}}=xyz$ kõigi nullist erinevate $x$, $y$ ja $z$ korral, siis leia $r^s\\cdot t$ väärtus. Esita vastus hariliku murruna."
+  },
+  {
+    "nr": 432,
+    "tolge": "Lihtsusta: $\\displaystyle \\frac{\\frac 12\\times 1024}{0.125\\times 2^{12}}$."
+  },
+  {
+    "nr": 433,
+    "tolge": "Võrdse kaaluga testidel saadud punktid on 70, 80, 90, 75, 80 ja 85. Mis on nende kuue testi tulemuse keskmine?"
+  },
+  {
+    "nr": 434,
+    "tolge": "Mitu võimalust on täita arvu $1\\underline{\\hphantom{2}}\\,\\underline{\\hphantom{2}}4$ kümneliste ja sajaliste numbrit nii, et see jaguks $11$-ga?"
+  },
+  {
+    "nr": 435,
+    "tolge": "Arvuta $\\left|\\dfrac{2-4i}{2+i}\\right|$."
+  },
+  {
+    "nr": 436,
+    "tolge": "Punktid $P$ ja $R$ asuvad vastavalt koordinaatidel (1, 3) ja (7, 15). Punkt $M$ on lõigu $PR$ keskpunkt. Lõiku $PR$ peegeldatakse üle $x$-telje. Mis on punkti $M$ kujutise (peegeldatud lõigu keskpunkti) koordinaatide summa?"
+  },
+  {
+    "nr": 437,
+    "tolge": "Olgu $(x_1,y_1),$ $(x_2,y_2),$ $\\dots,$ $(x_n,y_n)$ reaalarvude järjestatud paarid $(x,y)$, mille korral $x+y=2$ ja $x^5+y^5=82$. Leia\n\\[x_1^2 + y_1^2 + x_2^2 + y_2^2 + \\dots + x_n^2 + y_n^2.\\]"
+  },
+  {
+    "nr": 438,
+    "tolge": "Kui suur on kraadides kolmnurga $\\triangle PQR$ suurim nurk?\n\n[asy]\ndraw((0,0)--(-1.3,4)--(7,0)--cycle);\nlabel(\"$P$\",(-1.3,4),NW); label(\"$Q$\",(0,0),SW); label(\"$R$\",(7,0),SE);\n\nlabel(\"$6x^\\circ$\",(0,0),NE); label(\"$x^\\circ$\",(5,0),N); label(\"$3x^\\circ$\",(-.25,3));\n[/asy]"
+  },
+  {
+    "nr": 439,
+    "tolge": "Milline on lühim kaugus ringjoonte vahel, mis on määratud võrranditega $x^2-24x +y^2-32y+384=0$ ja $x^2+24x +y^2+32y+384=0$?"
+  },
+  {
+    "nr": 440,
+    "tolge": "Olgu $\\omega$ selline kompleksarv, et $\\omega^3 = 1.$ Leia avaldise\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]\nkõik võimalikud väärtused. Sisesta kõik võimalikud väärtused, eraldatuna komadega."
+  },
+  {
+    "nr": 441,
+    "tolge": "Cancúnis puhkusel olles saab Colleen osta sombrero ja paari plätusid $\\$32$ eest. Ta saab osta paari plätusid ja päikeseprillid $\\$42$ eest. Ta saab osta sombrero ja päikeseprillid $\\$30$ eest. Mitu dollarit maksab sombrero?"
+  },
+  {
+    "nr": 442,
+    "tolge": "Leia suurim võimalik täisarv $n$, mille korral $942!$ jagub arvuga $15^n$."
+  },
+  {
+    "nr": 443,
+    "tolge": "Leia $|{-324} + 243i|$."
+  },
+  {
+    "nr": 444,
+    "tolge": "Pall kukutatakse otse alla 16 jala kõrguselt. Kui see põrkab iga kord tagasi kõrgusele, mis on pool selle viimase kukkumise kõrgusest, siis kui pika tee on pall läbinud hetkeks, kui see puudutab põrandat kuuendat korda, jalgades?"
+  },
+  {
+    "nr": 445,
+    "tolge": "Olgu $x$ ja $y$ reaalarvud. Leidke avaldise\n\\[\\frac{(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}.\\]\nvõimalike väärtuste hulk."
+  },
+  {
+    "nr": 446,
+    "tolge": "Alustades alloleval diagrammil punktist $A$, valib Dora võrdse tõenäosusega ühe neljast võimalikust suunast. Iga kord, kui ta jõuab ristmikule, valib ta taas juhuslikult ühe võimalikest suundadest. Kui suur on tõenäosus, et ta kõnnib oma esimese nelja sammuga täielikult ümber halli ruudu? Esita vastus hariliku murruna. [asy]size(100);\nfill((1,1)--(1,2)--(2,2)--(2,1)--cycle, gray(.6));\ndraw((0,0)--(0,3)--(3,3)--(3,0)--cycle, linewidth(1.5));\ndraw((0,1)--(3,1), linewidth(1.5));\ndraw((0,2)--(3,2), linewidth(1.5));\ndraw((1,0)--(1,3), linewidth(1.5));\ndraw((2,0)--(2,3), linewidth(1.5));\ndot(MP(\"A\", (1,2), NW));\n[/asy]"
+  },
+  {
+    "nr": 447,
+    "tolge": "John arvutab hulga $\\{1,2,3,4,5,6\\}$ kõigi 15 kahe-elemendilise alamhulga elementide summad. Mis on nende 15 summa summa?"
+  },
+  {
+    "nr": 448,
+    "tolge": "Mitu erinevat 4-ga jaguvat positiivset täisarvu saab moodustada, kasutades numbreid 1, 2, 3 ja 4 igaüht kõige rohkem ühe korra ning mitte ühtegi teist numbrit? Näiteks 12 läheb arvesse, kuid 512 mitte."
+  },
+  {
+    "nr": 449,
+    "tolge": "Kahe erineva algarvu ruutude vahe on 1488. Teades, et mõlemad algarvud on väiksemad kui 50, leia need algarvud.\n\nMärkus: Esita arvud mistahes järjekorras, eraldatuna komaga."
+  },
+  {
+    "nr": 450,
+    "tolge": "Mitmel erineval viisil saab 12 kümnesendist münti jagada kolme kuhja nii, et igas kuhjas on paaritu arv münte?"
+  },
+  {
+    "nr": 451,
+    "tolge": "Mis on $x$ vähim väärtus, mille korral $\\frac{x+2}{3} = \\frac{4}{x+1}$?"
+  },
+  {
+    "nr": 452,
+    "tolge": "Olgu $a$ ja $b$ sellised reaalarvud, et $a > b > 0.$ Leia avaldise\n\\[a + \\frac{1}{b(a - b)}.\\]\nvähim väärtus."
+  },
+  {
+    "nr": 453,
+    "tolge": "Ringjoone keskpunkt asub punktis $(5,15)$ ja selle raadius on $\\sqrt{130}$ ühikut. Punkt $Q = (x,y)$ asub ringjoonel, selle koordinaadid on täisarvud ning $x$-koordinaadi väärtus on kaks korda suurem kui $y$-koordinaadi väärtus. Mis on $x$-i suurim võimalik väärtus?"
+  },
+  {
+    "nr": 454,
+    "tolge": "Olgu $p(x)$ selline 4. astme polünoom, et $p(55) = p(83) = p(204) = p(232) = 8$ ja $p(103) = 13.$ Leia\n\\[p(1) - p(2) + p(3) - p(4) + \\dots + p(285) - p(286).\\]"
+  },
+  {
+    "nr": 455,
+    "tolge": "Arvuta $$1\\cdot 2^2+2\\cdot 3^2+3\\cdot4^2+\\cdots+19\\cdot 20^2.$$"
+  },
+  {
+    "nr": 456,
+    "tolge": "Joonisel on $PT$ paralleelne sirgega $QR.$ Kui suur on nurk $\\angle PQR$ kraadides?\n\n[asy]\ndraw((0,0)--(10,0),black+linewidth(1));\ndraw((0,0)--(10,0),MidArrow);\ndraw((10,0)--(20,0),black+linewidth(1));\ndraw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1));\ndraw((-5,10)--(7,10),MidArrow);\nlabel(\"$x^{\\circ}$\",(-6,10),SE);\nlabel(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy]"
+  },
+  {
+    "nr": 457,
+    "tolge": "Leia näidatud arvusüsteemis järgmise avaldise üheliste number: $413_6 - 215_6$"
+  },
+  {
+    "nr": 458,
+    "tolge": "Olgu $f(x) = x + 2$ ja $g(x) = 1/f(x)$. Millega võrdub $g(f(-3))$?"
+  },
+  {
+    "nr": 459,
+    "tolge": "Arvuta $\\cos (-150^\\circ)$."
+  },
+  {
+    "nr": 460,
+    "tolge": "Oletame, et võidame mündiviskel kulli saamisel $\\$3$, kuid kaotame kirja saamisel $\\$2$. Mis on meie võidu oodatav väärtus dollarites pärast ühte viset?"
+  },
+  {
+    "nr": 461,
+    "tolge": "Leiduvad vektorid $\\mathbf{a}$ ja $\\mathbf{b}$ nii, et\n\\[\\mathbf{a} + \\mathbf{b} = \\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix},\\]kus $\\mathbf{a}$ on paralleelne vektoriga $\\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix}$ ja $\\mathbf{b}$ on ortogonaalne vektoriga $\\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix}.$  Leia $\\mathbf{b}.$"
+  },
+  {
+    "nr": 462,
+    "tolge": "Arvu $n$ positiivsete täisarvuliste päristegurite korrutise saab kirjutada kujul $n^{(ax+b)/c}$, kus $x$ on arvu $n$ positiivsete jagajate arv, $c$ on positiivne täisarv ning kolme täisarvu $a$, $b$ ja $c$ suurim ühistegur on $1$. Mis on $a+b+c$?"
+  },
+  {
+    "nr": 463,
+    "tolge": "Oletame, et $g(x)=f^{-1}(x)$. Kui $g(-15)=0$, $g(0)=3$, $g(3)=9$ ja $g(9)=20$, siis millega võrdub $f(f(9))$?"
+  },
+  {
+    "nr": 464,
+    "tolge": "Arvuta $\\begin{pmatrix} 5 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} -11 \\\\ 10 \\end{pmatrix}$."
+  },
+  {
+    "nr": 465,
+    "tolge": "Kui \\begin{align*}\n5x-2y&=7,\\\\\n3x+y&=2,\n\\end{align*}arvuta $24x-14y$."
+  },
+  {
+    "nr": 466,
+    "tolge": "Kolmnurga $ABC$ mediaanid $AD$, $BE$ ja $CF$ lõikuvad raskuskeskmes $G$. Läbi punkti $G$ kulgev ja küljega $BC$ paralleelne sirge lõikab külgi $AB$ ja $AC$ vastavalt punktides $M$ ja $N$. Kui kolmnurga $ABC$ pindala on 144, siis leia kolmnurga $ENG$ pindala."
+  },
+  {
+    "nr": 467,
+    "tolge": "Leia reaallahendite arv võrrandile $\\sin 6 \\pi x = x.$"
+  },
+  {
+    "nr": 468,
+    "tolge": "Enrico koostab nimekirja arvu 3 esimesest kahekümnest positiivsest kordsest. Marie koostab nimekirja arvu 6 esimesest kümnest positiivsest kordsest. Mitu arvu Marie nimekirjast on ka Enrico nimekirjas?"
+  },
+  {
+    "nr": 469,
+    "tolge": "Mitu täisarvuliste küljepikkustega võrdhaarset kolmnurka on ümbermõõduga 20 ühikut?"
+  },
+  {
+    "nr": 470,
+    "tolge": "Positiivse täisarvu $n$ korral, kus $n < 10{,}000$, on arvul $n+2005$ täpselt 21 positiivset tegurit. Mis on $n$ kõigi võimalike väärtuste summa?"
+  },
+  {
+    "nr": 471,
+    "tolge": "Süsteemi  \\[ \\begin{cases}& 2x+y \\le 4 \\\\& x+y \\ge 1 \\\\& x \\ge 0 \\\\& y \\ge 0 \\end{cases} \\] kõigi lahendite hulk on nelinurkne piirkond. Kui pikima külje pikkus on $a\\sqrt{b}$ (esitatud lihtsaimal juurkujul), leidke $a+b$."
+  },
+  {
+    "nr": 472,
+    "tolge": "Ruutkolmliiget $x^2+(2.6)x+3.6$ saab kirjutada kujul $(x+b)^2+c$, kus $b$ ja $c$ on konstandid. Millega võrdub $b+c$ (kümnendmurruna)?"
+  },
+  {
+    "nr": 473,
+    "tolge": "Münti $A$ visatakse kolm korda ja münti $B$ visatakse neli korda. Kui suur on tõenäosus, et nende kahe õiglase mündi viskamisel saadud kullide arv on sama?"
+  },
+  {
+    "nr": 474,
+    "tolge": "Dawnil on 5-, 10- ja 25-sendistes müntides kokku $\\$ $1.20. Iga 5-sendise mündi kohta on tal üks 10-sendine münt ja iga 10-sendise mündi kohta üks 25-sendine münt. Mitu münti on tal kokku?"
+  },
+  {
+    "nr": 475,
+    "tolge": "Leia $\\begin{pmatrix} 1 \\\\ 4 \\\\ -6 \\end{pmatrix} + \\begin{pmatrix} 2 \\\\ -1 \\\\ 3 \\end{pmatrix}.$"
+  },
+  {
+    "nr": 476,
+    "tolge": "Funktsioonid $\\sin(x)$ ja $\\cos(x)$ on perioodilised vähima perioodiga $2\\pi$. Mis on funktsiooni $\\cos(\\sin(x))$ vähim periood?"
+  },
+  {
+    "nr": 477,
+    "tolge": "Kui $a\\equiv 16\\pmod{37}$ ja $b\\equiv 21\\pmod{37}$, siis millise täisarvu $n$ korral hulgast $\\{0,1,2,\\ldots,35,36\\}$ kehtib $$a-b\\equiv n\\pmod{37}~?$$"
+  },
+  {
+    "nr": 478,
+    "tolge": "Kui $3x^2-2(x^2+4)=42$, siis mis on $x^4$ väärtus?"
+  },
+  {
+    "nr": 479,
+    "tolge": "Raadiusega 2 poolringi diameetrile $\\overline{AB}$ on joonestatud kolm raadiusega 1 poolringi. Väikeste poolringide keskpunktid jagavad diameetri $\\overline{AB}$ neljaks võrdse pikkusega lõiguks, nagu joonisel näidatud. Kui suur on varjutatud piirkonna pindala, mis asub suure poolringi sees, kuid väljaspool väiksemaid poolringe? Esita vastus arvu $\\pi$ kaudu ja võimalikult lihtsal juurkujul.\n\n[asy]\nfill((0,2)..(2,0)--(-2,0)..cycle,gray(0.7));\nfill((-1,1)..(0,0)--(-2,0)..cycle,white);\nfill((1,1)..(0,0)--(2,0)..cycle,white);\nfill((0,1)..(1,0)--(-1,0)..cycle,white);\ndraw((0,1)..(1,0)--(-1,0)..cycle,dashed);\ndraw((0,2)..(2,0)--(-2,0)..cycle);\nlabel(\"$A$\",(-2,0),W);\nlabel(\"$B$\",(2,0),E);\nlabel(\"1\",(-1.5,0),S);\nlabel(\"2\",(0,0),S);\nlabel(\"1\",(1.5,0),S);\ndot((0,0));\ndot((-1,0));\ndot((1,0));\ndraw((-2,-0.1)--(-2,-0.4));\ndraw((-1,-0.1)--(-1,-0.4));\ndraw((2,-0.1)--(2,-0.4));\ndraw((1,-0.1)--(1,-0.4));\n[/asy]"
+  },
+  {
+    "nr": 480,
+    "tolge": "Mitu võimalust on asetada 4 eristamatut palli 2 eristatavasse kasti?"
+  },
+  {
+    "nr": 481,
+    "tolge": "Leia võrrandiga määratud kõver\n\\[r = \\cos \\theta + \\sin \\theta.\\](A) Sirge\n(B) Ringjoon\n(C) Parabool\n(D) Ellips\n(E) Hüperbool\n\nSisesta õige valiku täht."
+  },
+  {
+    "nr": 482,
+    "tolge": "Parameetriline kõver on määratud seosega\n\\[(x,y) = (\\sin^2 t, 2 \\cos t),\\]kus $t$ omandab kõiki reaalarvulisi väärtusi.\n\nSama parameetrilist kõverat saab määrata seosega\n\\[(x,y) = (-s^2 - 2s, 2s + 2),\\]kus $s$ omandab väärtusi mingis intervallis $I.$  Leidke intervall $I.$"
+  },
+  {
+    "nr": 483,
+    "tolge": "Kui $12^2 \\cdot 18^3 = 2^x \\cdot 3^y$, leia $x+y$."
+  },
+  {
+    "nr": 484,
+    "tolge": "Tuleta meelde, et kui $b$ on jääk $\\pmod{m}$, siis $b$ modulaarne pöördelement on jääk $c$, mille korral $bc \\equiv 1\\pmod{m}$. Allolev tabel näitab esimese 9 positiivse jäägi pöördelemente mooduli 47 järgi.  \\begin{tabular}{c|ccccccccc}\n$b$ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\\ \\hline\n$\\,b$ pöördelement & 1 & 24 & 16 & 12 & 19 & 8 & 27 & 6 & 21\n\\end{tabular}Leia modulaarne pöördelement arvule $35\\pmod{47}$.\n\nEsita vastus täisarvuna vahemikus $0$ kuni $46$ (kaasa arvatud)."
+  },
+  {
+    "nr": 485,
+    "tolge": "Kui kolme reaalarvu summa on $0$ ja nende korrutis on $17$, siis mis on nende kuupide summa?"
+  },
+  {
+    "nr": 486,
+    "tolge": "Leia selle tasandi võrrand, mis poolitab tasandite $3x - 6y + 2z + 5 = 0$ ja $4x - 12y + 3z - 3 = 0$ vahelise nurga ning läbib punkti $(-5,-1,-5).$ Esita oma vastus kujul\n\\[Ax + By + Cz + D = 0,\\]kus $A,$ $B,$ $C,$ $D$ on täisarvud, nii et $A > 0$ ja $\\gcd(|A|,|B|,|C|,|D|) = 1.$"
+  },
+  {
+    "nr": 487,
+    "tolge": "Kahe arvu summa on $3$. Nende arvude ruutude vahe on $33$. Mis on nende kahe arvu vahe absoluutväärtus?"
+  },
+  {
+    "nr": 488,
+    "tolge": "Joonisel on $D$ ja $E$ vastavalt lõikude $\\overline{AB}$ ja $\\overline{BC}$ keskpunktid. Leia nelinurga $DBEF$ pindala. [asy]\nsize(180); defaultpen(linewidth(.7pt)+fontsize(10pt));\npair A, B, C, D, E, F;\nA=(0,6);\nB=(0,0);\nC=(8,0);\nD=(0,3);\nE=(4,0);\nF=(8/3,2);\ndraw(E--A--C--D);\ndraw((-1,0)--(10,0), EndArrow);\ndraw((0,-1)--(0,8), EndArrow);\nlabel(\"$A(0,6)$\", A, W);\nlabel(\"$B(0,0)$\", B, SW);\nlabel(\"$C(8,0)$\", C, S);\nlabel(\"$D$\", D, W);\nlabel(\"$E$\", E, S);\nlabel(\"$F$\", F, SW);\nlabel(\"$x$\", (10,0), dir(0));\nlabel(\"$y$\", (0,8), dir(90));\n[/asy]"
+  },
+  {
+    "nr": 489,
+    "tolge": "Esimese $m$ positiivse paaritu täisarvu summa on 212 võrra suurem kui esimese $n$ positiivse paaristäisarvu summa. Mis on kõigi võimalike $n$ väärtuste summa?"
+  },
+  {
+    "nr": 490,
+    "tolge": "Olgu\n\\[\\mathbf{A} = \\begin{pmatrix} 3 & 7 \\\\ -1 & -2 \\end{pmatrix},\\]arvuta $\\mathbf{A}^{27} + \\mathbf{A}^{31} + \\mathbf{A}^{40}.$"
+  },
+  {
+    "nr": 491,
+    "tolge": "Mitu mittekongruentset kolmnurka saab joonistada nii, et nende tipud asuvad ühikkuubi tippudes?"
+  },
+  {
+    "nr": 492,
+    "tolge": "Kui palju on $50\\%$ $200\\%$-st $10$-st?"
+  },
+  {
+    "nr": 493,
+    "tolge": "Leia konstant $a$, mille korral \\[(x^2 - 3x + 4)(2x^2 +ax + 7) = 2x^4 -11x^3 +30x^2 -41x +28.\\]"
+  },
+  {
+    "nr": 494,
+    "tolge": "Delilah kirjutab paberitükile arvu $12$ positiivsed jagajad ja annab selle Ezekielile. Iga jagaja kõrvale kirjutab Ezekiel kõik positiivsed täisarvud, mis on sellest arvust väiksemad või sellega võrdsed ning millel ei ole selle jagajaga muid ühiseid jagajaid peale $1.$ (Seega kirjutab Ezekiel näiteks iga Delilahi kirjutatud jagaja kõrvale $``1\"$.) Mitu arvu kirjutab Ezekiel kokku?"
+  },
+  {
+    "nr": 495,
+    "tolge": "Millise $n$ väärtuse korral on $(2^3)^4 = 2^n$?"
+  },
+  {
+    "nr": 496,
+    "tolge": "Allpool on toodud funktsiooni $y = a \\cos bx$ graafik mingite positiivsete konstantide $a$ ja $b$ korral. Leia $a.$\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal g(real x)\n{\n\treturn (3*cos(4*x));\n}\n\ndraw(graph(g,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5, 5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3), E);\nlabel(\"$-1$\", (0,-1), E);\nlabel(\"$-2$\", (0,-2), E);\nlabel(\"$-3$\", (0,-3), E);\n[/asy]"
+  },
+  {
+    "nr": 497,
+    "tolge": "Kui $(x,y) = (3,9)$, siis millega võrdub $y^2 - 3xy + 8$?"
+  },
+  {
+    "nr": 498,
+    "tolge": "Olgu $a,$ $b$ ja $c$ sellised reaalarvud, et $ab + ac + bc = 0$ ja $(a + b + c + 1)^2 = abc.$  Leidke avaldise\n\\[(ab - c)(ac - b)(bc - a).\\]\nkõik võimalikud väärtused. Sisestage võimalikud väärtused komadega eraldatult. Näiteks kui arvate, et võimalikud väärtused on 3, 4 ja 5, sisestage \"3, 4, 5\" ilma jutumärkideta."
+  },
+  {
+    "nr": 499,
+    "tolge": "Yann ja Camille lähevad restorani. Kui menüüs on 10 rooga ja kumbki tellib ühe roa, siis mitu erinevat toidukombinatsiooni saavad Yann ja Camille tellida, kui nad ei soovi sama rooga tellida? (Sellel on vahe, kes mida tellib — see, kui Yann tellib kana ja Camille kala, on erinev sellest, kui Yann tellib kala ja Camille kana.)"
+  }
+]

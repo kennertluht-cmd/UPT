@@ -1,0 +1,2002 @@
+[
+  {
+    "nr": 0,
+    "tolge": "Olkoon $A = (0, 0),$ $B = (1, 2),$ $C=(3, 3)$ ja $D = (4, 0).$ Nelikulmio $ABCD$ jaetaan kahdeksi pinta-alaltaan yhtä suureksi osaksi suoralla, joka kulkee pisteen $A$ kautta. Mitkä ovat sen pisteen koordinaatit, jossa tämä suora leikkaa janan $\\overline{CD}$?"
+  },
+  {
+    "nr": 1,
+    "tolge": "Olkoon $x$ kokonaisluku siten, että $x\\sqrt{x}-5x-9\\sqrt{x}=35$. Määritä $x$."
+  },
+  {
+    "nr": 2,
+    "tolge": "Etsi lukujen $1001$ ja $2431$ suurin yhteinen tekijä."
+  },
+  {
+    "nr": 3,
+    "tolge": "Jos $7 - 4x = 15$, mikä on lausekkeen $8x + 2$ arvo?"
+  },
+  {
+    "nr": 4,
+    "tolge": "Etsi funktion\n\\[f(x) = \\sqrt{5x^2 + 2x \\sqrt{5} + 1} + x \\sqrt{5},\\]\npienin arvo kaikilla $x$, joilla $f(x)$ on määritelty."
+  },
+  {
+    "nr": 5,
+    "tolge": "Mikä on $x$:n arvo yhtälössä $3x + 2 + 3(1+x) = 23$?"
+  },
+  {
+    "nr": 6,
+    "tolge": "Määritä luvun $17^{13} - 17$ viimeinen numero."
+  },
+  {
+    "nr": 7,
+    "tolge": "Tämä ympyrä kulkee pisteiden $(-1, 2)$, $(3,0)$ ja $(9,0)$ kautta. Ympyrän keskipiste on $(h,k)$. Mikä on $h+k$:n arvo?"
+  },
+  {
+    "nr": 8,
+    "tolge": "Raymond syö yleensä välipalaksi kymmenen 12 kalorin suolakeksiä. Kuinka monta 20 kalorin pikkuleipää hänen täytyisi syödä saadakseen saman määrän kaloreita?"
+  },
+  {
+    "nr": 9,
+    "tolge": "Olkoon $\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 3 \\\\ 0 \\end{pmatrix},$ $\\mathbf{b} = \\begin{pmatrix} -11 \\\\ 5 \\\\ 2 \\end{pmatrix},$ ja $\\mathbf{c} = \\begin{pmatrix} 1 + \\sqrt{5} \\\\ 4 \\\\ -5 \\end{pmatrix}.$ Määritä $k$, jos vektorit $\\mathbf{a} + \\mathbf{b} + \\mathbf{c}$ ja\n\\[3 (\\mathbf{b} \\times \\mathbf{c}) - 8 (\\mathbf{c} \\times \\mathbf{a}) + k (\\mathbf{a} \\times \\mathbf{b})\\]ovat ortogonaaliset."
+  },
+  {
+    "nr": 10,
+    "tolge": "Lukuun $4 - \\sqrt{3} + (-1 - 4 \\sqrt{3})i.$ kohdistetaan $120^\\circ$:n kierto origon ympäri myötäpäivään. Mikä on tuloksena saatu kompleksiluku?"
+  },
+  {
+    "nr": 11,
+    "tolge": "Valitaan satunnaisesti luvun 45 positiivinen monikerta, joka on pienempi kuin 1000. Mikä on todennäköisyys, että se on kaksinumeroinen kokonaisluku? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 12,
+    "tolge": "Lauseke $$1 + 2 + 3 - 4 + 5 + 6$$ on yhtä suuri kuin 13. Jos lisäämme sulkeita eri kohtiin, voimme muuttaa tätä arvoa. Esimerkiksi $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Jos vain lisäämme sulkeita (emmekä muuta termien järjestystä), mikä on pienin mahdollinen arvo, jonka tämä lauseke voi saada? (Tässä tehtävässä yhteen- tai vähennyslaskua ei saa muuttaa kertolaskuksi. Esimerkiksi $ (1+2+3)(-4)+5+6 $ ei ole sallittu sulkeiden sijoitus.)\n\nSyötä vastauksesi yksittäisenä arvona."
+  },
+  {
+    "nr": 13,
+    "tolge": "Ratkaise $x$: $$\\log_2 \\frac{2x+8}{x+2} +\\log_2\\frac{x+2}{x-5}=3$$"
+  },
+  {
+    "nr": 14,
+    "tolge": "Kumpikin symboleista $\\star$ ja $*$ edustaa jotakin laskutoimitusta joukossa $\\{+,-,\\times,\\div\\}$, ja $\\frac{12\\star 2}{9*3}=4$. Mikä on lausekkeen $\\frac{10\\star 7}{24*9}$ arvo? Ilmoita vastauksesi murtolukuna."
+  },
+  {
+    "nr": 15,
+    "tolge": "Mikä on kaikkien niiden kokonaislukujen $x$ summa, joille $-30 \\leq x \\leq 26$?"
+  },
+  {
+    "nr": 16,
+    "tolge": "Mikä on sen suoran $y$-akselin leikkauspisteen $y$-koordinaatti, joka kulkee pisteen $(2,-3)$ kautta ja jonka kulmakerroin on $\\frac12$?"
+  },
+  {
+    "nr": 17,
+    "tolge": "Paljonko on $56.78-43.6?$"
+  },
+  {
+    "nr": 18,
+    "tolge": "On olemassa luvut $A$ ja $B$, joille  \\[\\frac A{x-1}+\\frac B{x+1}=\\frac{x+2}{x^2-1}\\] kaikilla luvuilla $x\\neq\\pm1$. Määritä $A-B$."
+  },
+  {
+    "nr": 19,
+    "tolge": "Laske summa ja anna vastauksesi tavallisena murtolukuna:\n$$\n\\begin{array}{r r@{}c@{}l}\n& 1 &.& 11111111\\ldots \\\\\n& 0 &.& 11111111\\ldots \\\\\n& 0 &.& 01111111\\ldots \\\\\n& 0 &.& 00111111\\ldots \\\\\n& 0 &.& 00011111\\ldots \\\\\n& 0 &.& 00001111\\ldots \\\\\n& 0 &.& 00000111\\ldots \\\\\n+ &&\\vdots \\\\\n\\hline\n&&& ~~~?\n\\end{array}\n$$"
+  },
+  {
+    "nr": 20,
+    "tolge": "Etsi yhtälön $|2-x|= 3$ kaikkien ratkaisujen summa."
+  },
+  {
+    "nr": 21,
+    "tolge": "Olkoot $a$ ja $b$ nollasta poikkeavia reaalivakioita siten, että $|a| \\neq |b|.$ Määritä niiden eri $x$:n arvojen määrä, jotka toteuttavat yhtälön\n\\[\\frac{x - a}{b} + \\frac{x - b}{a} = \\frac{b}{x - a} + \\frac{a}{x - b}.\\]"
+  },
+  {
+    "nr": 22,
+    "tolge": "Kun $A$ kaksinkertaistetaan, uusi arvo on 10 suurempi kuin $A$. Mikä on $A$:n arvo?"
+  },
+  {
+    "nr": 23,
+    "tolge": "Kuvassa $AD=BD=CD$ ja $\\angle BCA = 40^\\circ.$ Mikä on kulman $\\angle BAC$ suuruus?\n\n[asy]\ndraw((0,0)--(10,0)--(8.2635,9.8481)--cycle,black+linewidth(1));\ndraw((10,0)--(20,0)--(8.2635,9.8481),black+linewidth(1));\ndraw((5,-0.5)--(5,0.5),black+linewidth(1));\ndraw((15,-0.5)--(15,0.5),black+linewidth(1));\ndraw((8.6318,4.8359)--(9.6317,5.0122),black+linewidth(1));\nlabel(\"$A$\",(8.2635,9.8481),N);\nlabel(\"$B$\",(0,0),SW);\nlabel(\"$C$\",(20,0),SE);\nlabel(\"$D$\",(10,0),S);\n[/asy]"
+  },
+  {
+    "nr": 24,
+    "tolge": "Olkoon $P(x)$ kolmannen asteen polynomi, jolle\n\\begin{align*}\nP(1) &= \\log 1, \\\\\nP(2) &= \\log 2, \\\\\nP(3) &= \\log 3, \\\\\nP(4) &= \\log 4.\n\\end{align*}Tällöin $P(5)$ voidaan esittää muodossa $A \\log \\frac{B}{C},$ missä $A,$ $B,$ ja $C$ ovat positiivisia kokonaislukuja ja $C$ on alkuluku.  Määritä $A + B + C.$"
+  },
+  {
+    "nr": 25,
+    "tolge": "Stacylla on $d$ dollaria. Hän menee ostoskeskukseen, jossa on $10$ kauppaa ja arpajaiskoju. Ensin hän menee arpajaisiin ja hänen rahansa kaksinkertaistuvat, ja sen jälkeen hän menee ensimmäiseen kauppaan ja kuluttaa $1024$ dollaria. Sen jälkeen hän vuorotellen osallistuu arpajaisiin ja saa rahamääränsä kaksinkertaistumaan (Stacy voittaa aina) ja menee sitten uuteen kauppaan ja kuluttaa $\\$1024$. Kun hän tulee ulos viimeisestä kaupasta, hänellä ei ole enää rahaa jäljellä. Mikä on $d$:n pienin mahdollinen arvo?"
+  },
+  {
+    "nr": 26,
+    "tolge": "Etsi sellainen kokonaisluku $n$, että $0\\leq n<398$ ja $n$ on luvun 7 multiplikatiivinen käänteisalkio modulo 398."
+  },
+  {
+    "nr": 27,
+    "tolge": "Alice, Bailey, Cindy ja Daniel kulkivat naapurustoissaan myymässä kyniä. Alice tienasi $\\$25.67$, Bailey tienasi $\\$17.21$, Cindy tienasi $\\$39.17$ ja Daniel tienasi $\\$26.32$. Myynnin jälkeen he yhdistivät rahansa ja menivät pankkiin vaihtamaan kolikot dollareiksi. Kuinka monta senttiä heille jäi vaihtorahaa sen jälkeen, kun he olivat vaihtaneet mahdollisimman monet kolikoista seteleiksi?"
+  },
+  {
+    "nr": 28,
+    "tolge": "Laske $\\begin{pmatrix} 1 & 2 \\\\ 4 & 8 \\\\ \\end{pmatrix} \\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}.$"
+  },
+  {
+    "nr": 29,
+    "tolge": "Vakiolämpötilassa kaasunäytteen paine on kääntäen verrannollinen sen tilavuuteen. Minulla on vetyä 3,67 litran astiassa 4 kPa:n paineessa. Jos siirrän kaiken 1,835 litran astiaan samassa lämpötilassa, mikä uusi paine on yksikössä kPa?"
+  },
+  {
+    "nr": 30,
+    "tolge": "Olkoon $f(x)$ polynomi, jonka aste on suurempi kuin $2$. Jos $f(1) = 2$ ja $f(2) = 3$, määritä jakojäännös, kun $f(x)$ jaetaan polynomialla $(x-1)(x-2)$."
+  },
+  {
+    "nr": 31,
+    "tolge": "Neljäkkään piiri on $68$ yksikköä ja sen toinen lävistäjä on $30$ yksikköä. Mikä on sen pinta-ala neliöyksikköinä?"
+  },
+  {
+    "nr": 32,
+    "tolge": "Pelaaja valitsee yhden luvuista 1–4. Valinnan jälkeen heitetään kahta säännöllistä nelisivuista (tetraedrin muotoista) noppaa, joiden sivut on numeroitu 1–4. Jos valittu luku näkyy tasan yhden nopan pohjassa heiton jälkeen, pelaaja voittaa $\\$1.$ Jos valittu luku näkyy molempien noppien pohjassa, pelaaja voittaa $\\$2.$ Jos valittu luku ei näy kummankaan nopan pohjassa, pelaaja häviää $\\$1.$ Mikä on pelaajan odotettu tuotto dollareina yhdellä noppien heitolla? Anna vastauksesi murtolukuna."
+  },
+  {
+    "nr": 33,
+    "tolge": "$ABCD$ on säännöllinen tetraedri (suora kolmiopyramidi). Jos $M$ on janan $\\overline{CD}$ keskipiste, mikä on $\\tan\\angle AMB$?"
+  },
+  {
+    "nr": 34,
+    "tolge": "Määritä jakojäännös 54 (mod 6)."
+  },
+  {
+    "nr": 35,
+    "tolge": "Rapeiden riisimuroherkkujen reseptillä saadaan seos, joka täyttää 9 x 13 tuuman vuoan yhden tuuman syvyydeltä. Jos alkuperäisen reseptin 1,5-kertainen seos kaadetaan vuokaan, jonka mitat ovat 10 x 15 tuumaa, kuinka monen tuuman syvyydelle vuoka täyttyy? Anna vastauksesi desimaalilukuna pyöristettynä lähimpään sadasosaan."
+  },
+  {
+    "nr": 36,
+    "tolge": "Alla olevassa kuviossa suorat $k$ ja $\\ell$ ovat yhdensuuntaiset. Määritä kulman $x$ suuruus asteina. [asy]\nsize(200);\npair A = dir(-22)*(0,0);\npair B = dir(-22)*(4,0);\npair C = dir(-22)*(4,2);\npair D = dir(-22)*(0,2);\npair F = dir(-22)*(0,1.3);\npair G = dir(-22)*(4,1.3);\n\npair X,Y;\n\nX=A;\nY=B;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=A;\nY=C;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=C;\nY=B;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=B;\nY=D;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nX=G;\nY=F;\ndraw(1.3*X-.3*Y--1.3*Y-.3*X);\n\nlabel(\"$\\ell$\",1.4*A-.4*B);\nlabel(\"$k$\",1.4*F-.4*G);\n\nlabel(\"$30^\\circ$\",A+(.8,-.1));\nlabel(\"$90^\\circ$\",B+(.4,.1));\nlabel(\"$x$\",C+(.32,.2));\n[/asy]"
+  },
+  {
+    "nr": 37,
+    "tolge": "Abby, Bart, Cindy ja Damon punnitsevat itsensä pareittain. Yhdessä Abby ja Bart painavat 160 paunaa, Bart ja Cindy painavat 180 paunaa ja Cindy ja Damon painavat 200 paunaa. Kuinka monta paunaa Abby ja Damon painavat yhdessä?"
+  },
+  {
+    "nr": 38,
+    "tolge": "Jos joukosta $\\{1, 2, 3, 4, 5\\}$ valitaan satunnaisesti kaksi lukua palauttamatta, mikä on todennäköisyys, että niiden summa on suurempi kuin niiden tulo? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 39,
+    "tolge": "Mikä on neljäkkään piiri, jonka lävistäjien pituudet ovat 12 ja 16 yksikköä?"
+  },
+  {
+    "nr": 40,
+    "tolge": "Määritä $\\left\\lceil \\sqrt[3]{-25}\\right\\rceil$."
+  },
+  {
+    "nr": 41,
+    "tolge": "Laske luvun $5+\\sqrt{3}$ ja sen liittoluvun tulo."
+  },
+  {
+    "nr": 42,
+    "tolge": "Kun tiedetään, että $2x - 3y = 8$ ja $4x + 3y = -2$, mikä on $x$:n ja $y$:n tulo?"
+  },
+  {
+    "nr": 43,
+    "tolge": "Senaatin valiokunnassa on 5 demokraattia ja 5 republikaania. Kuinka monella toisistaan eroavalla tavalla he voivat istua pyöreän pöydän ympärillä, jos kummankin puolueen kaikki jäsenet istuvat vierekkäin? (Jos pöytää kierretään, se lasketaan samaksi istumajärjestykseksi.)"
+  },
+  {
+    "nr": 44,
+    "tolge": "Sinulla on 5 paitaa, 6 paria housuja ja 8 hattua. Kuinka monta asukokonaisuutta voit muodostaa, joihin kuuluu yksi paita, yhdet housut ja yksi hattu?"
+  },
+  {
+    "nr": 45,
+    "tolge": "Toisen asteen lauseke $3x^2-24x+72$ voidaan kirjoittaa muodossa $a(x+b)^2+c$, missä $a$, $b$ ja $c$ ovat vakioita. Mikä on $a+b+c$?"
+  },
+  {
+    "nr": 46,
+    "tolge": "Mikä on $x$:n arvo kuviossa? [asy]\ndraw((-4,1)--(0,0)--(4,1),linewidth(1));\ndraw((-1,-4)--(0,0)--(1,-4),linewidth(1));\ndraw((1/3,.25/3)--(1.25/3,-.75/3)--(.25/3,-1/3),linewidth(1));\ndraw((-1/3,.25/3)--(-1.25/3,-.75/3)--(-.25/3,-1/3),linewidth(1));\nlabel(\"$150^\\circ$\",(0,0),N);\nlabel(\"$x^\\circ$\",(0,-2),S);\n[/asy]"
+  },
+  {
+    "nr": 47,
+    "tolge": "Tietyn ympyrän $75^{\\circ}$ keskuskulma rajaa kaaren, jonka pituus on $10\\pi$ jalkaa. Mikä on tämän ympyrän säde?"
+  },
+  {
+    "nr": 48,
+    "tolge": "Olkoon $z$ kompleksiluku, jolle $|z|=2$. Olkoon $P$ kompleksitason monikulmio, jonka kärkipisteet ovat $z$ ja jokainen sellainen $w$, jolle\n\\[\\frac{1}{z+w}=\\frac{1}{z}+\\frac{1}{w}.\\]Laske monikulmion $P$ rajaaman alueen pinta-ala."
+  },
+  {
+    "nr": 49,
+    "tolge": "Suorakulmaisessa kolmiossa $ABC$ on $\\angle BAC = 90^\\circ$ ja $D$ on janan $\\overline{AC}$ keskipiste. Jos $AB = 7$ ja $BC = 25$, mikä on $\\tan \\angle BDC$?"
+  },
+  {
+    "nr": 50,
+    "tolge": "Jos ruokakaupassa on 15 erilaista hedelmää ja 10 erilaista säilykekeittoa, kuinka monella tavalla Michael voi valita ostettavakseen 2 erilaista hedelmää ja 3 erilaista keittoa?"
+  },
+  {
+    "nr": 51,
+    "tolge": "Rationalisoi lausekkeen $\\displaystyle\\frac{33}{\\sqrt{33}}$ nimittäjä."
+  },
+  {
+    "nr": 52,
+    "tolge": "Bakteeripopulaatio kaksinkertaistuu neljän tunnin välein. Keskipäivällä bakteereja on $600$. Jos tämä tahti jatkuu, kuinka monta bakteeria on keskiyöllä, kaksitoista tuntia myöhemmin?"
+  },
+  {
+    "nr": 53,
+    "tolge": "Määritellään \\[f(x) = \\frac{1}{x + \\frac{1}{x}}\\]ja \\[g(x) = \\frac{1}{x - \\frac{1}{x}}.\\]Etsi yhtälön \\[ (g(x))^2 - (f(x))^2 = \\tfrac54.\\] suurimman reaaliratkaisun neliö."
+  },
+  {
+    "nr": 54,
+    "tolge": "Kahdella kartiolla on sama tilavuus. Jos toisen pohjan säde on 3 kertaa niin suuri kuin toisen ja sen korkeus on 24 tuumaa, kuinka monta tuumaa korkea toinen on?\n\nHuomautus: Kartion tilavuus on $\\frac{1}{3} \\pi r^2 h,$ missä $r$ on säde ja $h$ on korkeus."
+  },
+  {
+    "nr": 55,
+    "tolge": "Kun tiedetään, että $x^2 + \\frac{1}{x^2} = 7$, mikä on $x^4 + \\frac{1}{x^4}$ arvo?"
+  },
+  {
+    "nr": 56,
+    "tolge": "Ratkaise\n\\[\\frac{(x + 7)(x - 2)}{x - 1} < 0.\\]Anna vastauksesi välimerkintää käyttäen."
+  },
+  {
+    "nr": 57,
+    "tolge": "Olkoon $f(x) = 2^x.$ Määritä $\\sqrt{f(f(f(f(1))))}.$"
+  },
+  {
+    "nr": 58,
+    "tolge": "Gerry menee nukkumaan joka ilta klo 23.00. Mutta hän ei nuku kovin hyvin, joten hän herää satunnaiseen aikaan klo 1.00 ja 3.59 välillä siten, että jokainen minuutti on yhtä todennäköinen (mukaan lukien klo 1.00 ja 3.59). Sitten hän lukee kellonsa näyttämän tunnin ja minutit kolminumeroisena lukuna, eli esimerkiksi klo 2.56 olisi 256. Millä todennäköisyydellä kyseinen luku on jaollinen 7:llä?"
+  },
+  {
+    "nr": 59,
+    "tolge": "Olkoon $ABCD$ konveksi nelikulmio, ja olkoot $M$ ja $N$ vastaavasti janojen $\\overline{AC}$ ja $\\overline{BD}$ keskipisteet. Tällöin on olemassa sellainen vakio $k$, että\n\\[AB^2 + BC^2 + CD^2 + DA^2 = AC^2 + BD^2 + k \\cdot MN^2.\\]Määritä $k.$\n\n[asy]\nunitsize(0.8 cm);\n\npair A, B, C, D, M, N;\n\nA = (0,0);\nB = (4,0.5);\nC = (5,-3);\nD = (-2,-2.5);\nM = (A + C)/2;\nN = (B + D)/2;\n\ndraw(A--B--C--D--cycle);\ndraw(A--C);\ndraw(B--D);\ndraw(M--N);\n\nlabel(\"$A$\", A, NW);\nlabel(\"$B$\", B, NE);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, SW);\ndot(\"$M$\", M, NE);\ndot(\"$N$\", N, NW);\n[/asy]"
+  },
+  {
+    "nr": 60,
+    "tolge": "Olkoon $f(x) = 2x+1$ ja $g(x) = f(2x) - 3$. Mikä on $g(g(2))$?"
+  },
+  {
+    "nr": 61,
+    "tolge": "Mikä on sellaisen suorakulmion suurin mahdollinen pinta-ala neliötuumina, jonka piiri on 12 tuumaa?"
+  },
+  {
+    "nr": 62,
+    "tolge": "Määritellään funktio $g(x)=3x+2$. Jos $g(x)=2f^{-1}(x)$ ja $f^{-1}(x)$ on funktion $f(x)=ax+b$ käänteisfunktio, laske $\\dfrac{a+b}{2}$."
+  },
+  {
+    "nr": 63,
+    "tolge": "Pingisjoukkueessani on neljä kertaa niin paljon oikeakätisiä poikia kuin vasenkätisiä poikia. Joukkueen vasenkätisistä oppilaista tyttöjä on kaksi kertaa niin paljon kuin poikia. Puolet joukkueen tytöistä on vasenkätisiä. Jos joukkueessa on 36 henkilöä, kuinka moni on oikeakätinen poika? (Oleta, ettei kukaan pelaaja pelaa pingistä yhtä hyvin molemmilla käsillä.)"
+  },
+  {
+    "nr": 64,
+    "tolge": "Määritä paraabelin polttopiste $y = \\frac{5x^2 - 4x + 2}{4}.$"
+  },
+  {
+    "nr": 65,
+    "tolge": "Olkoon $P$ kompleksitason konveksi monikulmio, jonka kärjet ovat yhtälön\n\\[z^7 + z^6 + z^5 + z^4 + z^3 + z^2 + z + 1 = 0.\\]\njuuret. Monikulmion $P$ pinta-ala voidaan esittää yksinkertaisimmassa muodossa $\\frac{a + b \\sqrt{c}}{d},$ missä $a,$ $b,$ $c,$ $d$ ovat positiivisia kokonaislukuja. Määritä $a + b + c + d.$"
+  },
+  {
+    "nr": 66,
+    "tolge": "Säännöllinen tetraedri on pyramidi, jossa on neljä tahkoa, joista jokainen on tasasivuinen kolmio.\n\nOlkoon $V$ sellaisen säännöllisen tetraedrin tilavuus, jonka kaikkien särmien pituus on $1$. Mikä on $V^2$:n tarkka arvo?"
+  },
+  {
+    "nr": 67,
+    "tolge": "Kolme toisiaan sivuavaa palloa, joiden säde on 1, lepää vaakasuoralla tasolla. Niiden päällä lepää pallo, jonka säde on 2. Mikä on etäisyys tasosta suuremman pallon ylimpään pisteeseen?"
+  },
+  {
+    "nr": 68,
+    "tolge": "Alla olevan taulukon tiedot näyttävät bussilla kulkevien prosenttiosuuden Central H.S. -koulun oppilaille tehdyssä kyselyssä; jokaiselta luokkatasolta kyselyyn osallistui 300 miespuolista ja 300 naispuolista oppilasta. Millä luokkatasolla bussilla kulkevien miespuolisten oppilaiden määrä on lähimpänä $135\\%$ bussilla kulkevien naispuolisten oppilaiden määrästä? \\begin{tabular}{|l|c|c|}\\hline\nLuokka & Miespuoliset & Naispuoliset \\\\ \\hline\n$9^{\\mathrm{th}}$ luokka & $41.1\\%$ & $39.4\\%$ \\\\ \\hline\n$10^{\\mathrm{th}}$ luokka & $34.4\\%$ & $33.1\\%$ \\\\ \\hline\n$11^{\\mathrm{th}}$ luokka & $20.6\\%$ & $13.8\\%$ \\\\ \\hline\n$12^{\\mathrm{th}}$ luokka & $11.6\\%$ & $8.6\\%$ \\\\ \\hline\n\\end{tabular}"
+  },
+  {
+    "nr": 69,
+    "tolge": "Ympyrässä, jonka keskipiste on $O$ ja halkaisijat ovat $AC$ ja $BD$, kulman $AOD$ suuruus on $54$ astetta. Mikä on kulman $AOB$ suuruus asteina? [asy]\ndraw(circle((0,0),1));\nlabel(\"O\",(0,0),SE);\ndraw((-1,0)--(1,0));\ndraw((0.5877852522924731291,0.80901699437)--(-0.5877852522924731291,-0.80901699437));\nlabel(\"B\",(-1,0),W);\nlabel(\"D\",(1,0),E);\nlabel(\"A\",(0.5877852522924731291,0.80901699437),NE);\nlabel(\"C\",(-0.5877852522924731291,-0.80901699437),SW);\ndot((0,0));\ndot((-0.5877852522924731291,-0.80901699437));\ndot((0.5877852522924731291,0.80901699437));\ndot((-1,0));\ndot((1,0));\n[/asy]"
+  },
+  {
+    "nr": 70,
+    "tolge": "Muunna piste $( 1, -1, -6 )$ suorakulmaisista koordinaateista lieriökoordinaateiksi. Anna vastauksesi muodossa $(r,\\theta,z),$ missä $r > 0$ ja $0 \\le \\theta < 2 \\pi.$"
+  },
+  {
+    "nr": 71,
+    "tolge": "Jos $m$ ja $n$ ovat positiivisia kokonaislukuja siten, että $m\\equiv 6\\pmod 9$ ja $n\\equiv 0\\pmod 9$, mikä on suurin kokonaisluku, jolla $mn$ on välttämättä jaollinen?"
+  },
+  {
+    "nr": 72,
+    "tolge": "Laske $\\sin^{-1} (\\sin 3) + \\sin^{-1} (\\sin 4) + \\sin^{-1} (\\sin 5).$ Kaikki funktiot ovat radiaaneina."
+  },
+  {
+    "nr": 73,
+    "tolge": "Jos $f(x)=x^3+3x^2+3x+1$, määritä $f(f^{-1}(2010))$."
+  },
+  {
+    "nr": 74,
+    "tolge": "Mikä on suurin määrä suoria sisäkulmia, joka kuperalla kahdeksankulmiolla voi olla?"
+  },
+  {
+    "nr": 75,
+    "tolge": "Pisteet $A(2,5), B(6,5), C(5,2)$ ja $D(1,2)$ ovat suunnikkaan kärjet. Jos suunnikasta siirretään kaksi yksikköä alaspäin ja kolme yksikköä oikealle, mitkä ovat pisteen $B$ lopullisen kuvapisteen koordinaatit?"
+  },
+  {
+    "nr": 76,
+    "tolge": "Kuinka monta yksikköä pitkä on jana, jonka päätepisteet ovat $(1,2)$ ja $(-4,-10)$?"
+  },
+  {
+    "nr": 77,
+    "tolge": "Mille kokonaisluvulle $x$ pätee $\\frac 35 < \\frac x7 < \\frac 79$?"
+  },
+  {
+    "nr": 78,
+    "tolge": "Janan $s_1$ päätepisteet ovat $(3+\\sqrt{2},5)$ ja $(4,7)$. Janan $s_2$ päätepisteet ovat $(6-\\sqrt{2},3)$ ja $(3,5)$. Määritä sen janan keskipiste, jonka päätepisteinä ovat janojen $s_1$ ja $s_2$ keskipisteet. Ilmoita vastauksesi muodossa $(a,b)$."
+  },
+  {
+    "nr": 79,
+    "tolge": "Alla olevan varsi-lehtikaavion tiedot ovat pituushyppytuloksia senttimetreinä, jotka Pseudo H.S. -lukion tyttöjoukkue hyppäsi tänään harjoituksissa. $(51|1$ tarkoittaa $511$ senttimetriä$.)$ Mikä on aineiston mediaanin ja moodin summa?\n\n\\begin{tabular}{l|lllll}\n51& 1\\\\\n52&\\\\\n53& 2& 5\\\\\n54& 0& 2& 2& 5\\\\\n55& 0& 1& 3& 4& 7\\\\\n56& 0& 2& 5\\\\\n57& 0& 1\\\\\n\\end{tabular}"
+  },
+  {
+    "nr": 80,
+    "tolge": "Ympyrän säde on 2 tuumaa. Kun säde kaksinkertaistetaan, kuinka monella neliötuumalla pinta-ala kasvaa? Ilmoita vastauksesi $\\pi$:n avulla."
+  },
+  {
+    "nr": 81,
+    "tolge": "Luku valitaan satunnaisesti luvuista 1–100 (mukaan lukien). Mikä on todennäköisyys, että luku on neliöluku?"
+  },
+  {
+    "nr": 82,
+    "tolge": "Tarkastellaan suorakulmiota, jonka kärjet ovat pisteissä $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Kuinka monta kokonaislukukoordinaattia on tiukasti suorakulmaisen alueen sisällä?"
+  },
+  {
+    "nr": 83,
+    "tolge": "Kuinka monta kokonaislukujakajaa luvulla $7$ on?"
+  },
+  {
+    "nr": 84,
+    "tolge": "Mikä on lyhin etäisyys pisteestä $(6, 0)$ suoralle $y = 2x-2$? Ilmoita vastauksesi yksinkertaisimmassa juurimuodossa."
+  },
+  {
+    "nr": 85,
+    "tolge": "Olkoot $a,$ $b,$ $c,$ $p,$ $q,$ ja $r$ reaalilukuja siten, että\n\\[\\begin{vmatrix} p & b & c \\\\ a & q & c \\\\ a & b & r \\end{vmatrix} = 0.\\]Olettaen, että $a \\neq p,$ $b \\neq q,$ ja $c \\neq r,$ määritä arvo lausekkeelle $\\frac{p}{p - a} + \\frac{q}{q - b} + \\frac{r}{r - c}.$"
+  },
+  {
+    "nr": 86,
+    "tolge": "Krishanu ja Shaunak valitsevat kumpikin satunnaisesti kokonaisluvun väliltä 1–10 (luvut 1 ja 10 mukaan lukien). Mikä on todennäköisyys, että heidän lukujensa tulo on suurempi kuin 10? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 87,
+    "tolge": "Eräänä tiistaina taikuri sanoi: ”Sain vaimoni katoamaan 31 päivää sitten.” Minä viikonpäivänä hän sai vaimonsa katoamaan?"
+  },
+  {
+    "nr": 88,
+    "tolge": "Määritä lausekkeen\n\\[\\frac{(a^2 + b^2)^2}{a^3 b}\\]\npienin arvo positiivisille reaaliluvuille $a$ ja $b.$ Anna vastaus yksinkertaistetussa muodossa $\\frac{m \\sqrt{n}}{p},$ missä $m,$ $n,$ ja $p$ ovat positiivisia kokonaislukuja."
+  },
+  {
+    "nr": 89,
+    "tolge": "Mike nostaa viisi korttia tavallisesta 52 kortin pakasta. Mikä on todennäköisyys, että hän nostaa kortin vähintään kolmesta neljästä maasta? Ilmoita vastauksesi supistettuna murtolukuna."
+  },
+  {
+    "nr": 90,
+    "tolge": "Suora kulkee pisteen $(4,365)$ kautta, ja suoran $y$-akselin leikkauspiste on välillä $1$ ja $9$ (mukaan lukien $1$ ja $9$). Mikä on suoran pienin mahdollinen kulmakerroin?"
+  },
+  {
+    "nr": 91,
+    "tolge": "Kuinka monella tavalla 8 henkilöä voi istua pyöreän pöydän ääreen, jos kukaan kolmikosta Alice, Bob ja Eve (kolme kahdeksasta henkilöstä) ei halua istua toistensa vieressä? Kahta istumajärjestystä pidetään samana, jos toinen on toisen kierto."
+  },
+  {
+    "nr": 92,
+    "tolge": "Olkoon $f$ määritelty seuraavasti:  \\[f(x) = \\left\\{\n\\begin{array}{cl}\n3-x & \\text{ if } x \\leq 3, \\\\\n-x^3+2x^2+3x & \\text{ if } x>3.\n\\end{array}\n\\right.\\]Laske $f^{-1}(0)+f^{-1}(6)$."
+  },
+  {
+    "nr": 93,
+    "tolge": "Mikä on sellaisen tasakylkisen suorakulmaisen kolmion pinta-ala neliöyksiköissä, jonka hypotenuusa on 20 yksikköä?"
+  },
+  {
+    "nr": 94,
+    "tolge": "Laske $14.6+2.15$."
+  },
+  {
+    "nr": 95,
+    "tolge": "Olkoon\n\\[f(x) = \\frac{-px - 3}{-qx + 3},\\]\nja olkoon $g(x)$ funktion $f(x)$ käänteisfunktio. Jos piste $(7,-22)$ sijaitsee sekä funktion $y = f(x)$ että funktion $y = g(x)$ kuvaajalla, määritä $p + q.$"
+  },
+  {
+    "nr": 96,
+    "tolge": "Aritmeettisen lukujonon ensimmäinen termi on $2$. Kolmannen ja kuudennen termin summa on $25$. Mikä on neljäs termi?"
+  },
+  {
+    "nr": 97,
+    "tolge": "Oletetaan, että $c$ ja $d$ ovat käänteisesti verrannollisia. Jos $c=9$, kun $d=8$, määritä $d$:n arvo, kun $c=6$."
+  },
+  {
+    "nr": 98,
+    "tolge": "Paljonko on $(1 + 2 \\cdot 3 \\cdot 4 \\cdot 5) \\div 11$?"
+  },
+  {
+    "nr": 99,
+    "tolge": "Kuinka monta kokonaislukua, jotka ovat pienempiä kuin $18,\\!632$, on kongruentteja $ 23 \\pmod {37} $ kanssa?"
+  },
+  {
+    "nr": 100,
+    "tolge": "Määritä $p+q$, kun tiedetään, että $(q+4)(p+3)-(q+2)(p+1)=44$."
+  },
+  {
+    "nr": 101,
+    "tolge": "Jokainen kokonaisluvuista $1,$ $2,$ $3,$ $\\dots,$ $16$ on kirjoitettu erilliselle lapulle, ja nämä laput asetetaan pinoon. Jillian nostaa pinosta lappuja satunnaisesti ilman takaisinpanoa ja jatkaa nostamista, kunnes kahden hänen nostamansa luvun tulo on neliöluku. Mikä on suurin määrä lappuja, jotka Jillian voi nostaa ilman, että minkään kahden nostetun luvun tulo on neliöluku?"
+  },
+  {
+    "nr": 102,
+    "tolge": "Kaksi eri positiivista lukua $a$ ja $b$ eroavat kumpikin käänteisluvustaan luvun $1$ verran. Mikä on $a+b$?"
+  },
+  {
+    "nr": 103,
+    "tolge": "Akvaarion suorakulmaisen pohjan mitat ovat 100 cm ja 40 cm, ja sen korkeus on 50 cm. Akvaario täytetään vedellä 37 cm:n syvyyteen. Akvaarioon asetetaan sitten kivi, jonka tilavuus on $1000 \\text{cm}^3$, ja se uppoaa kokonaan veden alle. Kuinka monta senttimetriä vedenpinta nousee? Ilmoita vastauksesi desimaalilukuna sadasosan tarkkuudella."
+  },
+  {
+    "nr": 104,
+    "tolge": "Määritä, kuinka monella tavalla sanan CIRCLE kirjaimet voidaan järjestää."
+  },
+  {
+    "nr": 105,
+    "tolge": "Kun heitetään kahta tavallista, symmetristä kuusisivuista noppaa, mikä on todennäköisyys saada sama luku molemmilla nopilla? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 106,
+    "tolge": "Neliönmuotoinen paperiarkki taitetaan kerran siten, että yksi vastakkaisten kulmien pari osuu kohdakkain. Kun paperi avataan, siihen on muodostunut kaksi yhtenevää kolmiota. Jos alkuperäisen neliön pinta-ala on $49$ neliötuumaa, kuinka monta tuumaa on yhden tällaisen kolmion piiri? Anna vastauksesi yksinkertaisimmassa juurimuodossa."
+  },
+  {
+    "nr": 107,
+    "tolge": "Etsi reaalijuuret yhtälölle\n\\[\\frac{6 - x}{x^2 - 4} = 2 + \\frac{x}{x + 2}.\\]Syötä juuret pilkuilla eroteltuina."
+  },
+  {
+    "nr": 108,
+    "tolge": "Kolmion kaksi sivua ovat kumpikin $8$ yksikköä pitkiä. Jos kolmannen sivun pituus on kokonaisluku, mikä on kolmion suurin mahdollinen piiri yksikköinä?"
+  },
+  {
+    "nr": 109,
+    "tolge": "Kuinka monta yksikköä on etäisyys origosta pisteeseen $(-8,6)$ koordinaatistossa?"
+  },
+  {
+    "nr": 110,
+    "tolge": "Annvillen yläkoulussa $30\\%$ matematiikkakerhon oppilaista on tiedekerhossa, ja $80\\%$ tiedekerhon oppilaista on matematiikkakerhossa. Tiedekerhossa on 15 oppilasta. Kuinka monta oppilasta matematiikkakerhossa on?"
+  },
+  {
+    "nr": 111,
+    "tolge": "Kuinka monella positiivisella kokonaisluvulla $p$ on olemassa kolmio, jonka sivujen pituudet ovat $3p-1,$ $3p,$ ja $p^2 + 1?$"
+  },
+  {
+    "nr": 112,
+    "tolge": "Jos Ihmenainen saa kiinni 6 rikollista tunnissa, kuinka monta hän saa kiinni $4\\frac{1}{2}$ tunnissa?"
+  },
+  {
+    "nr": 113,
+    "tolge": "Mikä on luvun 100 positiivisten kokonaislukutekijöiden tulo?"
+  },
+  {
+    "nr": 114,
+    "tolge": "Krista laittoi 1 sentin uuteen säästölippaaseensa sunnuntaiaamuna. Maanantaina hän laittoi säästölippaaseensa 2 senttiä. Tiistaina hän laittoi säästölippaaseensa 4 senttiä, ja hän jatkoi säästölippaaseen laittamansa rahamäärän kaksinkertaistamista joka päivä kahden viikon ajan. Minä viikonpäivänä säästölippaassa oleva kokonaisrahamäärä ylitti ensimmäisen kerran $\\$5$?"
+  },
+  {
+    "nr": 115,
+    "tolge": "Kuinka moni luonnollisista luvuista välillä $1$–$800,$ ne mukaan lukien, sisältää numeron $6$ vähintään kahdesti? (Luvut $266$ ja $663$ ovat kaksi luonnollista lukua, jotka sisältävät numeron $6$ vähintään kahdesti, mutta $430$ tai $16$ eivät ole.)"
+  },
+  {
+    "nr": 116,
+    "tolge": "Kolmiulotteisessa koordinaatistossa, jossa on $x$-, $y$- ja $z$-akselit, $P$ on piste suoralla $y = -x + 1$ $xy$-tasossa ja $Q$ on piste suoralla $z = -2x + 1$ $xz$-tasossa. Laske $PQ$:n pienin mahdollinen arvo."
+  },
+  {
+    "nr": 117,
+    "tolge": "Kun säännöllisen viisikulmion $FGHIJ$ sivuja jatketaan kuvan mukaisesti, ne muodostavat tähden. Mikä on kulman $A$ suuruus kuvassa?\n\n[asy]\ndraw((-42.4,30.8)--(-10,30.8)--(0,63.2)--(10,30.8)--(42.4,30.8)--(16.2,11.8)--(24.9,-18.1)--(0,0)--(-24.9,-18.1)--(-16.2,11.8)--cycle,linewidth(1));\ndraw((-10,30.8)--(10,30.8)--(16.2,11.8)--(0,0)--(-16.2,11.8)--cycle,linewidth(1));\nlabel(\"$A$\",(-42.4,30.8),W);\nlabel(\"$F$\",(-10,30.8),NW);\ndot((-10,30.8));\nlabel(\"$G$\",(10,30.8),NE);\ndot((10,30.8));\nlabel(\"$H$\",(16.2,11.8),E);\ndot((16.2,11.8));\nlabel(\"$I$\",(0,0),S);\ndot((0,0));\nlabel(\"$J$\",(-16.2,11.8),WSW);\ndot((-16.2,11.8));\n[/asy]"
+  },
+  {
+    "nr": 118,
+    "tolge": "Kun $\\bold{v} = \\begin{pmatrix} 0 \\\\ -4 \\\\ 1 \\end{pmatrix}$ ja $\\bold{w} = \\begin{pmatrix} 2 \\\\ 2 \\\\ -1 \\end{pmatrix},$ laske $\\text{proj}_{\\bold{w}} \\bold{v}$."
+  },
+  {
+    "nr": 119,
+    "tolge": "Mikä on $\\frac{0.\\overline{3}}{0.8\\overline{3}}$? Ilmoita vastauksesi supistettuna murtolukuna."
+  },
+  {
+    "nr": 120,
+    "tolge": "Toisen asteen polynomi $4x^2+2x-1$ voidaan kirjoittaa muodossa $a(x+b)^2+c$, missä $a$, $b$ ja $c$ ovat vakioita. Mikä on $a+b+c$?"
+  },
+  {
+    "nr": 121,
+    "tolge": "Vuoden 2010 jalkapallon MM-kisojen ensimmäinen kierros koostui useista neljän joukkueen lohkoista. Jokaisessa lohkossa kukin neljästä joukkueesta pelasi kerran jokaista muuta vastaan. Kuinka monta ottelua kussakin lohkossa pelattiin?"
+  },
+  {
+    "nr": 122,
+    "tolge": "Patty tilasi pizzan kotiinkuljetuksella. Lasku oli $\\$$12.00. Patty maksaa $\\$$15 ja sanoo lähetille, että tämä saa pitää vaihtorahat tippinä. Kuinka monta prosenttia tippiä hän antoi?"
+  },
+  {
+    "nr": 123,
+    "tolge": "Määritä $(\\log_2 x)^2$, jos $\\log_2 (\\log_8 x) = \\log_8 (\\log_2 x).$"
+  },
+  {
+    "nr": 124,
+    "tolge": "Etsi lausekkeen $x(x + 1)(x + 2)(x + 3),$ pienin arvo kaikilla reaaliluvuilla $x.$"
+  },
+  {
+    "nr": 125,
+    "tolge": "Laske $\\tan \\left( \\arccos \\frac{1}{3} \\right).$"
+  },
+  {
+    "nr": 126,
+    "tolge": "Hiukkanen liikkuu pitkin suoraa $y = \\frac{3}{2} x - 2.$ Hetkellä $t = 0,$ se lähtee pisteestä $(-2,-5).$ Hiukkanen liikkuu sitten siten, että sen $x$-koordinaatti muuttuu nopeudella 4 yksikköä aikayksikössä. Määritä hiukkasen $y$-koordinaatti funktiona $t.$"
+  },
+  {
+    "nr": 127,
+    "tolge": "Kuinka monta tuumaa on sellaisen pallon isoympyrän kehän pituus, jonka pinta-ala on $196\\pi$ neliötuumaa? Ilmoita vastauksesi $\\pi$:n avulla.\n\nHuomaa: Kehän pituuden mittaamiseksi valitse pallon pinnalla oleva suurin ympyrä."
+  },
+  {
+    "nr": 128,
+    "tolge": "Laske $\\cos 120^\\circ$."
+  },
+  {
+    "nr": 129,
+    "tolge": "Kanta-$10$-järjestelmässä luku $2013$ päättyy numeroon $3$. Kanta-$9$-järjestelmässä taas sama luku kirjoitetaan muodossa $(2676)_{9}$ ja se päättyy numeroon $6$. Kuinka monella kantaluvun $b$ arvolla luvun $2013$ kanta-$b$-esitys päättyy numeroon $3$?"
+  },
+  {
+    "nr": 130,
+    "tolge": "Jos $x$ kaksinkertaistetaan ja siihen sitten lisätään $7$, tulos on $81$. Mikä on $x$:n arvo?"
+  },
+  {
+    "nr": 131,
+    "tolge": "Kolme yksikköympyrää on piirretty siten, että ne sivuavat toisiaan, kuten alla on esitetty. Piirretään sininen ympyrä, joka sivuaa ulkopuolisesti kaikkia kolmea yksikköympyrää. Lopuksi piirretään kolme punaista ympyrää siten, että kukin punainen ympyrä sivuaa ulkopuolisesti kahta yksikköympyrää sekä sinistä ympyrää. Tällöin kunkin punaisen ympyrän säde voidaan esittää muodossa\n\\[\\frac{a - b \\sqrt{c}}{d},\\]\nmissä $a,$ $b,$ $c,$ ja $d$ ovat positiivisia kokonaislukuja supistetussa muodossa. Määritä $a + b + c + d$.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, C, D, E, F, O;\nreal s = 2/sqrt(3) - 1, r = (9 - 4*sqrt(3))/33;\n\nA = 2/sqrt(3)*dir(150);\nB = 2/sqrt(3)*dir(30);\nC = 2/sqrt(3)*dir(270);\nO = (0,0);\nD = (r + s)*dir(330);\nE = (r + s)*dir(210);\nF = (r + s)*dir(90);\n\nfilldraw(Circle(O,s),blue);\nfilldraw(Circle(D,r),red);\nfilldraw(Circle(E,r),red);\nfilldraw(Circle(F,r),red);\ndraw(Circle(A,1));\ndraw(Circle(B,1));\ndraw(Circle(C,1));\n[/asy]"
+  },
+  {
+    "nr": 132,
+    "tolge": "Etsi yhtälön $x^4 - 80x - 36 = 0.$ reaalijuurten summa."
+  },
+  {
+    "nr": 133,
+    "tolge": "Mikä on pienin positiivinen kokonaisluku, jonka tekijöitä ovat 16, 15 ja 12?"
+  },
+  {
+    "nr": 134,
+    "tolge": "Jos $a$ ja $b$ ovat positiivisia kokonaislukuja, joille $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$ ja $a<b$, kuinka monta mahdollista arvoa luvulla $a$ on?"
+  },
+  {
+    "nr": 135,
+    "tolge": "Funktio on määritelty muodossa $f(x) = x^2 - 3x + 4$. Millä lausekkeella voidaan kuvata $f(2x)$? Ilmoita vastauksesi yksinkertaistetussa muodossa muuttujan $x$ avulla."
+  },
+  {
+    "nr": 136,
+    "tolge": "Etsi lausekkeen \\[(\\cos12^\\circ+i\\sin12^\\circ+\\cos48^\\circ+i\\sin48^\\circ)^6.\\] imaginaariosa."
+  },
+  {
+    "nr": 137,
+    "tolge": "Jos $a = 8$, mikä on lausekkeen $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$ arvo?"
+  },
+  {
+    "nr": 138,
+    "tolge": "Juustokuutio\n\\[C = \\{(x,y,z) : 0 \\le x, y, z \\le 1\\}\\]\nleikataan tasoja $x = y,$ $y = z,$ ja $z = x.$ pitkin. Kuinka monta palaa saadaan?"
+  },
+  {
+    "nr": 139,
+    "tolge": "Piste $(0,0)$ peilataan pystysuoran suoran $x = 1$ suhteen. Sen kuvapiste peilataan sen jälkeen suoran $y=2$ suhteen. Mitkä ovat saadun pisteen koordinaatit?"
+  },
+  {
+    "nr": 140,
+    "tolge": "Mikä seuraavista pisteistä on kauimpana origosta: $(1,4)$, $(3,5)$, $(-6,0)$, $(-4,-2)?$"
+  },
+  {
+    "nr": 141,
+    "tolge": "Suora $\\ell$ kulkee pisteiden $B(7,-1)$ ja $C(-1,7)$ kautta. Tämän suoran yhtälö voidaan esittää muodossa $y=mx+b$; laske $m+b$."
+  },
+  {
+    "nr": 142,
+    "tolge": "Mikä on yhtälön $2x^2 + 13x + 6 = 0$ ratkaisujen neliöiden tulo?"
+  },
+  {
+    "nr": 143,
+    "tolge": "Olkoon $x$ ja $y$ reaalilukuja, jotka toteuttavat yhtälöt $x^4y^5+y^4x^5=810$ ja $x^3y^6+y^3x^6=945$. Laske lausekkeen $2x^3+(xy)^3+2y^3$ arvo."
+  },
+  {
+    "nr": 144,
+    "tolge": "Suora $a$ on yhdensuuntainen suoran $b$ kanssa ja kulkee pisteen $(1,2)$ kautta. Suora $b$ kulkee pisteen $(3,1)$ kautta ja on kohtisuorassa suoraa $c$ vastaan, jonka yhtälö on $y=-2x+3$. Määritä suoran $a$ y-akselin leikkauspiste."
+  },
+  {
+    "nr": 145,
+    "tolge": "Lukuvuoden aikana shakkikerhon 10 jäsentä pelaavat harjoitusotteluissaan yhteensä 900 peliä shakkia. Jokainen jäsen pelaa jokaista muuta jäsentä vastaan $N$ kertaa. Mikä on $N$:n arvo?"
+  },
+  {
+    "nr": 146,
+    "tolge": "Ratkaise  \\[\\frac{3x+2}{x-1}=4\\] $x$:n suhteen."
+  },
+  {
+    "nr": 147,
+    "tolge": "Positiivisten, lukua $10^8$ pienempien kokonaislukujen joukosta valitaan luku tasaisen satunnaisesti. Mikä on todennäköisyys sille, että luku on alkuluku, jos tiedetään, että luvun numeroiden summa on 9?"
+  },
+  {
+    "nr": 148,
+    "tolge": "Janan kaksi päätepistettä ovat pisteissä $(1,4)$ ja $(1,10)$. Mikä on janan keskipisteen koordinaattien summa?"
+  },
+  {
+    "nr": 149,
+    "tolge": "Mikä on kolmion $ABC$ sisään piirretyn ympyrän säde, jos $AB = 12, AC=14, BC=16$? Ilmoita vastauksesi yksinkertaisimmassa juurimuodossa."
+  },
+  {
+    "nr": 150,
+    "tolge": "Valitaan kokonaisluku $x$, jolle $10 \\leq x \\leq 99$. Jos kaikki valinnat ovat yhtä todennäköisiä, mikä on todennäköisyys sille, että ainakin yksi luvun $x$ numeroista on 7?"
+  },
+  {
+    "nr": 151,
+    "tolge": "Etsi sellainen $2 \\times 2$ -matriisi $\\mathbf{M}$, että\n\\[\\mathbf{M} \\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}\\]ja\n\\[\\mathbf{M} \\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ -7 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 152,
+    "tolge": "Jos $\\log_6 (x-y) + \\log_6 (x+y) = 2$ ja $\\log_y 5x = 2$, määritä $x$."
+  },
+  {
+    "nr": 153,
+    "tolge": "Mikä on tasasivuisen kolmion yhden sisäkulman suhde neliön yhteen sisäkulmaan? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 154,
+    "tolge": "Olkoon $m$ vakio, joka ei ole $0$ eikä $1.$ Tällöin yhtälön \\[x^2 + my^2 = 4\\] kuvaaja on kartioleikkaus, jolla on kaksi polttopistettä. Etsi kaikki vakion $m$ arvot siten, että molemmat polttopisteet sijaitsevat ympyrällä $x^2+y^2=16.$\n\nSyötä kaikki mahdolliset vakion $m,$ arvot pilkuilla eroteltuina."
+  },
+  {
+    "nr": 155,
+    "tolge": "Kahden luvun summa on 25 ja niiden erotus on 9. Mikä on niiden tulo?"
+  },
+  {
+    "nr": 156,
+    "tolge": "Suora $y = \\frac{-12x + 74}{5}$ on parametrisoitu muodossa\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\mathbf{v} + t \\mathbf{d},\\]siten, että kun $x \\le 7,$ pisteiden $\\begin{pmatrix} x \\\\ y \\end{pmatrix}$ ja $\\begin{pmatrix} 7 \\\\ -2 \\end{pmatrix}$ välinen etäisyys on $t.$ Määritä $\\mathbf{d}.$"
+  },
+  {
+    "nr": 157,
+    "tolge": "Laske $\\dbinom{22}{19}$."
+  },
+  {
+    "nr": 158,
+    "tolge": "Määritä funktion $f(x)=\\sqrt{\\sqrt{x^2-16}-3}$ määrittelyjoukko."
+  },
+  {
+    "nr": 159,
+    "tolge": "Kaksi ympyrää, joiden keskipisteissä on hyrrät, on jaettu kolmeen yhtä suureen osaan kuvan mukaisesti. Kun molempia hyrriä pyöräytetään, millä todennäköisyydellä kahden saadun arvon tulo on negatiivinen? Ilmoita vastauksesi tavallisena murtolukuna. [asy]\nsize(140);\nvoid spinner(picture pic=currentpicture, real rotate, int a, int b, int c)\n{\ndot(pic,(0,0),linewidth(4));\ndraw(pic, unitcircle ^^ (0,0)--dir(90+rotate) ^^ (0,0)--dir(210+rotate) ^^ (0,0)--dir(-30+rotate));\nlabel(pic, \"$\"+string(a)+\"$\",dir(30+rotate)/2,fontsize(10pt));\nlabel(pic, \"$\"+string(b)+\"$\",dir(150+rotate)/2,fontsize(10pt));\nlabel(pic, \"$\"+string(c)+\"$\",dir(-90+rotate)/2,fontsize(10pt));\n}\npicture p;\nspinner(0,-1,-3,5); spinner(p,180,2,4,-6);\ndraw((0,0)--dir(-10)/2,EndArrow(4)); draw(p,(0,0)--dir(-75)/2,EndArrow(4)); add(shift(2.5*right)*p);[/asy]"
+  },
+  {
+    "nr": 160,
+    "tolge": "Olkoon $ABCD$ yksikköneliö. Hyperbelin polttopisteet ovat janojen $\\overline{AB}$ ja $\\overline{CD},$ keskipisteissä, ja se kulkee neliön kaikkien kärkien kautta. Laske hyperbelin kahden huipun välinen etäisyys."
+  },
+  {
+    "nr": 161,
+    "tolge": "Paula sijoittaa $\\$10,\\!000$ 5 vuoden jakson alussa $10\\%$ korolla. Kuinka paljon hänen sijoituksensa on arvoltaan näiden 5 vuoden lopussa, jos korko pääomitetaan neljännesvuosittain? Ilmoita vastauksesi pyöristettynä lähimpään senttiin."
+  },
+  {
+    "nr": 162,
+    "tolge": "Pisteiden $(x,y)$ ja $(2,4)$ välisen janan keskipiste on $(-7,0)$. Määritä $(x,y)$."
+  },
+  {
+    "nr": 163,
+    "tolge": "Neljä konekirjoittajaa pystyy kirjoittamaan yhteensä 600 muistiota kolmessa päivässä. Kuinka monta muistiota kolme konekirjoittajaa pystyy kirjoittamaan yhdessä päivässä tätä vauhtia?"
+  },
+  {
+    "nr": 164,
+    "tolge": "Jos $10^{51} - 9$ kirjoitetaan kokonaislukuna perusmuodossa, mikä on luvun numeroiden summa?"
+  },
+  {
+    "nr": 165,
+    "tolge": "Jos $A$ on luvun $500$ positiivisten tekijöiden summa, mikä on luvun $A$ eri alkutekijöiden summa?"
+  },
+  {
+    "nr": 166,
+    "tolge": "Kolme erinimistä opiskelijaa asettuu jonoon peräkkäin. Mikä on todennäköisyys, että he ovat aakkosjärjestyksessä edestä taaksepäin? Ilmoita vastauksesi murtolukuna."
+  },
+  {
+    "nr": 167,
+    "tolge": "Kolmiossa $ABC$ $AB=\\sqrt{30}$, $AC=\\sqrt{6}$ ja $BC=\\sqrt{15}$. On olemassa piste $D$, jolle $\\overline{AD}$ puolittaa janan $\\overline{BC}$ ja $\\angle ADB$ on suora kulma. Määritä suhteen\n\\[\\dfrac{[ADB]}{[ABC]}.\\]\narvo. Toisin sanoen laske kolmion $ADB$ pinta-alan suhde kolmion $ABC$ pinta-alaan."
+  },
+  {
+    "nr": 168,
+    "tolge": "Koordinaatistossa olkoon $F = (4,0).$ Olkoon $P$ piste ja $Q$ pisteen $P$ projektio suoralle $x = \\frac{25}{4}.$ Piste $P$ piirtää tasossa käyrän siten, että\n\\[\\frac{PF}{PQ} = \\frac{4}{5}\\]kaikille käyrän pisteille $P$. Määritä käyrän rajaaman alueen pinta-ala.\n\n[asy]\nunitsize(1 cm);\n\npair P, F, Q;\n\nF = (4,0);\nP = (5*Cos(60),3*Sin(60));\nQ = (25/4,3*Sin(60));\n\ndraw(F--P--Q);\ndraw((25/4,-1)--(25/4,3),dashed);\n\ndot(\"$F$\", F, S);\ndot(\"$P$\", P, W);\ndot(\"$Q$\", Q, E);\n\nlabel(\"$x = \\frac{25}{4}$\", (25/4,-1), S);\n[/asy]"
+  },
+  {
+    "nr": 169,
+    "tolge": "Neljäkymmentäkahdeksan yhtenevää suunnikasta, joiden sivujen pituudet ovat 62 jalkaa ja 20 jalkaa, on asetettu chevron-kuvioon muodostaen kuusikulmion $ABCDEF$ kuvan mukaisesti. Mikä on kuusikulmion $\\allowbreak ABCDEF$ piiri?\n\n[asy]\nunitsize (0.1 cm);\n\ndraw((16,-20)--(-3,-20)--(0,0)--(-3,20)--(16,20));\ndraw((0,0)--(16,0));\ndraw((5,20)--(8,0)--(5,-20));\ndraw((13,20)--(16,0)--(13,-20));\ndot((18,0));\ndot((20,0));\ndot((22,0));\ndraw((24,0)--(50,0));\ndraw((23,20)--(47,20)--(50,0)--(47,-20)--(21,-20));\ndraw((23,20)--(26,0)--(23,-20));\ndraw((31,20)--(34,0)--(31,-20));\ndraw((39,20)--(42,0)--(39,-20));\ndraw((39,21)--(39,25));\ndraw((47,21)--(47,25));\ndraw((39,23)--(47,23));\nlabel(\"$A$\",(-3,20),NW);\nlabel(\"$B$\",(47,20),NE);\nlabel(\"$C$\",(50,0),E);\nlabel(\"$D$\",(47,-20),SE);\nlabel(\"$E$\",(-3,-20),SW);\nlabel(\"$F$\",(0,0),W);\nlabel(\"20'\",(43,23),N);\nlabel(\"62'\",(49,10),E);\n[/asy]"
+  },
+  {
+    "nr": 170,
+    "tolge": "Heitämme symmetristä 6-sivuista noppaa 5 kertaa. Mikä on todennäköisyys, että saamme kuutosen enintään kahdella heitolla?"
+  },
+  {
+    "nr": 171,
+    "tolge": "Etsi suurin viisinumeroinen palindromi, joka on jaollinen luvulla 6. (Palindromi on luku, joka luetaan samalla tavalla etuperin ja takaperin, kuten 514415 tai 131.)"
+  },
+  {
+    "nr": 172,
+    "tolge": "Mikä on $x$:n arvo kuviossa?\n\n[asy]\n\nimport olympiad;\n\ndraw((0,0)--(sqrt(3),0)--(0,sqrt(3))--cycle);\n\ndraw((0,0)--(-3,0)--(0,sqrt(3))--cycle);\n\nlabel(\"$2\\sqrt{3}$\",(-3/2,sqrt(3)/2),NW);\n\nlabel(\"$x$\",(sqrt(3)/2,sqrt(3)/2),NE);\n\ndraw(\"$45^{\\circ}$\",(1.5,0),NW);\n\ndraw(\"$30^{\\circ}$\",(-2.45,0),NE);\n\ndraw(rightanglemark((0,sqrt(3)),(0,0),(sqrt(3),0),5));\n\n[/asy]"
+  },
+  {
+    "nr": 173,
+    "tolge": "Kuinka monella $x$:n arvolla lauseke $\\frac{x-5}{x^2-9}$ ei ole määritelty?"
+  },
+  {
+    "nr": 174,
+    "tolge": "Lana määrittelee funktion $f(x)$, jonka antaa kaava $$f(x) = x^2,$$ mutta vain hänen määrittelemässään määrittelyjoukossa, joka koostuu äärellisen monesta arvosta $x$; hän jättää funktion määrittelemättä kaikilla muilla arvoilla $x$.\n\nKun tiedetään, että funktion $f(x)$ arvojoukko on $\\{0,1,2,3,4,5,6,7,8,9\\}$, mikä on suurin mahdollinen pisteiden määrä sen määrittelyjoukossa?"
+  },
+  {
+    "nr": 175,
+    "tolge": "Vuonna 1992 gelato-pallon pystyi ostamaan Italiassa 1200 liiralla. Sama gelato olisi maksanut Yhdysvalloissa $\\$1.50$. Liiran ja dollarin välisellä vastaavalla vaihtokurssilla, kuinka monta dollaria vastaa 1 000 000 liiraa?"
+  },
+  {
+    "nr": 176,
+    "tolge": "Määritä\n\\[\\sum_{n = 1}^{99} \\frac{2}{\\sqrt{n} + \\sqrt{n + 2}}\\]yksinkertaisimmassa muodossa."
+  },
+  {
+    "nr": 177,
+    "tolge": "Laske luvun 9997 neliö ilman laskinta."
+  },
+  {
+    "nr": 178,
+    "tolge": "Lisää 313,9 lukuun 12,6. Ilmoita tulos desimaalilukuna."
+  },
+  {
+    "nr": 179,
+    "tolge": "Jos yhtälöllä $x^2 + bx + b + 3 = 0$ on juuret, jotka ovat muotoa $\\frac{-b \\pm \\sqrt{5}}{2}$, missä $b > 0 $, niin $b = m+\\sqrt{n}$ positiivisille kokonaisluvuille $m,n$. Määritä $m + n$."
+  },
+  {
+    "nr": 180,
+    "tolge": "Pyöristä $\\frac{4}{7}$ lähimpään kymmenesosaan."
+  },
+  {
+    "nr": 181,
+    "tolge": "Laske $\\dbinom{12}{9}$."
+  },
+  {
+    "nr": 182,
+    "tolge": "Kaksi lukua valitaan toisistaan riippumattomasti positiivisten kokonaislukujen joukosta, jotka ovat pienempiä tai yhtä suuria kuin 5. Millä todennäköisyydellä näiden kahden luvun summa on suurempi kuin niiden tulo? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 183,
+    "tolge": "Jos kahdeksan quarter-kolikon pino on täsmälleen puoli tuumaa, kuinka monta quarter-kolikkoa tarvitaan yhden jalan korkuiseen pinoon?"
+  },
+  {
+    "nr": 184,
+    "tolge": "Mikä on kaikkien niiden positiivisten kaksinumeroisten kokonaislukujen summa, joissa toinen numero on neljä kertaa toinen?"
+  },
+  {
+    "nr": 185,
+    "tolge": "Kuinka monta uniikkia lävistäjää voidaan piirtää kuperaan viisikulmioon?"
+  },
+  {
+    "nr": 186,
+    "tolge": "Etsi kaikki $x$:n reaaliarvot, joille $$\\frac{2x^2-3x}{x^2-x} + 5x -11 = \\frac{3x^2+5x+2}{x^2-1}.$$Syötä kaikki ratkaisut pilkuilla eroteltuina."
+  },
+  {
+    "nr": 187,
+    "tolge": "Laske tulo $6_8 \\cdot 7_8.$ Ilmoita vastaus kantaluvussa $8.$"
+  },
+  {
+    "nr": 188,
+    "tolge": "Suklaapuodissa perinteinen suklaafudge maksaa 10 dollartia paunalta. Anna ostaa $\\frac{7}{9}$ paunaa fudgea. Kassa pyöristää hinnan lähimpään senttiin eli dollarin sadasosaan. Kuinka monta dollartia Anna maksaa fudgestaan?"
+  },
+  {
+    "nr": 189,
+    "tolge": "Etsi yhtälön $2x^2+4x-1=0$ ratkaisujen neliöiden summa."
+  },
+  {
+    "nr": 190,
+    "tolge": "Lukujono $\\{a_n\\}$ on määritelty seuraavasti: $$\na_0 = 1,a_1 = 1, \\text{ and } a_n = a_{n - 1} + \\frac {a_{n - 1}^2}{a_{n - 2}}\\text{ for }n\\ge2.\n$$Lukujono $\\{b_n\\}$ on määritelty seuraavasti: $$\nb_0 = 1,b_1 = 3, \\text{ and } b_n = b_{n - 1} + \\frac {b_{n - 1}^2}{b_{n - 2}}\\text{ for }n\\ge2.$$Määritä $\\frac {b_{32}}{a_{32}}$."
+  },
+  {
+    "nr": 191,
+    "tolge": "Laske $\\log_{\\sqrt8}(64\\sqrt{8})$."
+  },
+  {
+    "nr": 192,
+    "tolge": "Jos $\\omega^{1997} = 1$ ja $\\omega \\neq 1,$ laske lausekkeen\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}\\]\narvo."
+  },
+  {
+    "nr": 193,
+    "tolge": "Neliö, jonka sivun pituus on 12 yksikköä, on piirretty ympyrän sisään. Mikä on $K$:n arvo, jos ympyrän pinta-ala on $K\\pi$ neliöyksikköä?"
+  },
+  {
+    "nr": 194,
+    "tolge": "Italiassa on viisi matkailukohdetta, joissa Mary haluaisi vierailla, mutta hänellä on aikaa käydä vain kolmessa. Kuinka monella tavalla hän voi valita kohteista kolme vierailtavakseen (vierailujärjestyksellä ei ole väliä)?"
+  },
+  {
+    "nr": 195,
+    "tolge": "Etsi yhtälön $6t^2 + 30 = 41t$ ratkaisujen välinen positiivinen erotus."
+  },
+  {
+    "nr": 196,
+    "tolge": "Jos 1. maaliskuuta on maanantai, mikä viikonpäivä on 270 päivää myöhemmin?"
+  },
+  {
+    "nr": 197,
+    "tolge": "Tänään isä on viisi kertaa niin vanha kuin poikansa. Tasan kolme vuotta sitten heidän ikänsä summa oli 30. Kuinka vanha poika on tänään?"
+  },
+  {
+    "nr": 198,
+    "tolge": "Olkoon $ABCDE$ säännöllinen viisikulmio. Voidaan piirtää ympyrä, joka sivuaa janaa $\\overline{DC}$ pisteessä $D$ ja janaa $\\overline{AB}$ pisteessä $A.$ Mikä on lyhyemmän kaaren $AD$ suuruus asteina? [asy]import olympiad; import geometry; size(100); defaultpen(linewidth(0.8));\npair[] pentagon = new pair[5];\npentagon[0] = dir(36);\npentagon.cyclic=true;\nfor(int i = 1; i < 6; ++i){\n \npentagon[i] = dir(72*i + 36);\n\ndraw(pentagon[i - 1]--pentagon[i]);\n}\ndot(\"$C$\",pentagon[0],NE);\ndot(\"$D$\",pentagon[1],N);\ndot(\"$E$\",pentagon[2],W);\ndot(\"$A$\",pentagon[3],S);\ndot(\"$B$\",pentagon[4],SE);\nline x = line(pentagon[1],pentagon[1] + dir(-108));\nline x2 = line(origin,pentagon[2]);\npair ccenter = coordinates(intersectionpoint(x,x2));\ndraw(Circle(ccenter,arclength(ccenter--pentagon[1])));\n[/asy]"
+  },
+  {
+    "nr": 199,
+    "tolge": "Jos $(ax+b)(2x+3)=20x^2+44x+21$, missä $a$ ja $b$ ovat kaksi eri kokonaislukua, mikä on summan $a+b$ arvo?"
+  },
+  {
+    "nr": 200,
+    "tolge": "Kolmen puutavarakappaleen pituudet jalkoina ovat 48, 72 ja 40. Sahurin täytyy sahata puutavara yhtä pitkiksi tukeiksi ilman hukkapaloja. Kuinka monta jalkaa pitkä on pisin mahdollinen pituus, johon hän voi ne sahata?"
+  },
+  {
+    "nr": 201,
+    "tolge": "Mikä kokonaisluku $n$ toteuttaa $0\\le n<18$ ja $$n\\equiv 142857\\pmod{18}~?$$"
+  },
+  {
+    "nr": 202,
+    "tolge": "Laskutoimitus @ määritellään $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ supistetuille murtoluvuille $\\frac{p}{q}$. Mikä on lausekkeen $\\frac{7}{30}@\\frac{10}{21}$ supistettu arvo?"
+  },
+  {
+    "nr": 203,
+    "tolge": "Kuinka monta nelinumeroista kokonaislukua on pienempiä kuin 8000 ja suurempia kuin 2000?"
+  },
+  {
+    "nr": 204,
+    "tolge": "Kun tiedetään, että piste $(8,8)$ on kuvaajalla $y=\\frac 14f\\left(\\frac 12x\\right)$, on olemassa yksi piste, jonka täytyy olla kuvaajalla $y=f(x)$. Mikä on kyseisen pisteen koordinaattien summa?"
+  },
+  {
+    "nr": 205,
+    "tolge": "Kuinka monella lukua 1000 pienemmällä luonnollisella luvulla on täsmälleen kolme eri positiivista kokonaislukutekijää?"
+  },
+  {
+    "nr": 206,
+    "tolge": "Alla näkyvän hyperppelin yhtälö voidaan kirjoittaa muodossa\n\\[\\frac{(y - k)^2}{a^2} - \\frac{(x - h)^2}{b^2} = 1.\\]Määritä $h + k + a + b.$\n\n[asy]\nunitsize(0.3 cm);\n\nreal upperhyper (real x) {\n  return (2*sqrt((x - 6)^2/16 + 1) - 5);\n}\n\nreal lowerhyper (real x) {\n  return (-2*sqrt((x - 6)^2/16 + 1) - 5);\n}\n\nint i, n = 10;\n\nfor (i = -n; i <= n; ++i) {\n  draw((i,-n)--(i,n),gray(0.7));\n  draw((-n,i)--(n,i),gray(0.7));\n}\n\ndraw((0,-n)--(0,n));\ndraw((-n,0)--(n,0));\n\ndraw(graph(upperhyper,-10,10),red);\ndraw(graph(lowerhyper,-3,10),red);\ndraw(extension((-10,-10),(10,-10),(6,-5),(6,-5) + (4,2))--extension((10,10),(10,-10),(6,-5),(6,-5) + (4,2)),dashed);\ndraw(extension((-10,-10),(-10,10),(6,-5),(6,-5) + (4,-2))--extension((10,10),(10,-10),(6,-5),(6,-5) + (4,-2)),dashed);\n\ndot((6,-5));\n[/asy]"
+  },
+  {
+    "nr": 207,
+    "tolge": "Arvovaltaisen komitean jäsenet olivat valitsemassa puheenjohtajaa, ja jokainen jäsen antoi yhden äänen yhdelle 27 ehdokkaasta. Jokaisen ehdokkaan kohdalla hänen saamiensa äänten tarkka prosenttiosuus oli vähintään 1 pienempi kuin kyseiselle ehdokkaalle annettujen äänten määrä. Mikä on komitean pienin mahdollinen jäsenmäärä?"
+  },
+  {
+    "nr": 208,
+    "tolge": "Etsi lausekkeen $\\frac{y}{x}$ suurin arvo reaalilukupareille $(x,y)$, jotka toteuttavat yhtälön\n\\[(x - 3)^2 + (y - 3)^2 = 6.\\]"
+  },
+  {
+    "nr": 209,
+    "tolge": "Määritä $A$ ja $B$ siten, että\n\\[\\frac{4x}{x^2-8x+15} = \\frac{A}{x-3} + \\frac{B}{x-5}\\]kaikilla $x$:n arvoilla paitsi 3 ja 5. Ilmoita vastauksesi järjestettynä parina muodossa $(A, B).$"
+  },
+  {
+    "nr": 210,
+    "tolge": "Laske: $32^2 - 18^2$."
+  },
+  {
+    "nr": 211,
+    "tolge": "Palindromi on luku, joka on sama etuperin ja takaperin luettuna, kuten $43234$. Mikä on pienin viisinumeroinen palindromi, joka on jaollinen luvulla $11$?"
+  },
+  {
+    "nr": 212,
+    "tolge": "Olkoot $D,$ $E,$ $F$ vastaavasti kolmion $ABC$ sivujen $\\overline{BC},$ $\\overline{AC},$ $\\overline{AB}$ keskipisteet. Olkoot $P,$ $Q,$ $R$ vastaavasti janojen $\\overline{AD},$ $\\overline{BE},$ $\\overline{CF}$ keskipisteet. Laske\n\\[\\frac{AQ^2 + AR^ 2+ BP^2 + BR^2 + CP^2 + CQ^2}{AB^2 + AC^2 + BC^2}.\\]"
+  },
+  {
+    "nr": 213,
+    "tolge": "Olkoon $\\mathbf{w} = \\begin{pmatrix} 1 \\\\ 0 \\\\ -3 \\end{pmatrix}.$ Niiden vektorien $\\mathbf{v}$ joukko, joille\n\\[\\operatorname{proj}_{\\mathbf{w}} \\mathbf{v} = \\mathbf{0}\\]sijaitsee tasossa. Anna tämän tason yhtälö muodossa\n\\[Ax + By + Cz + D = 0,\\]missä $A,$ $B,$ $C,$ $D$ ovat kokonaislukuja siten, että $A > 0$ ja $\\gcd(|A|,|B|,|C|,|D|) = 1.$"
+  },
+  {
+    "nr": 214,
+    "tolge": "Alla oleva ellipsi on määritelty yhtälöllä\n\\[PF_1 + PF_2 = d.\\]Määritä $d.$\n\n[asy]\nunitsize(0.3 cm);\n\nint i, n = 10;\n\nfor (i = -n; i <= n; ++i) {\n  draw((i,-n)--(i,n),gray(0.7));\n  draw((-n,i)--(n,i),gray(0.7));\n}\n\ndraw((0,-n)--(0,n));\ndraw((-n,0)--(n,0));\n\ndraw(shift((-1,0))*xscale(7)*yscale(5)*Circle((0,0),1),red);\n\ndot((-1,0));\n[/asy]"
+  },
+  {
+    "nr": 215,
+    "tolge": "Kuinka monta pystysuoraa asymptoottia yhtälön $y = \\frac{1}{x^3-3x^2+3x-1}$ kuvaajalla on?"
+  },
+  {
+    "nr": 216,
+    "tolge": "Laske $115^2$ päässäsi."
+  },
+  {
+    "nr": 217,
+    "tolge": "Mikä on pienin positiivinen kokonaisluku, joka on 30:n monikerta ja joka voidaan kirjoittaa käyttäen vain numeroita 0 ja 2?"
+  },
+  {
+    "nr": 218,
+    "tolge": "Olkoot $a,$ $b,$ $c$ yhtälön $x^3 - 7x + 2 = 0$ juuret. Määritä\n\\[abc + ab + ac + bc + a + b + c + 1.\\]"
+  },
+  {
+    "nr": 219,
+    "tolge": "Lauseke $2z^2+13z+21$ voidaan kirjoittaa muodossa $(z + a)(2z + b),$ missä $a$ ja $b$ ovat kokonaislukuja. Mikä on $2a + b$?"
+  },
+  {
+    "nr": 220,
+    "tolge": "Alla on esitetty funktion $y = \\frac{p(x)}{q(x)}$ kuvaaja, missä $p(x)$ ja $q(x)$ ovat toisen asteen polynomeja. (Oleta, että ruudukon viivat ovat kokonaislukujen kohdalla.)\n\n[asy]\nunitsize(0.6 cm);\n\nreal func (real x) {\n  return (-(x + 5)*(x - 4)/(x - 2)^2);\n}\n\nint i;\n\nfor (i = -8; i <= 8; ++i) {\n  draw((i,-8)--(i,8),gray(0.7));\n  draw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0));\ndraw((0,-8)--(0,8));\ndraw((2,-8)--(2,8),dashed);\ndraw((-8,-1)--(8,-1),dashed);\ndraw(graph(func,-8,1.9),red);\ndraw(graph(func,2.1,8),red);\n\nlimits((-8,-8),(8,8),Crop);\n[/asy]\n\nVaakasuora asymptootti on $y = -1,$ ja ainoa pystysuora asymptootti on $x = 2.$ Määritä $\\frac{p(-1)}{q(-1)}.$"
+  },
+  {
+    "nr": 221,
+    "tolge": "Matriisin $\\mathbf{M}$ jälki määritellään sen diagonaalialkioiden summana. Esimerkiksi\n\\[\\operatorname{Tr} \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = a + d.\\]Kun $\\operatorname{Tr} (\\mathbf{A}) = 2$ ja $\\operatorname{Tr} (\\mathbf{A}^2) = 30,$ määritä $\\det \\mathbf{A}.$"
+  },
+  {
+    "nr": 222,
+    "tolge": "Sievennä\n\\[4 \\sin x \\sin (60^\\circ - x) \\sin (60^\\circ + x).\\]Vastaus on trigonometrinen funktio jostakin yksinkertaisesta $x$:n funktiosta, kuten \"$\\cos (2x)$\" tai \"$\\sin (x^3)$\"."
+  },
+  {
+    "nr": 223,
+    "tolge": "Olkoot $a, b$ ja $c$ reaalilukuja siten, että $a-7b+8c = 4$ ja $8a+4b-c = 7$. Määritä $a^2 - b^2 + c^2.$"
+  },
+  {
+    "nr": 224,
+    "tolge": "Olkoon  \\[f(x) =\n\\begin{cases}\nk(x) &\\text{if }x>0, \\\\\n-\\frac1{2x}&\\text{if }x< 0\\\\\n0&\\text{if }x=0.\n\\end{cases}\n\\]Etsi funktio $k(x)$ siten, että $f(x)$ on oma käänteisfunktionsa."
+  },
+  {
+    "nr": 225,
+    "tolge": "Billy ampuu nuolen 10 jalan korkeudelta maasta. Tämän nuolen korkeutta voidaan kuvata yhtälöllä $h=10-23t-10t^2$, missä $t$ on aika sekunteina nuolen ampumisesta. Jos maalitaulun keskipiste on 5 jalan korkeudella maasta, kuinka monen sekunnin kuluttua nuolen täytyy saavuttaa maalitaulu, jotta Billy osuu napakymppiin?"
+  },
+  {
+    "nr": 226,
+    "tolge": "Mikä on lukujen $1313$ ja $1001$ suurin yhteinen tekijä?"
+  },
+  {
+    "nr": 227,
+    "tolge": "Jos $m$ on reaaliluku ja lausekkeella $2x^2+mx+8$ on kaksi erillistä reaalijuurta, mitkä ovat $m$:n mahdolliset arvot? Anna vastauksesi välimerkintänä."
+  },
+  {
+    "nr": 228,
+    "tolge": "Kuinka monta erilaista kolmen askeleen reittiä kuution särmiä pitkin kulkee kärkipisteestä $A$ kärkipisteeseen $B$? (Askel tarkoittaa siirtymistä kärkipisteestä sen viereiseen, saman särmän jakavaan kärkipisteeseen.)\n\n[asy]\nsize(101);\nimport three;\ncurrentprojection=orthographic(1/2,-1,1/4);\ndraw((0,0,0)--(1,0,0)--(1,0,1)--(0,0,1)--(0,0,0));\ndraw((1,0,0)--(1,1,0)--(1,1,1)--(1,0,1));\ndraw((1,1,1)--(0,1,1)--(0,0,1));\nlabel(\"A\",(0,0,1),(-1,0,0)); label(\"B\",(1,1,0),(1,0,0));\n\n[/asy]"
+  },
+  {
+    "nr": 229,
+    "tolge": "Etsi kaikki yhtälön \\[\\frac{x^2-3}{x+2} = \\frac{2x}{x^2-4}.\\] reaaliratkaisut. Syötä kaikki ratkaisut pilkulla eroteltuina."
+  },
+  {
+    "nr": 230,
+    "tolge": "On olemassa viiden positiivisen kokonaisluvun joukko, jonka keskiarvo on 5, mediaani 5 ja ainoa moodi (tyyppiarvo) 8. Mikä on joukon suurimman ja pienimmän kokonaisluvun erotus?"
+  },
+  {
+    "nr": 231,
+    "tolge": "Etsi matriisi $\\mathbf{M}$, joka vaihtaa matriisin rivit keskenään. Toisin sanoen\n\\[\\mathbf{M} \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = \\begin{pmatrix} c & d \\\\ a & b \\end{pmatrix}.\\]Jos tällaista matriisia $\\mathbf{M}$ ei ole olemassa, syötä nollamatriisi."
+  },
+  {
+    "nr": 232,
+    "tolge": "Mikä luku on $5\\%$ $10\\%$:sta luvusta 1200?"
+  },
+  {
+    "nr": 233,
+    "tolge": "Lukujonossa $$32, 8, \\underline{\\phantom{XX}}, \\underline{\\phantom{XX}}, x,$$ jokainen termi toisen jälkeen on kahden sitä välittömästi edeltävän termin keskiarvo. Mikä on $x$:n arvo?"
+  },
+  {
+    "nr": 234,
+    "tolge": "Kuinka monta ei-kongruenttia suorakulmaista kolmiota on olemassa, joiden kaikkien sivujen pituudet ovat positiivisia kokonaislukuja ja joiden toisen kateetin (eli ei hypotenuusan) pituus on $162$?"
+  },
+  {
+    "nr": 235,
+    "tolge": "Teini-ikäinen on 13-, 14-, 15-, 16-, 17-, 18- tai 19-vuotias henkilö. Tietyn teini-ikäisten ryhmän ikien tulo on 705 600. Mikä on heidän ikänsä keskiarvo vuosina? Ilmoita vastauksesi desimaalilukuna lähimpään kymmenykseen pyöristettynä."
+  },
+  {
+    "nr": 236,
+    "tolge": "Parabeli, jonka yhtälö on $y=x^2+bx+c$, kulkee pisteiden $(2,3)$ ja $(4,3)$ kautta. Mikä on $c$?"
+  },
+  {
+    "nr": 237,
+    "tolge": "Jokainen Skateer Universityn jääkiekkojoukkueen kuudesta jäsenestä kättelee jokaista Iceburg Tech -joukkueen kuutta jäsentä. Kuinka monta kättelyä tapahtuu?"
+  },
+  {
+    "nr": 238,
+    "tolge": "Bobilla ja Alicella on kummallakin pussi, joka sisältää yhden pallon kutakin seuraavista väreistä: sininen, vihreä, oranssi, punainen ja violetti. Alice valitsee satunnaisesti yhden pallon pussistaan ja laittaa sen Bobin pussiin. Sen jälkeen Bob valitsee satunnaisesti yhden pallon pussistaan ja laittaa sen Alicen pussiin. Mikä on todennäköisyys sille, että tämän prosessin jälkeen pussien sisällöt ovat samat?"
+  },
+  {
+    "nr": 239,
+    "tolge": "Kuinka monta yksikköä pitkä on jana, jonka päätepisteiden koordinaatit ovat $(-3,7)$ ja $(2,-5)$?"
+  },
+  {
+    "nr": 240,
+    "tolge": "Ohjelman alussa marssiorkesterin 105 jäsentä seisovat suorakulmaisessa muodostelmassa nimeltä Muodostelma $A$. Kaikki orkesterin jäsenet siirtyvät sen jälkeen Muodostelmaan $B$, joka on toinen suorakulmainen muodostelma, jossa on kuusi riviä enemmän mutta kaksi jäsentä vähemmän riviä kohden. Kuinka monta riviä Muodostelmassa $A$ on?"
+  },
+  {
+    "nr": 241,
+    "tolge": "Olkoon $ x$ reaaliluku siten, että viisi lukua $ \\cos(2 \\pi x)$, $ \\cos(4 \\pi x)$, $ \\cos(8 \\pi x)$, $ \\cos(16 \\pi x)$ ja $ \\cos(32 \\pi x)$ ovat kaikki ei-positiivisia. Mikä on $ x$:n pienin mahdollinen positiivinen arvo?"
+  },
+  {
+    "nr": 242,
+    "tolge": "Suoran ympyrälieriön muotoisen vesisäiliön pohjan säde on $30$ metriä ja tilavuus $2700\\pi$ kuutiometriä. Mikä on säiliön korkeus metreinä?"
+  },
+  {
+    "nr": 243,
+    "tolge": "Suora $l$ on yhtälön $y = ax + b$ kuvaaja. Suora $l_1$ saadaan siirtämällä suoraa $l$ 3 yksikköä vasemmalle ja kaksi yksikköä alaspäin, ja se kulkee pisteiden $(5,8)$ ja $(7,14)$ kautta. Mikä on $a - b$?"
+  },
+  {
+    "nr": 244,
+    "tolge": "Suunnikkaan $ABCD$ piiri on 40, ja sen korkeudet ovat 4 ja 7. Laske $\\sin A.$"
+  },
+  {
+    "nr": 245,
+    "tolge": "Olkoot $\\mathbf{a} = \\begin{pmatrix} 2 \\\\ 0 \\\\ 1 \\end{pmatrix},$ $\\mathbf{b} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix}$ ja $\\mathbf{c} = \\begin{pmatrix} 4 \\\\ - 3 \\\\ 7 \\end{pmatrix}.$ Etsi vektori $\\mathbf{v}$ siten, että $\\mathbf{v} \\times \\mathbf{b} = \\mathbf{c} \\times \\mathbf{b}$ ja $\\mathbf{v} \\cdot \\mathbf{a} = 0.$"
+  },
+  {
+    "nr": 246,
+    "tolge": "Positiiviselle kokonaisluvulle $n$ $n^{th}$ kolmioluku on $T(n)=\\dfrac{n(n+1)}{2}.$\n\nEsimerkiksi $T(3) = \\frac{3(3+1)}{2}= \\frac{3(4)}{2}=6$, joten kolmas kolmioluku on 6.\n\nMääritä pienin kokonaisluku $b>2011$ siten, että $T(b+1)-T(b)=T(x)$ jollekin positiiviselle kokonaisluvulle $x$."
+  },
+  {
+    "nr": 247,
+    "tolge": "Etsi sellaisten positiivisten reaalilukujen järjestettyjen kolmikoiden $(x,y,z)$ määrä, joille\n\\[\\left( x + \\frac{1}{y} \\right) \\left( y + \\frac{1}{z} \\right) \\left( z + \\frac{1}{x} \\right) = 8.\\]"
+  },
+  {
+    "nr": 248,
+    "tolge": "Mikä muotoa $\\frac{A}{x + 3}$ oleva murtolauseke voidaan lisätä murtolausekkeeseen $\\frac{6x}{x^2 + 2x - 3}$ siten, että tulos supistuu muotoa $\\frac{B}{x - 1}$ olevaksi murtolausekkeeksi? Tässä $A$ ja $B$ ovat reaalilukuja. Anna vastauksena $A$:n arvo."
+  },
+  {
+    "nr": 249,
+    "tolge": "Olkoot $\\mathbf{a}$ ja $\\mathbf{b}$ kaksi nollasta poikkeavaa vektoria siten, että $\\mathbf{a} + \\mathbf{b}$ ja $\\mathbf{b}$ ovat kohtisuorassa ja $\\mathbf{a} + 2 \\mathbf{b}$ ja $\\mathbf{a}$ ovat kohtisuorassa. Määritä $\\frac{\\|\\mathbf{a}\\|}{\\|\\mathbf{b}\\|}.$"
+  },
+  {
+    "nr": 250,
+    "tolge": "Olkoon $x$ sellainen arvo, että $9x^2 - 18x - 16 = 0$ ja $15x^2 + 28x + 12 = 0.$ Mikä on $x$:n arvo? Ilmoita vastauksesi supistettuna murtolukuna."
+  },
+  {
+    "nr": 251,
+    "tolge": "Laske lausekkeen arvo. $$\\frac{7+8+9}{2+3+4}\\cdot\\frac{6+9+12}{9+8+7}$$"
+  },
+  {
+    "nr": 252,
+    "tolge": "Etsi kokonaisluku $n,$ $0 \\le n \\le 180,$ jolle pätee $\\cos n^\\circ = \\cos 568^\\circ.$"
+  },
+  {
+    "nr": 253,
+    "tolge": "Mikä on $12$-tuntisen kellon tunti- ja minuuttiosoittimien muodostaman pienemmän kulman asteluku kello $2\\!:\\!48$?"
+  },
+  {
+    "nr": 254,
+    "tolge": "Mikä on aritmeettisen jonon $1 + 2 + 3 + \\cdots + 80$ summan suurin alkutekijä?"
+  },
+  {
+    "nr": 255,
+    "tolge": "Johnin oli tarkoitus jakaa luku $2$:lla, mutta hän oli huolimaton ja vähensikin luvusta $2$. Hän sai vastaukseksi $22$. Mikä hänen vastauksensa olisi ollut, jos hän olisi jakanut luvun $2$:lla $2$:n vähentämisen sijaan?"
+  },
+  {
+    "nr": 256,
+    "tolge": "Olkoot $A$ ja $B$ yksikkökuution kaksi vastakkaista kärkeä, ja olkoon $C$ jokin muu kuution kärki kuin $A$ ja $B.$ Määritä etäisyys pisteestä $C$ suoralle $AB.$"
+  },
+  {
+    "nr": 257,
+    "tolge": "Mikä on kolmion kolmen ulkokulman suuruuksien keskiarvo, jos sen kahden sisäkulman suuruudet ovat 63 ja 78 astetta?"
+  },
+  {
+    "nr": 258,
+    "tolge": "10 Caltechin opiskelijan ryhmä menee lounaalle Lake Streetille. Jokainen opiskelija syö joko Chipotlessa tai Panda Expressissä. Kuinka monella eri tavalla opiskelijat voivat kollektiivisesti mennä lounaalle?"
+  },
+  {
+    "nr": 259,
+    "tolge": "Jokaiselle positiiviselle kokonaisluvulle $n$ olkoon $\\text{mod}_5 (n)$ jakojäännös, kun $n$ jaetaan luvulla 5. Määritellään funktio $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ rekursiivisesti seuraavasti:\n\n\\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & \\text{ if } i = 0 \\text{ and } 0 \\le j \\le 4 \\text{,}\\\\ f(i-1,1) & \\text{ if } i \\ge 1 \\text{ and } j = 0 \\text{, and} \\\\ f(i-1, f(i,j-1)) & \\text{ if } i \\ge 1 \\text{ and } 1 \\le j \\le 4. \\end{cases}\\]Mikä on $f(2015,2)$?"
+  },
+  {
+    "nr": 260,
+    "tolge": "Alla oleva kuvio koostuu neljästä puoliympyrästä ja suurimman puoliympyrän 16 cm:n halkaisijasta. Mikä on kahden varjostetun alueen yhteispinta-ala neliösenttimetreinä? Käytä luvun $\\pi$ likiarvona 3,14 ja ilmoita vastauksesi desimaalilukuna kymmenysosan tarkkuudella.\n\n[asy]import graph;\nsize(200);\npicture p;\nreal h = .25,w = 1,textsize = 10pt,width = 1;\nfilldraw(Arc((8,0),8,0,180)--cycle,gray(.6),black+linewidth(width));\nfilldraw(Arc((6,0),6,0,180)--cycle,white,black+linewidth(width));\nfilldraw(Arc((4,0),4,0,180)--cycle,gray(.6),black+linewidth(width));\nfilldraw(Arc((2,0),2,0,180)--cycle,white,black+linewidth(width));\ndraw(p,(0,h)--(0,-h)^^(0,0)--(4,0)^^(4,h)--(4,-h),linewidth(width));\nfill(p,(w,h)--(4-w,h)--(4-w,-h)--(w,-h)--cycle,white);\nlabel(p,\"4 cm\",(2,0),fontsize(textsize));\nadd(shift(.5*down)*p);\nadd(shift(4*right)*shift(.5*down)*p);\nadd(shift(8*right)*shift(.5*down)*p);\nadd(shift(12*right)*shift(.5*down)*p);[/asy]"
+  },
+  {
+    "nr": 261,
+    "tolge": "Jos luvun $n$ jakojäännös 7:llä jaettaessa on 3, niin mikä on luvun $2n+1$ jakojäännös 7:llä jaettaessa?"
+  },
+  {
+    "nr": 262,
+    "tolge": "Tyttöjen yleisurheilujoukkueen on juostava 3 mailia ensimmäisenä harjoituspäivänä ja 6 mailia jokaisena päivänä sen jälkeen. Poikien joukkueen on juostava 5 mailia jokaisena harjoituspäivänä. Valmentaja tilaa uudet keihäät sen päivän päätteeksi, jona kunkin tytön juoksema kokonaismailimäärä ylittää kunkin pojan mailimäärän. Kuinka monta mailia kukin tyttö on juossut yhteensä siihen mennessä, kun valmentaja tilaa uudet välineet?"
+  },
+  {
+    "nr": 263,
+    "tolge": "Olkoot $x$, $y$ ja $z$ reaalilukuja siten, että\n\\[\\cos x + \\cos y + \\cos z = \\sin x + \\sin y + \\sin z = 0.\\]Määritä lausekkeen $\\cos (2x - y - z)$ kaikkien mahdollisten arvojen summa."
+  },
+  {
+    "nr": 264,
+    "tolge": "Oletetaan, että $a$ ja $b$ ovat positiivisia reaalilukuja, ja olkoon \\[f(x) =\n\\begin{cases}\n\\frac{a}{b}x & \\text{ if }x\\le-4, \\\\\nabx^2 & \\text{ if }x>-4.\n\\end{cases}\n\\]Jos $f(-4)=-\\frac{60}{13}$ ja $f(4)=3120$, mikä on $a+b$?"
+  },
+  {
+    "nr": 265,
+    "tolge": "Yhtälön $z^4+4z^3i-6z^2-4zi-i=0$ ratkaisut ovat kuperan monikulmion kärkipisteet kompleksitasossa. Tämän monikulmion pinta-ala voidaan esittää muodossa $p^{a/b},$ missä $a,$ $b,$ $p$ ovat positiivisia kokonaislukuja, $p$ on alkuluku ja $a$ ja $b$ ovat keskenään jaottomia. Määritä $a + b + p.$"
+  },
+  {
+    "nr": 266,
+    "tolge": "Olkoon $$x={4\\over{(\\sqrt5+1)(\\root 4\\of5+1)(\\root 8\\of5+1)(\\root\n{16}\\of5+1)}}.$$Määritä $(x+1)^{48}$."
+  },
+  {
+    "nr": 267,
+    "tolge": "Olkoon  \\[f(x) =\n\\begin{cases}\nk(x) &\\text{if }x>2, \\\\\n2+(x-2)^2&\\text{if }x\\leq2.\n\\end{cases}\n\\]Etsi funktio $k(x)$ siten, että $f$ on oma käänteisfunktionsa."
+  },
+  {
+    "nr": 268,
+    "tolge": "Kolme ympyränkaarta, joiden säde on 5 yksikköä, rajaavat kuvassa näkyvän alueen. Kaaret $AB$ ja $AD$ ovat ympyränneljänneksiä ja kaari $BCD$ on puoliympyrä. Mikä on alueen pinta-ala neliöyksiköissä? [asy]\n/* AMC8 2000 #19 Problem */\ndraw((0,0)..(1,1)..(2,0));\ndraw((0,0)..(.7,-.3)..(1,-1));\ndraw((1,-1)..(1.3, -0.3)..(2,0));\nlabel(\"$A$\", (1,-1), SW);\nlabel(\"$B$\", (0,0), W);\nlabel(\"$C$\", (1,1),N);\nlabel(\"$D$\", (2,0),E);\n[/asy]"
+  },
+  {
+    "nr": 269,
+    "tolge": "Benjamin yrittää murtaa koodilukon. Tämäntyyppisessä lukossa on 5 numeroa väliltä 0–9, ja Benjamin sattuu tietämään, ettei tämän lukkotyypin koodissa voi olla toistuvia numeroita. Kuinka monta kelvollista koodia on olemassa?"
+  },
+  {
+    "nr": 270,
+    "tolge": "Olkoon\n\\[\\sum_{n = 0}^{123456789} \\frac{3n^2 + 9n + 7}{(n^2 + 3n + 2)^3} = \\frac{a}{b},\\]missä $a$ ja $b$ ovat keskenään jaottomia positiivisia kokonaislukuja. Määritä $b - a.$"
+  },
+  {
+    "nr": 271,
+    "tolge": "Määritä lausekkeen arvo:\n\\[8\\cos^210^\\circ - \\dfrac{1}{\\sin 10^\\circ}.\\]"
+  },
+  {
+    "nr": 272,
+    "tolge": "Jos $\\frac{a}{b}$ on todennäköisyys sille, että satunnaisesti valitun, lukua 2010 pienemmän positiivisen parittoman kokonaisluvun käänteisluku on päättyvä desimaaliluku, missä $a$ ja $b$ ovat keskenään jaottomia positiivisia kokonaislukuja, mikä on $a+b$?"
+  },
+  {
+    "nr": 273,
+    "tolge": "Hihna on vedetty tiukasti kolmen ympyrän ympärille, joiden kunkin säde on $10$ cm, kuten kuvassa näkyy. Hihnan pituus senttimetreinä voidaan kirjoittaa muodossa $a + b\\pi$, missä $a$ ja $b$ ovat rationaalilukuja. Mikä on lausekkeen $a + b$ arvo? [asy]\n\nsize(120); defaultpen(linewidth(0.8));\npicture p; real r = 3^.5/2;\npair A = expi(-pi/6); draw(p, circle(A, r)); draw(p, (A.x,A.y - r) -- (-A.x,A.y - r));\nadd(p); add(rotate(120)*p); add(rotate(240)*p);\n[/asy]"
+  },
+  {
+    "nr": 274,
+    "tolge": "Yhtälö $y = \\frac{x + A}{Bx + C}$, missä $A,B,$ ja $C$ ovat kokonaislukuja, on esitetty alla. Mikä on $A + B + C$?\n\n[asy]\nimport graph; size(8.14cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-2.52,xmax=5.62,ymin=-4.28,ymax=3.32;\n\npen cqcqcq=rgb(0.75,0.75,0.75);\n\n/*grid*/ pen gs=linewidth(0.7)+cqcqcq+linetype(\"2 2\"); real gx=1,gy=1;\nfor(real i=ceil(xmin/gx)*gx;i<=floor(xmax/gx)*gx;i+=gx) draw((i,ymin)--(i,ymax),gs); for(real i=ceil(ymin/gy)*gy;i<=floor(ymax/gy)*gy;i+=gy) draw((xmin,i)--(xmax,i),gs);\n\nLabel laxis; laxis.p=fontsize(10);\n\nxaxis(\"$x$\",xmin,xmax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); yaxis(\"$y$\",ymin,ymax,Ticks(laxis,Step=1.0,Size=2,NoZero),Arrows(6),above=true); real f1(real x){return (-x+4)/(x-2);} draw(graph(f1,-2.51,1.99),linewidth(1.2),Arrows(4)); draw(graph(f1,2.01,5.61),linewidth(1.2),Arrows(4));\n\nclip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle);\n\n[/asy]"
+  },
+  {
+    "nr": 275,
+    "tolge": "Jos $\\det \\mathbf{A} = -1,$ niin määritä $\\det (\\mathbf{7A}).$"
+  },
+  {
+    "nr": 276,
+    "tolge": "Etsi $a$:lle sellainen nollasta poikkeava arvo, että yhtälöllä $ax^2+8x+4=0$ on vain yksi ratkaisu."
+  },
+  {
+    "nr": 277,
+    "tolge": "Mike maksoi postimerkistä $\\$1.25$ kolme vuotta sitten. Hänelle tarjottiin juuri kaksinkertaista summaa merkistä. Olettaen, että merkin tarjoushinta kaksinkertaistuu kolmen vuoden välein, kuinka monta dollaria hänelle tarjotaan 12 vuoden kuluttua?"
+  },
+  {
+    "nr": 278,
+    "tolge": "Säännöllistä viisikulmiota kierretään vastapäivään sen keskipisteen ympäri. Kuinka monta astetta sitä on vähintään kierrettävä, jotta se yhtyy alkuperäiseen asentoonsa?"
+  },
+  {
+    "nr": 279,
+    "tolge": "Kuinka monta erillistä rationaalilukujen nelikkoa $(a,b,c,d)$ on olemassa, joille pätee \\[a\\log_{10} 2+b\\log_{10} 3+c\\log_{10} 5+d\\log_{10} 7=2005?\\]"
+  },
+  {
+    "nr": 280,
+    "tolge": "Ratkaise $z$ seuraavasta yhtälöstä: $2-3iz = 3 + 2iz$."
+  },
+  {
+    "nr": 281,
+    "tolge": "Jos $y=\\frac{27x^2+9x+3}{27x^3+9x^2+3x+1}$, millä $y$:n arvolla on vaakasuora asymptootti?"
+  },
+  {
+    "nr": 282,
+    "tolge": "Purkissa on neljä punaista palloa ja kaksi valkoista palloa. Yksi pallo poistetaan satunnaisesti ja korvataan vastakkaisen värisellä pallolla. Purkkia ravistetaan sen jälkeen ja sieltä valitaan satunnaisesti yksi pallo. Mikä on todennäköisyys, että tämä pallo on punainen? Ilmoita vastauksesi murtolukuna."
+  },
+  {
+    "nr": 283,
+    "tolge": "Eric ja Charles miettivät kumpikin toisen asteen polynomia. Yllätyksekseen molemmat polynomit alkavat $x^2+4x+\\cdots$. Ericin polynomin diskriminantin, $b^2-4ac$, suhde Charlesin polynomin diskriminanttiin on yhtä suuri kuin Charlesin vakiotermin suhde Ericin vakiotermiin. Jos heidän vakioterminsä eivät ole yhtä suuria, laske vakiotermien summa."
+  },
+  {
+    "nr": 284,
+    "tolge": "Kolmion $ABC$ pinta-ala on yhtä suuri kuin $a^2 - (b - c)^2,$ missä $a,$ $b,$ ja $c$ ovat kuten tavallisesti kolmion $ABC$ sivut. Laske $\\tan A.$"
+  },
+  {
+    "nr": 285,
+    "tolge": "Etsi vektori $\\mathbf{v}$ siten, että\n\\[\\begin{pmatrix} 2 & 3 & -1 \\\\ 0 & 4 & 5 \\\\ 4 & 0 & -2 \\end{pmatrix} \\mathbf{v} = \\begin{pmatrix} 2 \\\\ 27 \\\\ -14 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 286,
+    "tolge": "Seuraava suora on parametroitu siten, että sen suuntavektori on muotoa $\\begin{pmatrix} -7 \\\\ b \\end{pmatrix}.$ Määritä $b.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, L, R;\nint i, n;\n\nfor (i = -8; i <= 8; ++i) {\n  draw((i,-8)--(i,8),gray(0.7));\n  draw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0),Arrows(6));\ndraw((0,-8)--(0,8),Arrows(6));\n\nA = (-5,4);\nB = (-1,3);\nL = extension(A, B, (-8,0), (-8,1));\nR = extension(A, B, (8,0), (8,1));\n\ndraw(L--R, red);\n\nlabel(\"$x$\", (8,0), E);\nlabel(\"$y$\", (0,8), N);\n[/asy]"
+  },
+  {
+    "nr": 287,
+    "tolge": "Tara heittää kolmea tavallista noppaa kerran. Mikä on todennäköisyys sille, että silmälukujen summa on vähintään kolme? Ilmoita vastaus prosentteina."
+  },
+  {
+    "nr": 288,
+    "tolge": "Suorakulmaisessa kolmiossa $ABC$ pätee $AB = 10$, $BC = 24$ ja $\\angle ABC = 90^\\circ$. Jos piste $M$ on janalla $\\overline{AC}$ siten, että $\\overline{BM}$ on kolmion $\\triangle ABC$ korkeusjana, mikä on $\\cos \\angle ABM$?"
+  },
+  {
+    "nr": 289,
+    "tolge": "Mikä on lukujen $2^5$ ja $5^2$ välinen positiivinen erotus?"
+  },
+  {
+    "nr": 290,
+    "tolge": "Kun kaksi peräkkäistä kokonaislukua valitaan satunnaisesti, mikä on todennäköisyys sille, että toinen niistä on neljällä jaollinen? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 291,
+    "tolge": "Kuinka monta tuumaa on $2 \\frac{1}{6}$ jaardissa?"
+  },
+  {
+    "nr": 292,
+    "tolge": "Mikä on todennäköisyys sille, että kun symmetristä 6-sivuista noppaa heitetään, silmäluvuksi tulee alkuluku?"
+  },
+  {
+    "nr": 293,
+    "tolge": "Neliö on jaettu kuvan mukaisesti. Kuinka suuri osa neliön pinta-alasta on varjutettu? Ilmoita vastauksesi murtolukuna. [asy]\nsize(100);\nfill((3,1)--(4,2)--(4,4)--(2,2)--cycle,gray);\ndraw((0,0)--(4,0)--(4,4)--(0,4)--cycle,linewidth(1));\ndraw((0,0)--(4,4),linewidth(1));\ndraw((4,0)--(0,4),linewidth(1));\ndraw((2,0)--(4,2),linewidth(1));\ndraw((3.9,3.1)--(4.1,3.1),linewidth(1));\ndraw((4.1,2.9)--(3.9,2.9),linewidth(1));\ndraw((3.9,1.1)--(4.1,1.1),linewidth(1));\ndraw((4.1,.9)--(3.9,.9),linewidth(1));\ndraw((.9,-.1)--(.9,.1),linewidth(1));\ndraw((2.9,-.1)--(2.9,.1),linewidth(1));\ndraw((1.1,-.1)--(1.1,.1),linewidth(1));\ndraw((3.1,-.1)--(3.1,.1),linewidth(1));\n\n[/asy]"
+  },
+  {
+    "nr": 294,
+    "tolge": "Olkoot $\\mathbf{u}$ ja $\\mathbf{v}$ sellaisia vektoreita, että $\\|\\mathbf{u}\\| = \\|\\mathbf{v}\\| = 2$ ja $\\mathbf{u} \\cdot \\mathbf{v} = -1.$ Jos $\\theta$ on vektorien $\\mathbf{u} + \\mathbf{v}$ ja $2 \\mathbf{u} - \\mathbf{v}$ välinen kulma, määritä $\\cos \\theta.$"
+  },
+  {
+    "nr": 295,
+    "tolge": "Janan $s_1$ päätepisteet ovat $(1,2)$ ja $(7,10)$. Jana $s_2$ saadaan siirtämällä janaa $s_1$ $3$ yksikköä oikealle ja $2$ yksikköä alaspäin. Määritä janan $s_2$ keskipiste. Ilmoita vastauksesi muodossa $(a,b)$, missä $a$ ja $b$ ovat kokonaislukuja."
+  },
+  {
+    "nr": 296,
+    "tolge": "Nelikulmio $ABCD$ on suunnikas. Jos kulman $A$ suuruus on 62 astetta ja kulman $ADB$ suuruus on 75 astetta, mikä on kulman $ADC$ suuruus asteina?"
+  },
+  {
+    "nr": 297,
+    "tolge": "Oletetaan, että $ABC_4+200_{10}=ABC_9$, missä $A$, $B$ ja $C$ ovat kelvollisia numeroita kannoissa 4 ja 9. Mikä on summa, kun lasketaan yhteen kaikki mahdolliset $A$:n arvot, kaikki mahdolliset $B$:n arvot ja kaikki mahdolliset $C$:n arvot?"
+  },
+  {
+    "nr": 298,
+    "tolge": "Luokassani on 11 tuoliriviä, ja jokaisella rivillä on 11 tuolia. Jokaisen rivin tuolit on numeroitu 1:stä 11:een. Kuinka monessa tuolissa on pariton numero?"
+  },
+  {
+    "nr": 299,
+    "tolge": "Kolmiossa $\\triangle ABC,$ $AB = AC = 14$ ja $BC = 26.$ Mikä on kolmion $ABC$ lyhimmän kulmanpuolittajan pituus? Ilmoita vastauksesi yksinkertaisimmassa juurimuodossa."
+  },
+  {
+    "nr": 300,
+    "tolge": "Jos $x=735$ ja $ax$ on täydellinen neliö, missä $a$ on positiivinen kokonaisluku, mikä on lausekkeen $\\sqrt{ax}$ pienin mahdollinen arvo?"
+  },
+  {
+    "nr": 301,
+    "tolge": "Tavallisesta 52 kortin pakasta valitaan satunnaisesti 3 korttia. Mikä on todennäköisyys, että ne voidaan järjestää kolmen peräkkäisen samaa maata olevan kortin ryhmäksi? Tässä tehtävässä ässä voi olla joko ennen kakkosta tai kuninkaan jälkeen, mutta ei molempia (joten A23 ja QKA lasketaan molemmat, mutta KA2 ei)."
+  },
+  {
+    "nr": 302,
+    "tolge": "Richard rakentaa suorakulmaisen leikkikentän 200 jalan pituisesta aidasta. Aidan on ympäröitävä leikkikenttä kokonaan. Mikä on tämän leikkikentän suurin mahdollinen pinta-ala?"
+  },
+  {
+    "nr": 303,
+    "tolge": "Jaa tekijöihin $x^3 - 9x^2 + 27x - 35$."
+  },
+  {
+    "nr": 304,
+    "tolge": "Mikä on yhtälön $\n\\frac{2003}{2004}x + 1 + \\frac{1}{x} = 0?\n$ juurten käänteislukujen summa?"
+  },
+  {
+    "nr": 305,
+    "tolge": "Olkoot $r, s,$ ja $t$ yhtälön $2x^3 - 3x^2 + 4x - 1 = 0$ ratkaisut. Määritä $r^2+s^2+t^2$."
+  },
+  {
+    "nr": 306,
+    "tolge": "Minkä tyyppistä kartioleikkausta kuvaa yhtälö \\[x^2 = 2x + 2y - 3?\\] Syötä \"C\" ympyrälle, \"P\" parabolalle, \"E\" ellipsille, \"H\" hyperbelille ja \"N\" jos kyseessä ei ole mikään edellä mainituista."
+  },
+  {
+    "nr": 307,
+    "tolge": "Jos $\\left(\\sqrt[4]{11}\\right)^{3x-3}=\\frac{1}{5}$, mikä on lausekkeen $\\left(\\sqrt[4]{11}\\right)^{6x+2}$ arvo? Ilmoita vastauksesi murtolukuna."
+  },
+  {
+    "nr": 308,
+    "tolge": "Olkoon $P(x) = 4x^3 - 2x^2 + 7x - 1$ ja olkoon $Q(x) = P(x)^2$. Mikä on $Q(x)$:n y-akselin leikkauspiste?"
+  },
+  {
+    "nr": 309,
+    "tolge": "Mikä on yhtälön $z^{12}=64$ niiden juurten summa, joiden reaaliosa on positiivinen?"
+  },
+  {
+    "nr": 310,
+    "tolge": "Olkoot\n\\[\\mathbf{a} = \\begin{pmatrix} 5 \\\\ -3 \\\\ -4 \\end{pmatrix} \\quad \\text{and} \\quad \\mathbf{b} = \\begin{pmatrix} -11 \\\\ 1 \\\\ 28 \\end{pmatrix}.\\]\nOn olemassa vektorit $\\mathbf{p}$ ja $\\mathbf{d}$ siten, että pisteiden $\\mathbf{a}$ ja $\\mathbf{b}$ kautta kulkeva suora voidaan esittää muodossa\n\\[\\mathbf{v} = \\mathbf{p} + \\mathbf{d} t.\\]\nLisäksi eräälle vektorin $\\mathbf{d}$ valinnalle pätee, että kaikille pisteille $\\mathbf{v}$, jotka sijaitsevat samalla puolella pistettä $\\mathbf{a}$ kuin $\\mathbf{b}$, pisteiden $\\mathbf{v}$ ja $\\mathbf{a}$ välinen etäisyys on $t$. Määritä $\\mathbf{d}$."
+  },
+  {
+    "nr": 311,
+    "tolge": "Jos $500 - 90 + 7 = 400 - 60 + 5 + N$, mikä on $N$:n arvo?"
+  },
+  {
+    "nr": 312,
+    "tolge": "Heitetään kahta symmetristä 6-sivuista noppaa. Mikä on todennäköisyys, että silmälukujen summa on 9?"
+  },
+  {
+    "nr": 313,
+    "tolge": "Aritmeettisen jonon kolmesta peräkkäisestä termistä suurimman ja pienimmän erotus on 14. Jokaiseen termiin lisätään puolet pienimmästä termistä, ja saatujen kolmen luvun summa on 120. Mikä on alkuperäisen pienimmän termin arvo?"
+  },
+  {
+    "nr": 314,
+    "tolge": "Kuinka moni kokonaisluku $n$ toteuttaa ehdot $0<n<60$ ja $4n\\equiv 2\\pmod 6?$"
+  },
+  {
+    "nr": 315,
+    "tolge": "Kuinka monta lukua on listassa $$ 6,7,10,11,14,15,\\ldots,94,95,98? $$"
+  },
+  {
+    "nr": 316,
+    "tolge": "Mikä on suurin kokonaisluku, jonka TÄYTYY olla minkä tahansa kuuden peräkkäisen positiivisen parittoman luvun summan tekijä?"
+  },
+  {
+    "nr": 317,
+    "tolge": "Laske $\\frac{1}{-6} \\cdot 6 \\cdot 7 + 8 \\cdot 2 \\div 8 \\cdot (7-1)$."
+  },
+  {
+    "nr": 318,
+    "tolge": "Laske $\\left \\lceil \\frac{\\left \\lfloor 52/3 \\right. \\rfloor}{5/23} \\right \\rceil$."
+  },
+  {
+    "nr": 319,
+    "tolge": "Minkä luvun kanssa $$\\frac{\\sqrt{25-16}}{\\sqrt{25}-\\sqrt{16}}$$ on yhtä suuri?"
+  },
+  {
+    "nr": 320,
+    "tolge": "Määritä vakiotermi lausekkeen $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$ kehitelmässä."
+  },
+  {
+    "nr": 321,
+    "tolge": "Kolmion, jonka kärkipisteet ovat $\\overrightarrow{A},$ $\\overrightarrow{B},$ ja $\\overrightarrow{C},$ pinta-ala on 12. Laske sen kolmion pinta-ala, jonka kärkipisteet ovat $-\\overrightarrow{A} + \\overrightarrow{B} + \\overrightarrow{C},$ $\\overrightarrow{A} - \\overrightarrow{B} + \\overrightarrow{C},$ ja $\\overrightarrow{A} + \\overrightarrow{B} - \\overrightarrow{C}.$"
+  },
+  {
+    "nr": 322,
+    "tolge": "Mikä on $(-1)^{1001}$?"
+  },
+  {
+    "nr": 323,
+    "tolge": "Kolmiossa $ABC,$ $D$ ja $E$ ovat sivulla $\\overline{BC}$ siten, että $BD = DE = EC.$ Jos $x = \\angle BAD,$ $y = \\angle DAE,$ ja $z = \\angle EAC,$ määritä\n\\[\\frac{\\sin (x + y) \\sin (y + z)}{\\sin x \\sin z}.\\]"
+  },
+  {
+    "nr": 324,
+    "tolge": "Kuvassa näkyvä punainen parabeli on yhtälön $x = ay^2 + by + c$ kuvaaja. Määritä $a+b+c$.\n\n[asy]\nsize(150);\nreal ticklen=3;\nreal tickspace=2;\n\nreal ticklength=0.1cm;\nreal axisarrowsize=0.14cm;\npen axispen=black+1.3bp;\nreal vectorarrowsize=0.2cm;\nreal tickdown=-0.5;\nreal tickdownlength=-0.15inch;\nreal tickdownbase=0.3;\nreal wholetickdown=tickdown;\nvoid rr_cartesian_axes(real xleft, real xright, real ybottom, real ytop, real xstep=1, real ystep=1, bool\n\nuseticks=false, bool complexplane=false, bool usegrid=true) {\n\nimport graph;\n\nreal i;\n\nif(complexplane) {\n\nlabel(\"$\\textnormal{Re}$\",(xright,0),SE);\n\nlabel(\"$\\textnormal{Im}$\",(0,ytop),NW);\n\n} else {\n\nlabel(\"$x$\",(xright+0.4,-0.5));\n\nlabel(\"$y$\",(-0.5,ytop+0.2));\n\n}\n\nylimits(ybottom,ytop);\n\nxlimits( xleft, xright);\n\nreal[] TicksArrx,TicksArry;\n\nfor(i=xleft+xstep; i<xright; i+=xstep) {\n\nif(abs(i) >0.1) {\n\nTicksArrx.push(i);\n\n}\n\n}\n\nfor(i=ybottom+ystep; i<ytop; i+=ystep) {\n\nif(abs(i) >0.1) {\n\nTicksArry.push(i);\n\n}\n\n}\n\nif(usegrid) {\n\nxaxis(BottomTop(extend=false), Ticks(\"%\", TicksArrx ,pTick=gray\n\n(0.22),extend=true),p=invisible);//,above=true);\n\nyaxis(LeftRight(extend=false),Ticks(\"%\", TicksArry ,pTick=gray(0.22),extend=true),\n\np=invisible);//,Arrows);\n\n}\n\nif(useticks) {\n\nxequals(0, ymin=ybottom, ymax=ytop, p=axispen, Ticks(\"%\",TicksArry ,\n\npTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));\n\nyequals(0, xmin=xleft, xmax=xright, p=axispen, Ticks(\"%\",TicksArrx ,\n\npTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));\n\n} else {\n\nxequals(0, ymin=ybottom, ymax=ytop, p=axispen, above=true, Arrows(size=axisarrowsize));\n\nyequals(0, xmin=xleft, xmax=xright, p=axispen, above=true, Arrows(size=axisarrowsize));\n\n}\n};\nreal lowerx, upperx, lowery, uppery;\nreal f(real x) {return (x-1)*(x-1)-3;}\nlowery = -2;\nuppery = 4;\nrr_cartesian_axes(-5,f(lowery),lowery,uppery);\ndraw(reflect((0,0),(1,1))*(graph(f,lowery,uppery,operator ..)), red);\n[/asy]"
+  },
+  {
+    "nr": 325,
+    "tolge": "Jos kuvassa näkyvän kolmion pinta-ala on 40, mikä on $r$? [asy]\nimport graph; size(200); defaultpen(linewidth(0.8));\n\nreal xmin=0;\nreal xmax=12;\nreal ymin=0;\nreal ymax=10;\n\nxlimits(xmin, xmax);\n\nylimits(ymin, ymax);\n\nxaxis(\"$x$\",0,12,EndArrow);\nyaxis(\"$y$\",0,10,EndArrow);\ndot(Label(\"$O$\",align=SW),(0,0));\ndraw((0,8)--(10,0));\ndot(Label(\"$(0,8)$\",align=E),(0,8));\ndot(Label(\"$(r,0)$\",align=S),(10,0));\n[/asy]"
+  },
+  {
+    "nr": 326,
+    "tolge": "Tarkastellaan funktiota $z(x,y)$, joka kuvaa paraboloidia\n\\[z = (2x - y)^2 - 2y^2 - 3y.\\]Arkhimedes ja Brahmagupta pelaavat peliä. Arkhimedes valitsee ensin $x.$ Sen jälkeen Brahmagupta valitsee $y.$ Arkhimedes haluaa minimoida arvon $z$, kun taas Brahmagupta haluaa maksimoida arvon $z.$ Olettaen, että Brahmagupta pelaa optimaalisesti, mikä $x$:n arvo Arkhimedeen pitäisi valita?"
+  },
+  {
+    "nr": 327,
+    "tolge": "Steve sanoo Jonille: \"Mietin polynomia, jonka kaikki juuret ovat positiivisia kokonaislukuja. Polynomi on muotoa $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ joillekin positiivisille kokonaisluvuille $a$ ja $c$. Voitko kertoa minulle lukujen $a$ ja $c$ arvot?\"\n\nLaskettuaan hetken Jon sanoo: \"Tällaisia polynomeja on enemmän kuin yksi.\"\n\nSteve sanoo: \"Olet oikeassa. Tässä on $a$:n arvo.\" Hän kirjoittaa muistiin positiivisen kokonaisluvun ja kysyy: \"Voitko kertoa minulle $c$:n arvon?\"\n\nJon sanoo: \"Mahdollisia $c$:n arvoja on edelleen kaksi.\"\n\nLaske näiden kahden mahdollisen $c$:n arvon summa."
+  },
+  {
+    "nr": 328,
+    "tolge": "Jos $725x + 727y = 1500$ ja $729x+ 731y = 1508$, mikä on $x - y$:n arvo?"
+  },
+  {
+    "nr": 329,
+    "tolge": "Laske lausekkeen $24-(2x-y)$ arvo, kun $x=4$ ja $y=3$."
+  },
+  {
+    "nr": 330,
+    "tolge": "Marsha laskee yhteen kaikki paitsi yhden kymmenestä ensimmäisestä positiivisesta kokonaisluvusta. Hänen saamansa summa on neliöluku. Minkä kymmenestä ensimmäisestä positiivisesta kokonaisluvusta Marsha jätti pois?"
+  },
+  {
+    "nr": 331,
+    "tolge": "Mikä on positiivinen erotus $120\\%$ luvusta 30 ja $130\\%$ luvusta 20 välillä?"
+  },
+  {
+    "nr": 332,
+    "tolge": "Luku $(\\sqrt{2}+\\sqrt{3})^3$ voidaan kirjoittaa muodossa $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, missä $a$, $b$ ja $c$ ovat kokonaislukuja. Mikä on $a+b+c$?"
+  },
+  {
+    "nr": 333,
+    "tolge": "Kun valittavana on 5 väriä, kuinka monella tavalla voidaan värittää $2\\times 2$ -ruudukon neljä yksikköneliötä, kun kaksi väritystä katsotaan samaksi, jos toinen saadaan toisesta kiertämällä? (Huomaa, että samaa väriä voidaan käyttää useammassa kuin yhdessä neliössä.)\n[asy]\ndraw(unitsquare);\ndraw((.5,0)--(.5,1));\ndraw((0,.5)--(1,.5));\n[/asy]"
+  },
+  {
+    "nr": 334,
+    "tolge": "Suorakulmaisella puutarhalla on yhteinen sivu talon yhden sivun kanssa. Puutarhan viereinen sivu on kahdeksan jalkaa pitkä. Jos puutarhan pinta-ala on 184 neliöjalkaa, mikä on yhteisen sivun pituus jalkoina?"
+  },
+  {
+    "nr": 335,
+    "tolge": "Laske $\\log_{5^2}5^4$."
+  },
+  {
+    "nr": 336,
+    "tolge": "Positiiviset viisinumeroiset kokonaisluvut, joissa käytetään kutakin numeroista 1, 2, 3, 4 ja 5 täsmälleen kerran, järjestetään pienimmästä suurimpaan. Mikä on listan $50^{\\text{th}}$ kokonaisluku?"
+  },
+  {
+    "nr": 337,
+    "tolge": "Erään suoran parametriesitys on\n\\[\\begin{pmatrix} 2 - 3t \\\\ -5 - 2t \\\\ 1 - 6t \\end{pmatrix}.\\]Toisen suoran parametriesitys on\n\\[\\begin{pmatrix} -\\frac{3}{2} + s \\\\ 2s \\\\ -6 + 2s \\end{pmatrix}.\\]Suorat leikkaavat pisteessä $P.$ Jos $\\theta$ on suorien pisteessä $P$ muodostama terävä kulma, määritä $\\cos \\theta.$"
+  },
+  {
+    "nr": 338,
+    "tolge": "Suuremman ympyrän keskipiste on $O$, ja se kulkee pisteen $D$ kautta. Pienemmän ympyrän halkaisija on $OD$. Kuinka monta prosenttia suuremman ympyrän pinta-alasta on harmaata?\n\n[asy]import graph;\ndraw(Circle((0,0),30),black);\nfill(Circle((0,-15),15),gray(.6));\ndraw(Circle((0,-15),15),black);\ndraw((0,0)--(0,-30),black);\nlabel(\"O\",(0,0),N);\nlabel(\"D\",(0,-30),S);\n[/asy]"
+  },
+  {
+    "nr": 339,
+    "tolge": "Jos \\[\\frac{x}{y} = \\frac{4}{5}, \\; \\frac{y}{z} = \\frac{3}{10}, \\;\\text{and} \\; \\frac{z}{w} = \\frac{6}{7},\\] mikä on lausekkeen $\\dfrac{x + y + w}{z}$ arvo? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 340,
+    "tolge": "Mikä on luvun $999_{10}$ kuusijärjestelmää vastaava luku?"
+  },
+  {
+    "nr": 341,
+    "tolge": "Suorat $l$ ja $m$ ovat yhdensuuntaiset, ja pisteet $A$, $B$ ja $D$ ovat samalla suoralla. Mikä on $x$:n arvo?\n\n[asy]\n\nunitsize(1.1 inch);\n\ndraw((0,0)--(4,0),Arrows);\n\ndraw((0,1)--(4,1),Arrows);\n\ndraw((3,2)--(1,-1),Arrows);\n\ndot((0.3,0));\nlabel(\"$m$\",(0.3,0),N);\n\ndot((0.3,1));\nlabel(\"$l$\",(0.3,1),N);\n\ndot((3.7,0));\n\ndot((3.7,1));\nlabel(\"$C$\",(3.7,1),N);\n\ndot((1.2,-0.7));\n\ndot((2.8,1.7));\nlabel(\"$A$\",(2.8,1.7),NW);\n\ndot((2.34,1));\nlabel(\"$B$\",(2.34,1),NW);\nlabel(\"$5x-8^\\circ$\",(2.34,1),SW);\n\ndot((1.66,0));\nlabel(\"$D$\",(1.66,0),NW);\nlabel(\"$143^\\circ$\",(1.66,0),SE);\n\n[/asy]"
+  },
+  {
+    "nr": 342,
+    "tolge": "Arnoldin täytyy kastella kaktuksensa 9 päivän välein ja lannoittaa ne 60 päivän välein. Hän kasteli ja lannoitti ne viime tiistaina. Mikä viikonpäivä on seuraavalla kerralla, kun hän kastelee ja lannoittaa ne samana päivänä?"
+  },
+  {
+    "nr": 343,
+    "tolge": "Funktio $f : \\mathbb{R} \\to \\mathbb{R}$ toteuttaa yhtälön\n\\[x^2 f(x) + f(1 - x) = -x^4 + 2x\\]kaikilla reaaliluvuilla $x.$ Tällöin $f(x)$ voidaan määrittää yksikäsitteisesti kaikilla arvoilla $x,$ paitsi $f(\\alpha)$ ja $f(\\beta)$ joillakin reaaliluvuilla $\\alpha$ ja $\\beta.$ Laske $\\alpha^2 + \\beta^2.$"
+  },
+  {
+    "nr": 344,
+    "tolge": "Oletetaan, että $ABCD$ on puolisuunnikas, jossa $\\overline{AD}|| \\overline{BC}$. Jos $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ puolittaa kulman $\\angle BAD$ ja $[ABCD]=42$, laske $[\\triangle ACD]$."
+  },
+  {
+    "nr": 345,
+    "tolge": "Huomaa, että \\[35\\cdot40=1400.\\] Etsi sellainen kokonaisluku $n$, jolle $0\\leq n<1399$, että $n$ on luvun 160 multiplikatiivinen käänteisluku modulo 1399."
+  },
+  {
+    "nr": 346,
+    "tolge": "Määritä luvun $16^{17} \\times 17^{18} \\times 18^{19}$ viimeinen numero."
+  },
+  {
+    "nr": 347,
+    "tolge": "Neljän peräkkäisen positiivisen parillisen kokonaisluvun summa on täydellinen neliö. Mikä on pienin mahdollinen summa?"
+  },
+  {
+    "nr": 348,
+    "tolge": "Tason $P$ parametriesitys on\n\\[\\mathbf{v} = \\begin{pmatrix} 1 \\\\ 6 \\\\ 7 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -1 \\\\ -1 \\end{pmatrix} + s \\begin{pmatrix} 2 \\\\ -3 \\\\ -5 \\end{pmatrix},\\]ja suoran $L$ parametriesitys on\n\\[\\mathbf{w} = \\begin{pmatrix} 7 \\\\ 4 \\\\ 1 \\end{pmatrix} + u \\begin{pmatrix} 3 \\\\ 0 \\\\ -1 \\end{pmatrix}.\\]Määritä tason $P$ ja suoran $L$ leikkauspiste."
+  },
+  {
+    "nr": 349,
+    "tolge": "Olkoot $a,$ $b,$ $c,$ $d$ positiivisia reaalilukuja. Määritä pienin arvo lausekkeelle\n\\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]"
+  },
+  {
+    "nr": 350,
+    "tolge": "Kuinka monella positiivisella kokonaisluvulla, joka on pienempi tai yhtä suuri kuin 100, on alkutekijä, joka on suurempi kuin 4?"
+  },
+  {
+    "nr": 351,
+    "tolge": "Mikä seuraavista luvuista on pienin? Vastauksesi on pienimmän luvun edessä oleva kirjain.\n\n$\\bullet$ A. $14.45001$ pyöristettynä lähimpään kymmenesosaan.\n\n$\\bullet$ B. $14.54999$ pyöristettynä lähimpään kymmenesosaan.\n\n$\\bullet$ C. $14.44999$ pyöristettynä lähimpään kymmenesosaan.\n\n$\\bullet$ D. $14.55001$ pyöristettynä lähimpään kymmenesosaan."
+  },
+  {
+    "nr": 352,
+    "tolge": "Kuusi pistettä sijaitsee tasavälein ympyrällä, jonka säde on 1. Kolme näistä pisteistä on sellaisen kolmion kärkipisteitä, joka ei ole tasasivuinen eikä tasakylkinen. Mikä on tämän kolmion pinta-ala?"
+  },
+  {
+    "nr": 353,
+    "tolge": "Mikä on pienin positiivinen kokonaisluku $n$, jolle $(12{,}500{,}000)\\cdot n$ jättää jakojäännökseksi $111$, kun se jaetaan luvulla $999{,}999{,}999$?"
+  },
+  {
+    "nr": 354,
+    "tolge": "Kuinka moni kokonaisluku $n$ toteuttaa molemmat epäyhtälöt $4n + 3 < 25$ ja $-7n + 5 < 24$?"
+  },
+  {
+    "nr": 355,
+    "tolge": "Muunna $\\frac{57}{160}$ päättyväksi desimaaliluvuksi."
+  },
+  {
+    "nr": 356,
+    "tolge": "Mikä on sen monikulmion piiri, joka muodostuu, kun pisteet $A(-6,6), B(9,6)$ ja $C(9,-2)$ piirretään koordinaatistoon ja yhdistetään suorilla viivoilla?"
+  },
+  {
+    "nr": 357,
+    "tolge": "Olkoon $f(x)=3x^4-7x^3+2x^2-bx+1$. Millä $b$:n arvolla $f(1)=1$?"
+  },
+  {
+    "nr": 358,
+    "tolge": "Kuinka monella järjestetyllä parilla $(A,B)$, missä $A$ ja $B$ ovat positiivisia kokonaislukuja, pätee $AAA_7+BBB_7=666_7?$"
+  },
+  {
+    "nr": 359,
+    "tolge": "Laske lukujen $9999$ ja $100{,}001$ pienin yhteinen jaettava."
+  },
+  {
+    "nr": 360,
+    "tolge": "Yksinkertaista $\\frac{15}{6}.$"
+  },
+  {
+    "nr": 361,
+    "tolge": "Etsi käänteisfunktio funktiolle\n\\[f(x) = \\frac{2x + 5}{x - 11}.\\]"
+  },
+  {
+    "nr": 362,
+    "tolge": "Löytöeläintalossa on 8 aitausta rivissä seinustalla. Löytöeläintalon täytyy osoittaa 4 aitausta koirille, 3 kissoille ja yksi kukoille. Kuinka monella tavalla löytöeläintalo voi tehdä tämän jaon?"
+  },
+  {
+    "nr": 363,
+    "tolge": "Suorakulmaisen koordinaatiston piste $(a, b)$ peilataan $y$-akselin suhteen pisteeseen $(j, k)$. Jos $a + j = 0$ ja $b + k = 0$, mikä on $b$:n arvo?"
+  },
+  {
+    "nr": 364,
+    "tolge": "Suorakulmaisessa kolmiossa $ABC$ sivun $BC$ pituus on 2 yksikköä, sivun $AC$ pituus on 4 yksikköä ja kulman $C$ suuruus on 60 astetta. Mikä on sivun $AB$ pituus yksiköissä? Esitä vastauksesi mahdollisimman yksinkertaisessa juurimuodossa."
+  },
+  {
+    "nr": 365,
+    "tolge": "Kuinka monta positiivisten parillisten kokonaislukujen kolmikkoa $(a,b,c)$ toteuttaa epäyhtälön $a^3 + b^2 + c \\leq 50$?"
+  },
+  {
+    "nr": 366,
+    "tolge": "Suorakulmaisen särmiön leveyttä, pituutta ja korkeutta kasvatetaan kutakin $10\\%$. Mikä on särmiön tilavuuden prosentuaalinen kasvu? Ilmoita vastauksesi lähimmän kokonaisluvun tarkkuudella."
+  },
+  {
+    "nr": 367,
+    "tolge": "Olkoot $p$ ja $q$ yhtälön $$x^2 - 2x - 3 = 0.$$ kaksi eri ratkaisua. Mikä on $(p + 1)(q + 1)$?"
+  },
+  {
+    "nr": 368,
+    "tolge": "Jokainen hyvä työntekijä pystyy maalaamaan uuden taloni yksin 12 tunnissa. Jokainen huono työntekijä pystyy maalaamaan taloni yksin 36 tunnissa. Minun täytyy saada taloni maalattua 3 tunnissa. Jos löydän vain 3 hyvää työntekijää, kuinka monta huonoa työntekijää minun täytyy lisäksi löytää, jotta taloni saadaan maalattua ajoissa?"
+  },
+  {
+    "nr": 369,
+    "tolge": "Valitse enintään kaksi eri numeroa joukosta $\\{1, 3, 6, 7\\}$ ja järjestä ne luvuksi. Kuinka monta alkulukua voimme muodostaa tällä tavalla?"
+  },
+  {
+    "nr": 370,
+    "tolge": "$y$:n arvo on kääntäen verrannollinen arvoon $\\sqrt x$, ja kun $x=24$, $y=15$. Mikä on $x$, kun $y=3$?"
+  },
+  {
+    "nr": 371,
+    "tolge": "Hatussa on seitsemän korttia, joista kussakin on yksi seuraavista kirjaimista: C, B, T, A, E, M ja H. Kutakin kirjainta käytetään vain kerran. Stu nostaa satunnaisesti neljä korttia palauttamatta niitä takaisin. Millä todennäköisyydellä Stu nostaa kirjaimet M, A, T ja H tässä järjestyksessä? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 372,
+    "tolge": "Ratkaise \\[\\frac{9-4x}{x+6}=7\\] muuttujan $x$ suhteen."
+  },
+  {
+    "nr": 373,
+    "tolge": "Puu on nyt 12 jalkaa korkea ja kasvaa 18 tuumaa vuodessa. Kuinka monen vuoden kuluttua puu on 36 jalkaa korkea?"
+  },
+  {
+    "nr": 374,
+    "tolge": "Laske tulon $315_6 \\cdot 4_6$ arvo. Ilmoita vastaus kuusijärjestelmässä."
+  },
+  {
+    "nr": 375,
+    "tolge": "Olkoot $a,$ $b,$ ja $c$ nollasta poikkeavia reaalilukuja siten, että $\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} = 0.$ Laske\n\\[\\frac{bc}{a^2} + \\frac{ac}{b^2} + \\frac{ab}{c^2}.\\]"
+  },
+  {
+    "nr": 376,
+    "tolge": "Positiivisille reaaliluvuille $a,$ $b,$ $c,$ ja $d,$ etsi lausekkeen\n\\[\\left\\lfloor \\frac{b + c + d}{a} \\right\\rfloor + \\left\\lfloor \\frac{a + c + d}{b} \\right\\rfloor + \\left\\lfloor \\frac{a + b + d}{c} \\right\\rfloor + \\left\\lfloor \\frac{a + b + c}{d} \\right\\rfloor.\\]\npienin arvo."
+  },
+  {
+    "nr": 377,
+    "tolge": "Funktion $y = f(x)$ kuvaaja kulkee pisteen $(-4,-7)$ kautta. Jos $f(x)$ on parillinen funktio, minkä muun pisteen kautta kuvaajan täytyy kulkea? Anna vastauksesi järjestettynä parina."
+  },
+  {
+    "nr": 378,
+    "tolge": "Mikä on pienin positiivinen kokonaisluku $n$ siten, että $80325$ jakaa luvun $n!$?"
+  },
+  {
+    "nr": 379,
+    "tolge": "Mikä on säännöllisen kuusikulmion pisimmän lävistäjän pituuden suhde sen piirin pituuteen? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 380,
+    "tolge": "Positiivisille reaaliluvuille $x$ ja $y$ yhtälö\n\\[\\arctan x + \\arccos \\frac{y}{\\sqrt{1 + y^2}} = \\arcsin \\frac{3}{\\sqrt{10}}\\]sievenee muotoon\n\\[xy + ax + by + c = 0.\\]Anna järjestetty kolmikko $(a,b,c).$"
+  },
+  {
+    "nr": 381,
+    "tolge": "Kolmion sivujen pituudet ovat 7, 24 ja 25. Mikä on kolmion pinta-ala?"
+  },
+  {
+    "nr": 382,
+    "tolge": "Kuinka monella tavalla voin järjestää neljä erilaista kirjaa hyllylle?"
+  },
+  {
+    "nr": 383,
+    "tolge": "Kolmiossa $ABC,$\n\\[a^4 + b^4 + c^4 = 2c^2 (a^2 + b^2).\\]Anna kulman $\\angle C,$ mahdolliset arvot asteina, pilkuilla eroteltuina."
+  },
+  {
+    "nr": 384,
+    "tolge": "Käyttämällä kirjaimia $A$ ja $B$ voidaan muodostaa seuraavat kaksikirjaimiset koodisanat: $AA$, $AB$, $BB$, $BA$. Kuinka monta erilaista kolmekirjaimista koodisanaa voidaan muodostaa käyttämällä kirjaimia $A$, $B$ ja $C$?"
+  },
+  {
+    "nr": 385,
+    "tolge": "Opettajien ja oppilaiden välinen suhde eräässä koulussa on 1:11. Naispuolisten oppilaiden suhde oppilaiden kokonaismäärään on 4:9. Jos naispuolisia oppilaita on 396, kuinka monta opettajaa koulussa on?"
+  },
+  {
+    "nr": 386,
+    "tolge": "Onko\n\\[f(x) = \\frac{x}{x^2 + 1} + 3 \\sqrt[3]{x} - 2x\\]\nparillinen funktio, pariton funktio vai ei kumpikaan?\n\nSyötä \"odd\", \"even\" tai \"neither\"."
+  },
+  {
+    "nr": 387,
+    "tolge": "Oletetaan, että luvuista 1–9 (mukaan lukien) valitaan 2 eri kokonaislukua. Mikä on todennäköisyys, että ne molemmat ovat parittomia?"
+  },
+  {
+    "nr": 388,
+    "tolge": "Olkoot $x$ ja $y$ positiivisia reaalilukuja siten, että $2x + 3y = 5.$ Määritä lausekkeen\n\\[\\frac{3}{x} + \\frac{2}{y}.\\]\npienin arvo."
+  },
+  {
+    "nr": 389,
+    "tolge": "Senaatin valiokunnassa on 8 republikaania ja 6 demokraattia. Kuinka monella tavalla voidaan muodostaa 5-jäseninen alivaliokunta, jossa on vähintään yksi jäsen kummastakin puolueesta?"
+  },
+  {
+    "nr": 390,
+    "tolge": "Olkoot $\\mathbf{a}$ ja $\\mathbf{b}$ kaksi nollasta poikkeavaa vektoria siten, että\n\\[\\mathbf{a} \\times (\\mathbf{a} \\times \\mathbf{b}) = -3 \\mathbf{b}.\\]Määritä $\\|\\mathbf{a}\\|.$"
+  },
+  {
+    "nr": 391,
+    "tolge": "Polynomin $p(x)$ kertoimet ovat kaikki ei-negatiivisia kokonaislukuja. Jos $p(1) = 4$ ja $p(5) = 136,$ määritä $p(6).$"
+  },
+  {
+    "nr": 392,
+    "tolge": "Määritä vakio $k$ siten, että paraabelien $y = x^2 + k$ ja $x = y^2 + k$ kuvaajat sivuavat toisiaan."
+  },
+  {
+    "nr": 393,
+    "tolge": "Puisesta yksikkökuutiosta leikataan pois umpinainen tetraedri tasolla, joka kulkee yhden tahkon kahden ei-vierekkäisen kärjen kautta ja vastakkaisen tahkon sen kärjen kautta, joka ei ole vierekkäinen kummallekaan kahdesta ensimmäisestä kärjestä. Tetraedri heitetään pois, ja kuution jäljelle jäänyt osa asetetaan pöydälle leikkauspinta alaspäin. Mikä on tämän kappaleen korkeus?"
+  },
+  {
+    "nr": 394,
+    "tolge": "Kortit on numeroitu luvuilla 1–100. Yksi kortti poistetaan, ja muiden 99 kortin arvot lasketaan yhteen. Saatu summa on luvun 77 monikerta. Mikä numero poistetussa kortissa oli?"
+  },
+  {
+    "nr": 395,
+    "tolge": "Suoran ympyrälieriön, jonka säde on 2 tuumaa ja korkeus 1 tuuma, tilavuus on sama kuin toisen suoran ympyrälieriön. Toisen lieriön säde on 1 tuuma. Kuinka monta tuumaa toisen lieriön korkeus on?"
+  },
+  {
+    "nr": 396,
+    "tolge": "Pisteen suorakulmaiset koordinaatit ovat $(10, -18, 35)$ ja pallokoordinaatit $(\\rho, \\theta, \\phi).$  Määritä $\\tan \\theta.$"
+  },
+  {
+    "nr": 397,
+    "tolge": "Etsi osamäärä, kun $x^6 - 3$ jaetaan lausekkeella $x + 1.$"
+  },
+  {
+    "nr": 398,
+    "tolge": "Neljännen asteen polynomiyhtälöllä $x^4 - 7x^3 + 4x^2 + 7x - 4 = 0$ on neljä reaalijuurta, $a$, $b$, $c$ ja $d$. Mikä on summan $\\frac{1}{a}+\\frac{1}{b}+\\frac{1}{c}+\\frac{1}{d}$ arvo? Ilmoita vastauksesi tavallisena murtolukuna."
+  },
+  {
+    "nr": 399,
+    "tolge": "Etsi kaikkien niiden reaalilukujen $x$ summa, joille $5x^4-10x^3+10x^2-5x-11=0$."
+  },
+  {
+    "nr": 400,
+    "tolge": "Kaksitoista ystävystä kokoontui illalliselle Oscar's Overstuffed Oyster House -ravintolaan, ja jokainen tilasi yhden aterian. Annokset olivat niin suuria, että ruokaa oli riittävästi 18 hengelle. Jos he jakavat annokset, kuinka monta ateriaa heidän olisi pitänyt tilata, jotta ruokaa olisi ollut juuri sopivasti heille 12:lle?"
+  },
+  {
+    "nr": 401,
+    "tolge": "Etsi pienin positiivinen kokonaisluku $n$, jolle on olemassa $r \\in (0, \\tfrac{1}{1000})$ siten, että luku $(n+r)^3$ on kokonaisluku."
+  },
+  {
+    "nr": 402,
+    "tolge": "Jo on antanut Aidenille vähintään yhden leluauton jokaisena syntymäpäivänä. Autojen määrä on vastannut Aidenin ikää (yksi auto ensimmäisenä syntymäpäivänä, kaksi autoa toisena syntymäpäivänä ja niin edelleen). Kuinka monta leluautoa Aiden on saanut Jolta yhteensä saatuaan autot 12-vuotissyntymäpäivänään?"
+  },
+  {
+    "nr": 403,
+    "tolge": "Kuinka monen alkuluvun neliö on välillä 100 ja 300?"
+  },
+  {
+    "nr": 404,
+    "tolge": "Bob asetti kolme säännöllistä viisikulmiota samaan kärkipisteeseen ajatellen, että ne saattaisivat muodostaa tessellaation. Niiden väliin jäi kuitenkin rako. Kuinka monta astetta on merkityn kulman suuruus? [asy]size(100);\npath A = dir(0) -- dir(72) -- dir (144) -- dir(216) -- dir (288) -- cycle;\npath B = reflect ( dir(72), dir(144)) * A;\npath C = reflect( dir(72), dir(0))* A;\ndraw(rotate(18) *A);\ndraw(rotate(18) *B);\ndraw(rotate(18) *C);\nlabel(\"?\", (0,1.5), N);\n[/asy]"
+  },
+  {
+    "nr": 405,
+    "tolge": "Tavallisesta 52 kortin pakasta (13 ristiä, 13 ruutua, 13 herttaa ja 13 pataa) jaetaan satunnaisesti kolme korttia. Mikä on todennäköisyys, että kaikki kolme korttia ovat $\\heartsuit$s?"
+  },
+  {
+    "nr": 406,
+    "tolge": "Tasoon piirretään neljä eri ympyrää. Mikä on suurin mahdollinen määrä pisteitä, joissa vähintään kaksi ympyröistä leikkaa toisensa?"
+  },
+  {
+    "nr": 407,
+    "tolge": "Jos\n\\[\\frac{\\sin^2 3A}{\\sin^2 A} - \\frac{\\cos^2 3A}{\\cos^2 A} = 2,\\]niin määritä $\\cos 2A.$"
+  },
+  {
+    "nr": 408,
+    "tolge": "Mikä on ainoa kolminumeroinen positiivinen kokonaisluku $x$, joka toteuttaa $$100x\\equiv 1\\pmod{997}~?$$"
+  },
+  {
+    "nr": 409,
+    "tolge": "Onko $f(x) = 7x^7 - 4x^4 + 1$ parillinen funktio, pariton funktio vai ei kumpikaan?\n\nSyötä \"odd\", \"even\" tai \"neither\"."
+  },
+  {
+    "nr": 410,
+    "tolge": "Mikä on $x$:n arvo kuviossa? [asy]\nsize(150);\ndraw((0,5)--(0,0)--(5,0));\ndraw((0,0)--(3,5));\ndraw((0,.3)--(.3,.3)--(.3,0));\nlabel(\"$2x^\\circ$\",(.5,2));\nlabel(\"$3x^\\circ$\",(1,.6));\n[/asy]"
+  },
+  {
+    "nr": 411,
+    "tolge": "Kuinka monella tavalla 8 henkilöä voidaan sijoittaa pöydän ääreen, jos Alice ja Bob eivät istu vierekkäin? (Kaksi istumajärjestystä on sama, jos toinen on toisen rotaatio.)"
+  },
+  {
+    "nr": 412,
+    "tolge": "Laske $\\sin 20^\\circ \\sin 40^\\circ \\sin 60^\\circ \\sin 80^\\circ \\sin 100^\\circ \\sin 120^\\circ \\sin 140^\\circ \\sin 160^\\circ.$"
+  },
+  {
+    "nr": 413,
+    "tolge": "Olkoon $(a_1, a_2, \\dots, a_n)$ positiivisten reaalilukujen jono siten, että\n\\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]Määritä kaikkien mahdollisten $n$:n arvojen summa."
+  },
+  {
+    "nr": 414,
+    "tolge": "Niiden reaalilukujen $x$ joukko, joille\n$$\\dfrac{1}{x-2009}+\\dfrac{1}{x-2010}+\\dfrac{1}{x-2011}\\ge 1$$on muotoa $a<x\\le b$ olevien välien yhdiste. Mikä on näiden välien pituuksien summa?"
+  },
+  {
+    "nr": 415,
+    "tolge": "Mikä on kaikkien niiden kokonaislukujen $x$ summa, joilla $\\frac{67}{2x - 23}$ on kokonaisluku?"
+  },
+  {
+    "nr": 416,
+    "tolge": "Esitä $\\dfrac{6}{\\sqrt{245}+3\\sqrt{125}+4\\sqrt{45}}$ muodossa $\\frac{A\\sqrt{B}}{C}$, missä $A$ ja $C$ ovat keskenään jaottomia kokonaislukuja, $C$ on positiivinen ja $B$ ei ole jaollinen minkään alkuluvun neliöllä. Määritä $A+B+C$."
+  },
+  {
+    "nr": 417,
+    "tolge": "Etsi luvun $9951$ suurin alkutekijä."
+  },
+  {
+    "nr": 418,
+    "tolge": "Laske $\\left(\\sqrt{97969}\\right)^2$."
+  },
+  {
+    "nr": 419,
+    "tolge": "Laske\n\\[\\begin{pmatrix} 3 & 1 & 0 \\\\ -7 & 4 & 2 \\\\ 0 & 5 & -1 \\end{pmatrix} \\begin{pmatrix} 4 \\\\ -1 \\\\ -2 \\end{pmatrix}.\\]"
+  },
+  {
+    "nr": 420,
+    "tolge": "Jos\n\\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]kun $n \\ge 1,$ ja $f(1) = f(1986),$ laske\n\\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]"
+  },
+  {
+    "nr": 421,
+    "tolge": "Kuvassa näkyvässä viisihaaraisessa tähdessä kirjaimet $A$, $B$, $C$, $D$ ja $E$ korvataan luvuilla 3, 5, 6, 7 ja 9, ei kuitenkaan välttämättä tässä järjestyksessä. Janojen $\\overline{AB}$, $\\overline{BC}$, $\\overline{CD}$, $\\overline{DE}$ ja $\\overline{EA}$ päätepisteissä olevien lukujen summat muodostavat aritmeettisen jonon, ei kuitenkaan välttämättä tässä järjestyksessä. Mikä on aritmeettisen jonon keskimmäinen termi?\n\n[asy]\npair A,B,C,D,E;\nA=(0,10);\nB=(5.9,-8.1);\nC=(-9.5,3.1);\nD=(9.5,3.1);\nE=(-5.9,-8.1);\ndraw(A--B--C--D--E--cycle,linewidth(0.7));\nlabel(\"$A$\",A,N);\nlabel(\"$B$\",B,SE);\nlabel(\"$C$\",C,NW);\nlabel(\"$D$\",D,NE);\nlabel(\"$E$\",E,SW);\n[/asy]"
+  },
+  {
+    "nr": 422,
+    "tolge": "Englannin, Saksan ja Ranskan välillä järjestetään kansainvälinen kokous. Kokoukseen osallistuu kolme edustajaa Englannista, neljä Saksasta ja kaksi Ranskasta. Kuinka monella eri tavalla kaikki yhdeksän edustajaa voivat istua pyöreän pöydän ääressä, jos saman maan edustajat istuvat vierekkäin? (Kahta tapaa pidetään samana, jos toinen saadaan toisesta kiertämällä.)"
+  },
+  {
+    "nr": 423,
+    "tolge": "Jos $j$ on positiivinen kokonaisluku ja lauseke $(7j+3)$ kerrotaan 3:lla ja jaetaan sitten 7:llä, mikä on jakojäännös?"
+  },
+  {
+    "nr": 424,
+    "tolge": "Olkoot $a$ ja $b$ kaksi ykkösen 12. juurta, jotka eivät välttämättä ole erisuuria. Määritä lausekkeen $(a + b)^{12}$ eri mahdollisten arvojen lukumäärä."
+  },
+  {
+    "nr": 425,
+    "tolge": "Oletetaan, että $h(x)=f^{-1}(x)$. Jos $h(2)=10$, $h(10)=1$ ja $h(1)=2$, mikä on $f(f(10))$?"
+  },
+  {
+    "nr": 426,
+    "tolge": "Mikä on suurin kokonaisluku, joka toteuttaa $6 - x > -9$?"
+  },
+  {
+    "nr": 427,
+    "tolge": "Tarkastellaan polynomeja $P(x) = x^6-x^5-x^3-x^2-x$ ja $Q(x)=x^4-x^3-x^2-1$. Kun tiedetään, että $z_1, z_2, z_3$ ja $z_4$ ovat yhtälön $Q(x)=0$ juuret, laske $P(z_1)+P(z_2)+P(z_3)+P(z_4).$"
+  },
+  {
+    "nr": 428,
+    "tolge": "Olkoon $x=\\frac{7}{8}$ ja $y=-\\frac{2}{9}$. Jos $x\\cdot z = y$, niin mikä on $z$?"
+  },
+  {
+    "nr": 429,
+    "tolge": "Oletetaan, että $\\sec x+\\tan x=\\frac{22}7.$  Määritä $\\csc x+\\cot x.$"
+  },
+  {
+    "nr": 430,
+    "tolge": "Lukujono alkaa termistä 2222. Jokainen seuraava termi saadaan lisäämällä 1010 edelliseen termiin. Mikä on kuudennen ja seitsemännen termin summa?"
+  },
+  {
+    "nr": 431,
+    "tolge": "Jos $r$, $s$ ja $t$ ovat vakioita siten, että $\\frac{x^{r-2}\\cdot y^{2s}\\cdot z^{3t+1}}{x^{2r}\\cdot y^{s-4}\\cdot z^{2t-3}}=xyz$ kaikilla nollasta poikkeavilla $x$, $y$ ja $z$, määritä $r^s\\cdot t$. Ilmoita vastauksesi murtolukuna."
+  },
+  {
+    "nr": 432,
+    "tolge": "Sievennä: $\\displaystyle \\frac{\\frac 12\\times 1024}{0.125\\times 2^{12}}$."
+  },
+  {
+    "nr": 433,
+    "tolge": "Samanpainoisista kokeista saadut pisteet ovat 70, 80, 90, 75, 80 ja 85. Mikä on näiden kuuden koetuloksen keskiarvo?"
+  },
+  {
+    "nr": 434,
+    "tolge": "Kuinka monella tavalla luvun $1\\underline{\\hphantom{2}}\\,\\underline{\\hphantom{2}}4$ kymmenien ja satojen numerot voidaan täyttää siten, että luku on jaollinen $11$:llä?"
+  },
+  {
+    "nr": 435,
+    "tolge": "Laske $\\left|\\dfrac{2-4i}{2+i}\\right|$."
+  },
+  {
+    "nr": 436,
+    "tolge": "Pisteet $P$ ja $R$ sijaitsevat vastaavasti koordinaateissa (1, 3) ja (7, 15). Piste $M$ on janan $PR$ keskipiste. Jana $PR$ peilataan $x$-akselin suhteen. Mikä on pisteen $M$ kuvan (peilatun janan keskipisteen) koordinaattien summa?"
+  },
+  {
+    "nr": 437,
+    "tolge": "Olkoot $(x_1,y_1),$ $(x_2,y_2),$ $\\dots,$ $(x_n,y_n)$ ne reaalilukujen järjestetyt parit $(x,y)$, joille $x+y=2$ ja $x^5+y^5=82$. Määritä\n\\[x_1^2 + y_1^2 + x_2^2 + y_2^2 + \\dots + x_n^2 + y_n^2.\\]"
+  },
+  {
+    "nr": 438,
+    "tolge": "Mikä on kolmion $\\triangle PQR$ suurimman kulman suuruus asteina?\n\n[asy]\ndraw((0,0)--(-1.3,4)--(7,0)--cycle);\nlabel(\"$P$\",(-1.3,4),NW); label(\"$Q$\",(0,0),SW); label(\"$R$\",(7,0),SE);\n\nlabel(\"$6x^\\circ$\",(0,0),NE); label(\"$x^\\circ$\",(5,0),N); label(\"$3x^\\circ$\",(-.25,3));\n[/asy]"
+  },
+  {
+    "nr": 439,
+    "tolge": "Mikä on lyhin etäisyys yhtälöiden $x^2-24x +y^2-32y+384=0$ ja $x^2+24x +y^2+32y+384=0$ määrittelemien ympyröiden välillä?"
+  },
+  {
+    "nr": 440,
+    "tolge": "Olkoon $\\omega$ sellainen kompleksiluku, että $\\omega^3 = 1.$ Määritä kaikki mahdolliset arvot lausekkeelle\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]Syötä kaikki mahdolliset arvot pilkulla eroteltuina."
+  },
+  {
+    "nr": 441,
+    "tolge": "Lomaillessaan Cancunissa Colleen voi ostaa sombreron ja varvassandaalit hintaan $\\$32$. Hän voi ostaa varvassandaalit ja aurinkolasit hintaan $\\$42$. Hän voi ostaa sombreron ja aurinkolasit hintaan $\\$30$. Kuinka monta dollaria sombrero maksaa?"
+  },
+  {
+    "nr": 442,
+    "tolge": "Määritä suurin mahdollinen kokonaisluku $n$ siten, että $942!$ on jaollinen luvulla $15^n$."
+  },
+  {
+    "nr": 443,
+    "tolge": "Laske $|{-324} + 243i|$."
+  },
+  {
+    "nr": 444,
+    "tolge": "Pallo pudotetaan suoraan alaspäin 16 jalan korkeudelta. Jos se pomppaa joka kerta takaisin korkeudelle, joka on puolet sen edellisestä putoamiskorkeudesta, kuinka pitkän matkan pallo on kulkenut osuessaan lattiaan kuudennen kerran, jaloissa mitattuna?"
+  },
+  {
+    "nr": 445,
+    "tolge": "Olkoot $x$ ja $y$ reaalilukuja. Määritä mahdollisten arvojen joukko lausekkeelle\n\\[\\frac{(x + y)(1 - xy)}{(1 + x^2)(1 + y^2)}.\\]"
+  },
+  {
+    "nr": 446,
+    "tolge": "Aloittaen alla olevan kaavion pisteestä $A$ Dora valitsee yhden neljästä mahdollisesta suunnasta yhtä suurella todennäköisyydellä. Joka kerta saapuessaan risteykseen hän valitsee jälleen satunnaisesti yhden mahdollisista suunnista. Mikä on todennäköisyys sille, että hän kävelee ensimmäisellä neljällä askeleellaan kokonaan harmaan neliön ympäri? Ilmoita vastauksesi tavallisena murtolukuna. [asy]size(100);\nfill((1,1)--(1,2)--(2,2)--(2,1)--cycle, gray(.6));\ndraw((0,0)--(0,3)--(3,3)--(3,0)--cycle, linewidth(1.5));\ndraw((0,1)--(3,1), linewidth(1.5));\ndraw((0,2)--(3,2), linewidth(1.5));\ndraw((1,0)--(1,3), linewidth(1.5));\ndraw((2,0)--(2,3), linewidth(1.5));\ndot(MP(\"A\", (1,2), NW));\n[/asy]"
+  },
+  {
+    "nr": 447,
+    "tolge": "John laskee joukon $\\{1,2,3,4,5,6\\}$ kunkin 15 kaksialkioisen osajoukon alkioiden summan. Mikä on näiden 15 summan summa?"
+  },
+  {
+    "nr": 448,
+    "tolge": "Kuinka monta eri luvulla 4 jaollista positiivista kokonaislukua voidaan muodostaa käyttämällä kutakin numeroista 1, 2, 3 ja 4 enintään kerran eikä mitään muita numeroita? Esimerkiksi 12 lasketaan mukaan, mutta lukua 512 ei."
+  },
+  {
+    "nr": 449,
+    "tolge": "Kahden eri alkuluvun neliöiden erotus on 1488. Kun tiedetään, että molemmat alkuluvut ovat pienempiä kuin 50, etsi kyseiset alkuluvut.\n\nHuomio: Ilmoita luvut kummassa tahansa järjestyksessä pilkulla erotettuna."
+  },
+  {
+    "nr": 450,
+    "tolge": "Kuinka monella eri tavalla 12 dime-kolikkoa voidaan jakaa kolmeen kasaan siten, että jokaisessa kasassa on pariton määrä kolikoita?"
+  },
+  {
+    "nr": 451,
+    "tolge": "Mikä on pienin $x$:n arvo, jolla $\\frac{x+2}{3} = \\frac{4}{x+1}$?"
+  },
+  {
+    "nr": 452,
+    "tolge": "Olkoot $a$ ja $b$ reaalilukuja siten, että $a > b > 0.$ Määritä lausekkeen\n\\[a + \\frac{1}{b(a - b)}.\\]\npienin arvo."
+  },
+  {
+    "nr": 453,
+    "tolge": "Ympyrän keskipiste on $(5,15)$ ja sen säde on $\\sqrt{130}$ yksikköä. Piste $Q = (x,y)$ on ympyrällä, sen koordinaatit ovat kokonaislukuja ja $x$-koordinaatin arvo on kaksi kertaa $y$-koordinaatin arvo. Mikä on $x$:n suurin mahdollinen arvo?"
+  },
+  {
+    "nr": 454,
+    "tolge": "Olkoon $p(x)$ astetta 4 oleva polynomi siten, että $p(55) = p(83) = p(204) = p(232) = 8$ ja $p(103) = 13.$ Määritä\n\\[p(1) - p(2) + p(3) - p(4) + \\dots + p(285) - p(286).\\]"
+  },
+  {
+    "nr": 455,
+    "tolge": "Laske $$1\\cdot 2^2+2\\cdot 3^2+3\\cdot4^2+\\cdots+19\\cdot 20^2.$$"
+  },
+  {
+    "nr": 456,
+    "tolge": "Kuvassa $PT$ on yhdensuuntainen $QR$:n kanssa. Mikä on kulman $\\angle PQR$ suuruus asteina?\n\n[asy]\ndraw((0,0)--(10,0),black+linewidth(1));\ndraw((0,0)--(10,0),MidArrow);\ndraw((10,0)--(20,0),black+linewidth(1));\ndraw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1));\ndraw((-5,10)--(7,10),MidArrow);\nlabel(\"$x^{\\circ}$\",(-6,10),SE);\nlabel(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy]"
+  },
+  {
+    "nr": 457,
+    "tolge": "Etsi seuraavan laskutoimituksen ykkösten numero ilmoitetussa lukujärjestelmässä: $413_6 - 215_6$"
+  },
+  {
+    "nr": 458,
+    "tolge": "Olkoon $f(x) = x + 2$ ja $g(x) = 1/f(x)$. Mikä on $g(f(-3))$?"
+  },
+  {
+    "nr": 459,
+    "tolge": "Laske $\\cos (-150^\\circ)$."
+  },
+  {
+    "nr": 460,
+    "tolge": "Oletetaan, että voitamme $\\$3$, jos kolikonheitossa tulee kruuna, mutta häviämme $\\$2$, jos tulee klaava. Mikä on voittojemme odotusarvo dollareina yhden heiton jälkeen?"
+  },
+  {
+    "nr": 461,
+    "tolge": "On olemassa vektorit $\\mathbf{a}$ ja $\\mathbf{b}$ siten, että\n\\[\\mathbf{a} + \\mathbf{b} = \\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix},\\]missä $\\mathbf{a}$ on yhdensuuntainen vektorin $\\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix}$ kanssa ja $\\mathbf{b}$ on kohtisuorassa vektorin $\\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix}$ kanssa. Määritä $\\mathbf{b}.$"
+  },
+  {
+    "nr": 462,
+    "tolge": "Luvun $n$ aitojen positiivisten kokonaislukutekijöiden tulo voidaan kirjoittaa muodossa $n^{(ax+b)/c}$, missä $x$ on luvun $n$ positiivisten tekijöiden määrä, $c$ on positiivinen kokonaisluku ja kolmen kokonaisluvun $a$, $b$ ja $c$ suurin yhteinen tekijä on $1$. Mikä on $a+b+c$?"
+  },
+  {
+    "nr": 463,
+    "tolge": "Oletetaan, että $g(x)=f^{-1}(x)$. Jos $g(-15)=0$, $g(0)=3$, $g(3)=9$ ja $g(9)=20$, mitä on $f(f(9))$?"
+  },
+  {
+    "nr": 464,
+    "tolge": "Laske $\\begin{pmatrix} 5 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} -11 \\\\ 10 \\end{pmatrix}$."
+  },
+  {
+    "nr": 465,
+    "tolge": "Jos \\begin{align*}\n5x-2y&=7,\\\\\n3x+y&=2,\n\\end{align*}laske $24x-14y$."
+  },
+  {
+    "nr": 466,
+    "tolge": "Kolmion $ABC$ keskijanat $AD$, $BE$ ja $CF$ leikkaavat painopisteessä $G$. Pisteen $G$ kautta kulkeva, sivun $BC$ suuntainen suora leikkaa sivut $AB$ ja $AC$ vastaavasti pisteissä $M$ ja $N$. Jos kolmion $ABC$ pinta-ala on 144, määritä kolmion $ENG$ pinta-ala."
+  },
+  {
+    "nr": 467,
+    "tolge": "Määritä reaaliratkaisujen lukumäärä yhtälölle $\\sin 6 \\pi x = x.$"
+  },
+  {
+    "nr": 468,
+    "tolge": "Enrico tekee listan luvun 3 ensimmäisestä kahdestakymmenestä positiivisesta monikerrasta. Marie tekee listan luvun 6 ensimmäisestä kymmenestä positiivisesta monikerrasta. Kuinka moni Marien listalla olevista luvuista on myös Enricon listalla?"
+  },
+  {
+    "nr": 469,
+    "tolge": "Kuinka monta tasakylkistä kolmiota, joiden sivujen pituudet ovat kokonaislukuja, on piiriltään 20 yksikköä?"
+  },
+  {
+    "nr": 470,
+    "tolge": "Kun $n$ on positiivinen kokonaisluku, jolle $n < 10{,}000$, luvulla $n+2005$ on täsmälleen 21 positiivista tekijää. Mikä on kaikkien mahdollisten luvun $n$ arvojen summa?"
+  },
+  {
+    "nr": 471,
+    "tolge": "Epäyhtälöryhmän  \\[ \\begin{cases}& 2x+y \\le 4 \\\\& x+y \\ge 1 \\\\& x \\ge 0 \\\\& y \\ge 0 \\end{cases} \\] kaikkien ratkaisujen joukko on nelikulmainen alue. Jos pisimmän sivun pituus on $a\\sqrt{b}$ (esitettynä yksinkertaisimmassa juurimuodossa), määritä $a+b$."
+  },
+  {
+    "nr": 472,
+    "tolge": "Toisen asteen lauseke $x^2+(2.6)x+3.6$ voidaan kirjoittaa muodossa $(x+b)^2+c$, missä $b$ ja $c$ ovat vakioita. Mikä on $b+c$ (desimaalilukuna)?"
+  },
+  {
+    "nr": 473,
+    "tolge": "Kolikkoa $A$ heitetään kolme kertaa ja kolikkoa $B$ neljä kertaa. Mikä on todennäköisyys, että näiden kahden reilun kolikon heitoista saatujen kruunujen määrä on sama?"
+  },
+  {
+    "nr": 474,
+    "tolge": "Dawnilla on $\\$ $1.20 viisisenttisinä, kymmensenttisinä ja neljännesdollareina. Jokaista viisisenttistä kohden hänellä on yksi kymmensenttinen ja jokaista kymmensenttistä kohden yksi neljännesdollari. Kuinka monta kolikkoa hänellä on yhteensä?"
+  },
+  {
+    "nr": 475,
+    "tolge": "Laske $\\begin{pmatrix} 1 \\\\ 4 \\\\ -6 \\end{pmatrix} + \\begin{pmatrix} 2 \\\\ -1 \\\\ 3 \\end{pmatrix}.$"
+  },
+  {
+    "nr": 476,
+    "tolge": "Funktiot $\\sin(x)$ ja $\\cos(x)$ ovat jaksollisia, ja niiden pienin jakso on $2\\pi$. Mikä on funktion $\\cos(\\sin(x))$ pienin jakso?"
+  },
+  {
+    "nr": 477,
+    "tolge": "Jos $a\\equiv 16\\pmod{37}$ ja $b\\equiv 21\\pmod{37}$, niin mille joukon $\\{0,1,2,\\ldots,35,36\\}$ kokonaisluvulle $n$ pätee $$a-b\\equiv n\\pmod{37}~?$$"
+  },
+  {
+    "nr": 478,
+    "tolge": "Jos $3x^2-2(x^2+4)=42$, mikä on $x^4$:n arvo?"
+  },
+  {
+    "nr": 479,
+    "tolge": "Säteeltään 2 olevan puoliympyrän halkaisijalle $\\overline{AB}$ on piirretty kolme säteeltään 1 olevaa puoliympyrää. Pienten puoliympyröiden keskipisteet jakavat halkaisijan $\\overline{AB}$ neljään yhtä pitkään janaan, kuten kuvassa näkyy. Mikä on sen varjostetun alueen pinta-ala, joka sijaitsee suuren puoliympyrän sisällä mutta pienempien puoliympyröiden ulkopuolella? Ilmoita vastauksesi luvun $\\pi$ avulla ja mahdollisimman yksinkertaisessa juurimuodossa.\n\n[asy]\nfill((0,2)..(2,0)--(-2,0)..cycle,gray(0.7));\nfill((-1,1)..(0,0)--(-2,0)..cycle,white);\nfill((1,1)..(0,0)--(2,0)..cycle,white);\nfill((0,1)..(1,0)--(-1,0)..cycle,white);\ndraw((0,1)..(1,0)--(-1,0)..cycle,dashed);\ndraw((0,2)..(2,0)--(-2,0)..cycle);\nlabel(\"$A$\",(-2,0),W);\nlabel(\"$B$\",(2,0),E);\nlabel(\"1\",(-1.5,0),S);\nlabel(\"2\",(0,0),S);\nlabel(\"1\",(1.5,0),S);\ndot((0,0));\ndot((-1,0));\ndot((1,0));\ndraw((-2,-0.1)--(-2,-0.4));\ndraw((-1,-0.1)--(-1,-0.4));\ndraw((2,-0.1)--(2,-0.4));\ndraw((1,-0.1)--(1,-0.4));\n[/asy]"
+  },
+  {
+    "nr": 480,
+    "tolge": "Kuinka monella tavalla 4 samanlaista palloa voidaan sijoittaa 2 erilaiseen laatikkoon?"
+  },
+  {
+    "nr": 481,
+    "tolge": "Etsi yhtälön määrittämä käyrä\n\\[r = \\cos \\theta + \\sin \\theta.\\](A) Suora\n(B) Ympyrä\n(C) Parabola\n(D) Ellipsi\n(E) Hyperbeli\n\nAnna oikean vaihtoehdon kirjain."
+  },
+  {
+    "nr": 482,
+    "tolge": "Parametrikäyrä määritellään yhtälöllä\n\\[(x,y) = (\\sin^2 t, 2 \\cos t),\\]missä $t$ käy läpi kaikki reaaliluvut.\n\nSama parametrikäyrä voidaan määritellä yhtälöllä\n\\[(x,y) = (-s^2 - 2s, 2s + 2),\\]missä $s$ käy läpi jonkin välin $I.$ Määritä väli $I.$"
+  },
+  {
+    "nr": 483,
+    "tolge": "Jos $12^2 \\cdot 18^3 = 2^x \\cdot 3^y$, määritä $x+y$."
+  },
+  {
+    "nr": 484,
+    "tolge": "Palautetaan mieliin, että jos $b$ on jäännös $\\pmod{m}$, niin luvun $b$ modulaarikäänteisluku on se jäännös $c$, jolle $bc \\equiv 1\\pmod{m}$. Alla olevassa taulukossa on esitetty 9 ensimmäisen positiivisen jäännöksen käänteisluvut modulo 47.  \\begin{tabular}{c|ccccccccc}\n$b$ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\\ \\hline\nluvun $\\,b$ käänteisluku & 1 & 24 & 16 & 12 & 19 & 8 & 27 & 6 & 21\n\\end{tabular}Etsi luvun $35\\pmod{47}$ modulaarikäänteisluku.\n\nIlmoita vastauksesi kokonaislukuna väliltä $0$–$46$, päätepisteet mukaan lukien."
+  },
+  {
+    "nr": 485,
+    "tolge": "Jos kolmen reaaliluvun summa on $0$ ja niiden tulo on $17$, niin mikä on niiden kuutioiden summa?"
+  },
+  {
+    "nr": 486,
+    "tolge": "Etsi sen tason yhtälö, joka puolittaa tasojen $3x - 6y + 2z + 5 = 0$ ja $4x - 12y + 3z - 3 = 0,$ välisen kulman ja joka kulkee pisteen $(-5,-1,-5)$ kautta. Anna vastauksesi muodossa\n\\[Ax + By + Cz + D = 0,\\]missä $A,$ $B,$ $C,$ $D$ ovat kokonaislukuja siten, että $A > 0$ ja $\\gcd(|A|,|B|,|C|,|D|) = 1.$"
+  },
+  {
+    "nr": 487,
+    "tolge": "Kahden luvun summa on $3$. Lukujen neliöiden erotus on $33$. Mikä on näiden kahden luvun erotuksen itseisarvo?"
+  },
+  {
+    "nr": 488,
+    "tolge": "Kuvassa $D$ ja $E$ ovat vastaavasti janojen $\\overline{AB}$ ja $\\overline{BC}$ keskipisteet. Määritä nelikulmion $DBEF$ pinta-ala. [asy]\nsize(180); defaultpen(linewidth(.7pt)+fontsize(10pt));\npair A, B, C, D, E, F;\nA=(0,6);\nB=(0,0);\nC=(8,0);\nD=(0,3);\nE=(4,0);\nF=(8/3,2);\ndraw(E--A--C--D);\ndraw((-1,0)--(10,0), EndArrow);\ndraw((0,-1)--(0,8), EndArrow);\nlabel(\"$A(0,6)$\", A, W);\nlabel(\"$B(0,0)$\", B, SW);\nlabel(\"$C(8,0)$\", C, S);\nlabel(\"$D$\", D, W);\nlabel(\"$E$\", E, S);\nlabel(\"$F$\", F, SW);\nlabel(\"$x$\", (10,0), dir(0));\nlabel(\"$y$\", (0,8), dir(90));\n[/asy]"
+  },
+  {
+    "nr": 489,
+    "tolge": "Ensimmäisen $m$ positiivisen parittoman kokonaisluvun summa on 212 suurempi kuin ensimmäisen $n$ positiivisen parillisen kokonaisluvun summa. Mikä on kaikkien mahdollisten $n$:n arvojen summa?"
+  },
+  {
+    "nr": 490,
+    "tolge": "Olkoon\n\\[\\mathbf{A} = \\begin{pmatrix} 3 & 7 \\\\ -1 & -2 \\end{pmatrix},\\]laske $\\mathbf{A}^{27} + \\mathbf{A}^{31} + \\mathbf{A}^{40}.$"
+  },
+  {
+    "nr": 491,
+    "tolge": "Kuinka monta ei-kongruenttia kolmiota voidaan piirtää siten, että niiden kärjet ovat yksikkökuution kulmissa?"
+  },
+  {
+    "nr": 492,
+    "tolge": "Paljonko on $50\\%$ $200\\%$:sta luvusta $10$?"
+  },
+  {
+    "nr": 493,
+    "tolge": "Etsi vakio $a$ siten, että \\[(x^2 - 3x + 4)(2x^2 +ax + 7) = 2x^4 -11x^3 +30x^2 -41x +28.\\]"
+  },
+  {
+    "nr": 494,
+    "tolge": "Delilah kirjoittaa paperilapulle luvun $12$ positiiviset tekijät ja antaa sen Ezekielille. Jokaisen tekijän viereen Ezekiel kirjoittaa kaikki ne positiiviset kokonaisluvut, jotka ovat pienempiä tai yhtä suuria kuin kyseinen luku ja joilla ei ole kyseisen tekijän kanssa muita yhteisiä tekijöitä kuin $1.$ (Joten esimerkiksi Ezekiel kirjoittaa $``1\"$ jokaisen Delilahin kirjoittaman tekijän viereen.) Kuinka monta lukua Ezekiel kirjoittaa yhteensä?"
+  },
+  {
+    "nr": 495,
+    "tolge": "Millä $n$:n arvolla $(2^3)^4 = 2^n$?"
+  },
+  {
+    "nr": 496,
+    "tolge": "Alla on funktion $y = a \\cos bx$ kuvaaja joillakin positiivisilla vakioilla $a$ ja $b.$ Määritä $a.$\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal g(real x)\n{\n\treturn (3*cos(4*x));\n}\n\ndraw(graph(g,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5, 5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3), E);\nlabel(\"$-1$\", (0,-1), E);\nlabel(\"$-2$\", (0,-2), E);\nlabel(\"$-3$\", (0,-3), E);\n[/asy]"
+  },
+  {
+    "nr": 497,
+    "tolge": "Jos $(x,y) = (3,9)$, mikä on $y^2 - 3xy + 8$?"
+  },
+  {
+    "nr": 498,
+    "tolge": "Olkoot $a,$ $b,$ ja $c$ reaalilukuja siten, että $ab + ac + bc = 0$ ja $(a + b + c + 1)^2 = abc.$  Määritä kaikki mahdolliset arvot lausekkeelle\n\\[(ab - c)(ac - b)(bc - a).\\]Syötä mahdolliset arvot pilkuilla erotettuina.  Esimerkiksi jos mielestäsi mahdolliset arvot ovat 3, 4 ja 5, syötä \"3, 4, 5\" ilman lainausmerkkejä."
+  },
+  {
+    "nr": 499,
+    "tolge": "Yann ja Camille menevät ravintolaan. Jos ruokalistalla on 10 annosta ja kumpikin tilaa yhden annoksen, kuinka monta eri ateriayhdistelmää Yann ja Camille voivat tilata, jos he kieltäytyvät tilaamasta samaa annosta? (Sillä on väliä, kuka tilaa mitäkin — se, että Yann tilaa kanaa ja Camille kalaa, on eri asia kuin se, että Yann tilaa kalaa ja Camille kanaa.)"
+  }
+]
