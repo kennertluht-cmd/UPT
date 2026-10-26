@@ -2,7 +2,7 @@ import requests # t66riist veebipäringute saatmiseks
 from datasets import load_from_disk # tööriist, mis loeb andmestiku kettalt
 andmed = load_from_disk("Multilingual-Long-CoT/eval/benchmarks/mt-math-500") # andmestik muutujasse andmed
 
-nr = 475
+nr = 491
 juhis = "Please reason step by step, and put your final answer within \\boxed{}. Your thinking and final solution must be in English."
 kysimus = andmed[nr]["en"] + "\n" + juhis
 paring = {
