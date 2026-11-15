@@ -13,8 +13,8 @@ tolked = {} # tühi sõnastik
 for rida in tolked_list: # käi läbi kõik 500 rida
     tolked[rida["nr"]] = rida["tolge"] # võti on number, väärtus on tõlge
 
-read = []                       # tühi nimekiri, siia kogume read
-for nr in valitud:              # nr on järjest 475, 146, 271 ...
+read = []                       # tühi nimekiri siia kogume read
+for nr in valitud:              # nr on järjest 475, 146, 271 
     uus_rida = {
         "nr": nr,
         "tase": andmed[nr]["level"],
