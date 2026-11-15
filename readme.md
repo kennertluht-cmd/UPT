@@ -1,6 +1,6 @@
 # Keelemudelite arutluskeel eesti keeles (HTG 2026/2027 UPT)
 
-Uurin, kuidas arutluskeel mõjutab suurte keelemudelite vastuste täpsust matemaatikaülesannete lahendamisel. Uuringuks kasutan Barua jt (2026) uuringut "Long Chain-of-Thought Reasoning Across Languages". Jälgin nende uuringut võimalikult täpselt, et saaksin enda tulemusi võrrelda. Lisan uuringule juurde eesti keele ja võrdlen masintõlget käsitsi parandatud tõlkega.
+Uurin, kuidas arutluskeel mõjutab suurte keelemudelite vastuste täpsust matemaatikaülesannete lahendamisel. Uuringuks kasutan Barua jt (2026) uuringut "Long Chain-of-Thought Reasoning Across Languages". Jälgin nende uuringut võimalikult täpselt, et saaksin enda tulemusi võrrelda. Lisan uuringule juurde eesti keele.
 
 Juhendaja: Kristjan-Julius Laak (TÜ), Joana Jõgela (HTG)
 Põhineb: Barua jt (2026), https://github.com/Berkeley-NLP/Multilingual-Long-CoT
