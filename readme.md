@@ -32,8 +32,8 @@ Languages* (ICLR 2026), and extends it to Estonian.
 | `translate_fable.py` | Translates the 500 problems into Estonian |
 | `check_translation.py` | Checks that all translations exist and formulas did not change |
 | `translated_et_fable.json` | The Estonian translation (500 problems) |
-| `harjutused/` | Practice scripts written while learning (yl1–yl9) and two helper files used by `run_eval.py` |
-| `vana/` | Old files no longer used (first Gemini translation, earlier plan to check 150 translations by hand) |
+| `exercises/` | Practice scripts written while learning (yl1–yl9) and two helper files used by `run_eval.py` |
+| `archive/` | Old files no longer used (first Gemini translation, earlier plan to check 150 translations by hand) |
 
 ## How to run
 
@@ -49,6 +49,6 @@ Needs `OPENAI_API_KEY` (gpt-5-mini) and Barua et al.'s repository in
 
 - `run_eval.py` is adapted from Barua et al. (2026), `eval/eval.py`,
   https://github.com/Berkeley-NLP/Multilingual-Long-CoT (MIT License).
-- `harjutused/hendrycks_utils.py` is from EleutherAI lm-evaluation-harness.
-- `harjutused/language_validation.py` is from Barua et al., with Estonian added.
+- `exercises/hendrycks_utils.py` is from EleutherAI lm-evaluation-harness.
+- `exercises/language_validation.py` is from Barua et al., with Estonian added.
 - Scripts were written with help from Claude (Anthropic).

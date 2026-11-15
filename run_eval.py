@@ -29,7 +29,7 @@ import os
 import sys
 import time
 
-sys.path.insert(0, "harjutused")             # hendrycks_utils.py, language_validation.py (Estonian added)
+sys.path.insert(0, "exercises")             # hendrycks_utils.py, language_validation.py (Estonian added)
 sys.path.insert(0, "Multilingual-Long-CoT")  # Barua's repository (prompts)
 
 from hendrycks_utils import last_boxed_only_string, remove_boxed, is_equiv
