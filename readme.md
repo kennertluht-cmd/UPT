@@ -1,39 +1,54 @@
-# Keelemudelite arutluskeel eesti keeles (HTG 2026/2027 UPT)
+# UPT: Reasoning language and LLM accuracy on Estonian math problems
 
-Uurin, kuidas arutluskeel mõjutab suurte keelemudelite vastuste täpsust matemaatikaülesannete lahendamisel. Uuringuks kasutan Barua jt (2026) uuringut "Long Chain-of-Thought Reasoning Across Languages". Jälgin nende uuringut võimalikult täpselt, et saaksin enda tulemusi võrrelda. Lisan uuringule juurde eesti keele.
+Student research project (Hugo Treffneri Gümnaasium, 2026/2027).
 
-Juhendaja: Kristjan-Julius Laak (TÜ), Joana Jõgela (HTG)
-Põhineb: Barua jt (2026), https://github.com/Berkeley-NLP/Multilingual-Long-CoT
+Do large language models solve math problems less accurately when the question
+and the reasoning are in Estonian instead of English? The project replicates the
+MATH-500 part of Barua et al. (2026), *Long Chain-of-Thought Reasoning Across
+Languages* (ICLR 2026), and extends it to Estonian.
 
-## Failid
+## Experiment
 
-| Fail | Mida teeb |
+| Condition | Question | Reasoning |
+|---|---|---|
+| En-Only | English | English |
+| En-CoT | Estonian | English |
+| Target-CoT | Estonian | Estonian |
+
+- Models: DeepSeek-R1-Distill-Qwen 1.5B, 7B, 14B and 32B
+- Data: MATH-500 (500 problems), translated into Estonian with Claude Fable 5.2
+  (`claude-fable-5-2`) using Barua et al.'s translation prompt unchanged
+- Settings (as in Barua et al.): temperature 0.6, top_p 0.95, up to 32768 tokens,
+  one answer per problem (pass@1), language forcing in all conditions
+- Grading (as in Barua et al.): last `\boxed{}` answer checked with `is_equiv`,
+  then gpt-5-mini; language checked with Lingua. An answer counts as correct only
+  if both the answer and the language are correct.
+
+## Files
+
+| File | What it is |
 |---|---|
-| `harjutused/yl1.py` | andmestiku tundmaõppimine, ülesanded raskustasemete kaupa |
-| `harjutused/yl2.py` | 150 ülesande valik kolmest raskusrühmast, seeme 20262609 |
-| `harjutused/yl3.py` … `yl3d.py` | masintõlge Gemini 3.6 Flashiga Barua jt viiba järgi |
-| `harjutused/yl4.py` | kontrolltabel 150 ülesande käsitsi kontrolliks |
-| `harjutused/yl5.py` | esimene päring mudelile Ollama kaudu |
-| `harjutused/yl6.py` | kolm tingimust (En-Only, En-CoT, Target-CoT) ja keele sundimine |
-| `harjutused/yl7.py` | vastuste hindamine (lm-evaluation-harness, nagu Barua jt) |
-| `harjutused/yl8.py` | keelekontroll (Barua jt language_validation.py, eesti keel lisatud) |
-| `harjutused/yl9.py` | kogu katse ühes failis, proov 3 ülesandega |
-| `valitud_150.json` | käsitsi kontrollitavate ülesannete numbrid |
-| `tolked_et.json`, `tolked_fi.json` | 500 masintõlget eesti ja soome keelde |
+| `run_eval.py` | Main experiment script (Ollama for local tests, vLLM on a rented GPU) |
+| `translate_fable.py` | Translates the 500 problems into Estonian |
+| `check_translation.py` | Checks that all translations exist and formulas did not change |
+| `translated_et_fable.json` | The Estonian translation (500 problems) |
+| `harjutused/` | Practice scripts written while learning (yl1–yl9) and two helper files used by `run_eval.py` |
+| `vana/` | Old files no longer used (first Gemini translation, earlier plan to check 150 translations by hand) |
 
-## Kuidas käivitada
+## How to run
 
-1. Klooni Barua jt repo kausta `Multilingual-Long-CoT`.
-2. Tee virtuaalkeskkond ja paigalda teegid:
-   `pip install datasets pandas openpyxl requests google-genai lingua-language-detector`
-3. Gemini API võti peab olema keskkonnamuutujas `GEMINI_API_KEY` (mitte koodis).
-4. Mudelite jaoks paigalda Ollama ja `ollama pull deepseek-r1:1.5b`.
-5. Käivita failid kaustast `upt`, näiteks `python harjutused/yl9.py`.
+```
+python run_eval.py --backend ollama --model 1.5B --condition all --limit 3   # test on a Mac
+python run_eval.py --backend vllm --model 7B --condition all                 # main run on a GPU
+```
 
-## Muudatused Barua jt koodis
+Needs `OPENAI_API_KEY` (gpt-5-mini) and Barua et al.'s repository in
+`Multilingual-Long-CoT/` (not included here).
 
-- `harjutused/language_validation.py`: lisatud eesti keel (`"Estonian": LinguaLanguage.ESTONIAN`).
+## Credits
 
-## Tehisaru kasutus
-
-Koodi kirjutamisel ja selgitamisel kasutasin Claude'i juhendamist, tõlkimiseks Gemini 3.6 Flashi. Täpsem kirjeldus on töölogis.
+- `run_eval.py` is adapted from Barua et al. (2026), `eval/eval.py`,
+  https://github.com/Berkeley-NLP/Multilingual-Long-CoT (MIT License).
+- `harjutused/hendrycks_utils.py` is from EleutherAI lm-evaluation-harness.
+- `harjutused/language_validation.py` is from Barua et al., with Estonian added.
+- Scripts were written with help from Claude (Anthropic).
