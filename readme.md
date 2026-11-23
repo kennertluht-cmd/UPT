@@ -32,6 +32,8 @@ Languages* (ICLR 2026), and extends it to Estonian.
 | `translate_fable.py` | Translates the 500 problems into Estonian |
 | `check_translation.py` | Checks that all translations exist and formulas did not change |
 | `translated_et_fable.json` | The Estonian translation (500 problems) |
+| `pilot_2026-11-23.md` | First test run on a rented GPU (1.5B, 20 problems) |
+| `results/` | Model answers and grades (`ollama/` = Mac tests, `vllm/` = GPU runs) |
 | `exercises/` | Practice scripts written while learning (yl1–yl9) and two helper files used by `run_eval.py` |
 | `archive/` | Old files no longer used (first Gemini translation, earlier plan to check 150 translations by hand) |
 
